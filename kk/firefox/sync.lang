@@ -1,11 +1,3 @@
-## active ##
-## firefox_sync_mobile_buttons_update ##
-## firefox_sync_non_fx ##
-## fx38_sync_updates ##
-## ios_announce ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
-
-
 ;Keep your Firefox in sync
 Firefox-ты синхронды ұстаңыз
 
@@ -51,6 +43,7 @@ Firefox-ты енді өзіңіздің iOS және Android құрылғыла
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
+# This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
 Firefox ішінде келетін синхрондау - тек оның көптеген тамаша мүмкіндіктердің біреуі ғана.
 
@@ -77,20 +70,25 @@ Firefox-ты жүктеп алу
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
+# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
 Firefox-тың жоғарғы оң жағындағы <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">мәзірді</a> ашып, "<strong>Синхрондауға кіру</strong>" таңдаңыз
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
 Ашылған бетте "<strong>Жұмысты бастау</strong>" шертіңіз.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
+# (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
 "<strong>Firefox тіркелгісін</strong>" жасау үшін эл. пошта және парольді енгіңіз
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
 Эл. поштаңызға растау сілтемесін алу үшін "<strong>Келесі</strong>" шертіңіз.
@@ -109,10 +107,13 @@ Firefox-тың жоғарғы оң жағындағы <a class="menu ga-link" da
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
 Синхрондауды бес оңай қадамда баптау:
 
 
+# <strong> tags below used for font color formatting.
+# This string is displayed on Android devices
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
@@ -120,25 +121,30 @@ Firefox-тың жоғарғы оң жағындағы <a class="menu ga-link" da
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
 <strong>Баптаулар</strong> таңдаңыз (алдымен <strong>Көбірек</strong> таңдау керек болуы мүмкін).
 
 
+# This string is displayed on Android devices
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
 <strong>Синхрондау</strong> басып, <strong>Бастау үшін</strong> таңдаңыз.
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
 Жаңа бетте <strong>Firefox тіркелгісін жасау беті</strong> ашылады.
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
 Форманы толтырып, <strong>Келесі</strong> басыңыз.
 
 
+# This string is displayed on Android devices
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
 Эл. поштаңызды тексеріп, растау сілтемесіне шерткеннен кейін дайын боласыз! Синхрондаудың барлық мүмкіндіктерін алу үшін басқа барлық құрылғыларыңызды да байланыстыруды ұмытпаңыз.
