@@ -1,12 +1,10 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/fast/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — The "speed king" - The fastest browser on the Web
 பயர்பாக்ஸ் — "வேகத்தில் ராஜா" - இணையத்தின் மிக வேகமான உலாவி
 
 
+# Main title
 # Main title
 ;Faster than ever
 இதுவரை கண்டிராத வேகம்
@@ -17,6 +15,7 @@
 
 
 # L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 ;It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 தொழில்நுட்ப வரையறைகளிலும் சரி <br class="wide-br"> நீங்கள் அன்றாடம் பயன்படுத்தும் பணிகளிலும் சரி, இது சிறந்து விளங்குகிறது.
 
@@ -25,6 +24,7 @@
 "வேகத்தில் மன்னன்"
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
 Firefox - மற்ற உலாவிகளை விட சிறப்பாக செயல்படுவதாக சமீபத்திய சார்பற்ற சோதனைகள் தெறிவிக்கின்றன.<br class="wide-br"><a href="%(url1)s" data-interaction="outbound link">“வேகத்தின் ராஜா”</a>
@@ -58,6 +58,7 @@ Firefox இணைய விளையாட்டுக்களை முன்�
 நீங்கள் யன்படுத்துவதற்கு ஏற்ப நாங்கள் பயர்பாக்ஸை மேம்படுதுகிறோம்.
 
 
+# L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 ;So things like opening or switching <br class="wide-br">between tabs and getting results from the Awesome Bar happen faster than ever.<br class="wide-br">
 எனவே <br class="wide-br"> கீற்றுகளைத் திறப்பது அவற்றினூடே தாவுவது போன்ற செயல்களும் Awesome Barஇனின்று தேடல்களை பெறுவதும் என்றும் இல்லாத வேகத்துடம் இப்பொழுது நடக்கும்.<br class="wide-br">
