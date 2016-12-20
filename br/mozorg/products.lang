@@ -1,7 +1,3 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/products/
-
-
 ;Mozilla Products — Built by us, for the Web
 Kenderc'hadoù Mozilla savet ganeomp, evit ar web
 
@@ -23,10 +19,12 @@ Urzhiataer Burev
 
 
 # Firefox Desktop
+# Firefox Desktop
 ;The free, non-profit browser for your desktop.
 Ar merdeer digor ha digoust evit hoc'h urzhiataer burev.
 
 
+# Firefox for Android
 # Firefox for Android
 ;The fast, smart, safe choice for Android browsing.
 An dibab herrekañ, speredekañ ha diarvarusañ evit merdeiñ dre Android.
@@ -37,60 +35,72 @@ Reizhiad Korvoiñ
 
 
 # Firefox OS
+# Firefox OS
 ;An open operating system for mobile devices.
 Ur reizhiad korvoiñ evit an trevnadoù hezouk.
 
 
+# Open Badges
 # Open Badges
 ;A new standard to recognize and verify learning.
 Ur skouer nevez da anavezout ha gwiriañ ar c'helenn.
 
 
 # Marketplace
+# Marketplace
 ;A creation and distribution platform for apps.
 Ur savenn grouiñ ha dasparzhañ evit arloadoù.
 
 
+# Persona
 # Persona
 ;A better way to sign in to websites.
 Un doare gwell d'en em gennaskañ ouzh lec'hiennoù.
 
 
 # Thunderbird
+# Thunderbird
 ;Safe, fast and easy email.
 Posteloù aes, herrek ha diarvar.
 
 
+# Webmaker
 # Webmaker
 ;Make something amazing with the Web.
 Grit un dra estlammus gant ar Web.
 
 
 # WebFWD
+# WebFWD
 ;Our community-driven innovation accelerator.
 Herrekaer an nevezadennoù o tont eus hor c'humuniezh sturiet.
 
 
+# Labs
 # Labs
 ;New ways to explore, experiment and innovate.
 Doareoù nevez da ergerzhout, prouadiñ ha neveziñ.
 
 
 # Bugzilla
+# Bugzilla
 ;A bug tracking system to help manage software development.
 Ur reizhiad da heuliañ ar beugoù a-benn skoazellañ ardoadur an diorren meziantoù.
 
 
+# Firebug
 # Firebug
 ;Inspect, debug, analyze and more inside your browser.
 Dinoiñ, diveugañ, dezrannañ ha traoù all e-barzh ho merdeer.
 
 
 # Gecko
+# Gecko
 ;The layout engine that drives Firefox.
 Keflusker ar pajennaozañ a ren war Firefox.
 
 
+# XULRunner
 # XULRunner
 ;An environment for XUL-based applications.
 Un amva evit an arloadoù diazezet war XUL.
