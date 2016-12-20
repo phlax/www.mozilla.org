@@ -1,8 +1,3 @@
-## active ##
-## NOTE: demo server at https://www-dev.allizom.org/firefox/36.0/firstrun/ and https://www-dev.allizom.org/firefox/36.0/whatsnew/?oldversion=35.0
-## NOTE: pages are still in development.
-
-
 ;Open tour
 Beskou 'n toer
 
@@ -20,10 +15,12 @@ Neem 'n toer en sien wat is nuut
 
 
 # “Firefox Hello” is the product name and should not be localized
+# “Firefox Hello” is the product name and should not be localized
 ;Firefox Hello is the easiest way to connect with friends and family for free over video.
 Firefox Hello is die maklikste manier om gratis met vriende en familie 'n videogesprek te hê.
 
 
+# %s will be replaced by an image of Telefonica's logo.
 # %s will be replaced by an image of Telefonica's logo.
 ;Powered by %s
 Aangedryf deur %s
@@ -42,15 +39,18 @@ Gesels met enigiemand met video reg nou uit Firefox
 
 
 # “Firefox Hello” is the product name and should not be localized
+# “Firefox Hello” is the product name and should not be localized
 ;Get to know Firefox Hello
 Leer ken Firefox Hello
 
 
 # “Firefox Hello” is the product name and should not be localized
+# “Firefox Hello” is the product name and should not be localized
 ;<span>Previous:</span> Firefox Hello
 <span>Vorige:</span> Firefox Hello
 
 
+# “Hello” is the product name and should not be localized
 # “Hello” is the product name and should not be localized
 ;Meet Hello
 Ontmoet Hello
@@ -73,15 +73,18 @@ Mens kan gratis videogesprekke voer direk vanaf die Firefox-blaaier.
 
 
 # This is the label that represents tour step one of two
+# This is the label that represents tour step one of two
 ;1/2
 1/2 {ok}
 
 
 # This is the label that represents tour step two of two
+# This is the label that represents tour step two of two
 ;2/2
 2/2 {ok}
 
 
+# “Firefox Hello” is the product name and should not be localized
 # “Firefox Hello” is the product name and should not be localized
 ;Want to reconnect with friends around the world? Celebrate a birthday when you can’t be there in person? Try Firefox Hello — the easiest way to have a free video conversation with anyone, anywhere.
 Lus om weer kontak te maak met vriende regoor die wêreld? Om 'n verjaarsdag te vier wat nie bygewoon kon word nie? Probeer Firefox Hello — die maklikste manier om gratis videogesprekke te voer met enigiemand, enige plek.
@@ -91,6 +94,7 @@ Lus om weer kontak te maak met vriende regoor die wêreld? Om 'n verjaarsdag te 
 <span>Volgende:</span> Begin so
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Free video conversations,<br> right from Firefox
 Gratis videogesprekke,<br> direk uit Firefox
@@ -113,6 +117,7 @@ Hou gesprekke binne bereik met een klik
 
 
 # "Hello” is the product name and should not be localized
+# "Hello” is the product name and should not be localized
 ;Add Hello to your toolbar so it’s here whenever you need it.
 Voeg Hello by die nutsbalk dan is dit altyd beskikbaar is.
 
@@ -130,6 +135,7 @@ Perfek!
 
 
 # “Hello” is the product name and should not be localized
+# “Hello” is the product name and should not be localized
 ;Now using Hello will be even easier. To move or remove the icon, just open the menu and select Customize.
 Nou is dit selfs nog makliker om Hello te gebruik. Om dit te skuif of te verwyder, open die kieslys en kies Doelmaak.
 
@@ -143,10 +149,13 @@ Eerder later byvoeg?
 
 
 # “Firefox Hello” is the product name and should not be localized
+# “Firefox Hello” is the product name and should not be localized
 ;No problem. Just open this menu, select Customize and simply drag the Hello icon into your toolbar.
 Geen probleem nie. Maak dié kieslys oop, kies Doelmaak, en sleep die Hello-ikoon na die nutsbalk.
 
 
+# In this case 'hello' is simply a greeting, not the product name. The message is that Firefox Hello is easy to use, as easy as greeting someone.
+# An alternative headline could be "The easiest way to connect".
 # In this case 'hello' is simply a greeting, not the product name. The message is that Firefox Hello is easy to use, as easy as greeting someone.
 # An alternative headline could be "The easiest way to connect".
 ;As easy as saying hello
@@ -186,20 +195,24 @@ Dis die vinnigste, mees aanpasbare Firefox ooit.
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 1/4 {ok}
 
 
+# This is the label that represents tour step two of four
 # This is the label that represents tour step two of four
 ;2/4
 2/4 {ok}
 
 
 # This is the label that represents tour step three of four
+# This is the label that represents tour step three of four
 ;3/4
 3/4 {ok}
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 4/4 {ok}
@@ -214,15 +227,18 @@ Verbonde tot u, u privaatheid en die Oop Web.
 
 
 # “Hello” is the product name and should not be localized
+# “Hello” is the product name and should not be localized
 ;Get to know Hello
 Leer ken Hello
 
 
 # “Firefox Hello” is the product name and should not be localized
+# “Firefox Hello” is the product name and should not be localized
 ;<span>Next:</span> Firefox Hello
 <span>Volgende:</span> Firefox Hello
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 Dit begin met die intuïtiewe,<br> nuut ontwerpte kieslys
@@ -257,6 +273,7 @@ Kies hoe om te soek
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Introducing a smarter <br>way to search
 Ons bied nou 'n <br>beter manier om te soek
 
@@ -277,6 +294,7 @@ Gebruik die sterretjie om 'n boekmerk te skep
 <span>Vorige:</span> Soek
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 Gunstelingwerwe<br> is nader as ooit
