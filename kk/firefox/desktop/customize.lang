@@ -1,7 +1,3 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/customize/
-
-
 ;Firefox — Customize and make it your own — The most flexible browser on the Web
 Firefox — Оны өзіңіз үшін ыңғайлаңыз — Интернеттегі ең икемді браузер
 
@@ -22,6 +18,7 @@ Firefox-ты өзіңізге ұнайтындай етіп баптау жән�
 Firefox-ты өзіңіз үшін баптау
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Designed to <br class="wide-br">be redesigned
 Дизайнын икемді етіп өзгертуге болатындай <br class="wide-br">етіп жасалған
