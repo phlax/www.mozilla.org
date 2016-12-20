@@ -1,11 +1,3 @@
-## active ##
-## firefox_sync_mobile_buttons_update ##
-## firefox_sync_non_fx ##
-## fx38_sync_updates ##
-## ios_announce ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
-
-
 ;Keep your Firefox in sync
 Mirit ho Firefox goubredet
 
@@ -51,6 +43,7 @@ Goubredit Firefox gant hoc'h iOS hag Android adalek bremañ.
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
+# This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
 Unan eus ar c'heweriusterioù dreist a gavot e Firefox eo Sync.
 
@@ -77,20 +70,25 @@ Deraouit gant Sync dre 4 faz aes :
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
+# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
 Digorit al <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">lañser</a> e lein war tu dehou Firefox ha diuzit "<strong>Kennaskañ ouzh Sync.</strong>"
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
 Klikit “<strong>Deraouiñ</strong>” en ivinell a zigor.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
+# (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
 Enankit ur chomlec'h postel hag ur ger-tremen e "<strong>Krouiñ ur gont Firefox</strong>".
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
 Klikit war "<strong>War-lec'h</strong>" da gaout ur gwiriadur kaset d'ho postel.
@@ -109,10 +107,13 @@ Emaoc'h oc'h ober gant un handelv koshoc'h eus Sync?
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
 Penaos kefluiañ Sync dre bemp paz aez :
 
 
+# <strong> tags below used for font color formatting.
+# This string is displayed on Android devices
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
@@ -120,25 +121,30 @@ Pouezit war afell al <strong>Lañser</strong> (pe e traoñ ar skramm pe e korn d
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
 Diuzit <strong>Arventennoù</strong> (marteze e vo ret deoc'h pouezañ ar <strong>Muioc'h</strong> da gentañ).
 
 
+# This string is displayed on Android devices
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
 Pouezit war <strong>Goubredañ</strong> ha war-lerc'h <strong>Deraouiñ</strong>.
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
 Ar <strong>bajenn Krouiñ ur gont evit Firefox</strong> a zigoro en un ivinell nevez.
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
 Leugnit ar furmskrid ha klikit war <strong>War-lerc'h</strong>.
 
 
+# This string is displayed on Android devices
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
 Goude bet gwiriet ho postel ha kliket war an ere gwiriañ e viot prest da zont ! Na ankouait ket kennaskañ ho trevnadoù all da gaout ar pep gwellañ eus Sync.
