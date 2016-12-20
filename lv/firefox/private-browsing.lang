@@ -1,16 +1,16 @@
-## NOTE: demo page at https://www-dev.allizom.org/firefox/private-browsing
-
-
+# HTML Title attribute
 # HTML Title attribute
 ;Firefox Web browser — Private Browsing with Tracking Protection — Mozilla
 Firefox Web browser — Private Browsing with Tracking Protection — Mozilla
 
 
 # Meta tag (description)
+# Meta tag (description)
 ;Get more protection and the most privacy, only from Firefox. No other browser gives you so much control over your digital footprint.
 Get more protection and the most privacy, only from Firefox. No other browser gives you so much control over your digital footprint.
 
 
+# the <br> tags below are for visual formatting only.
 # the <br> tags below are for visual formatting only.
 ;More protection. <br>The most privacy. <br>Only from Firefox.
 Vairāk aizsardzības. <br>Maksimāls privātums. <br>Tikai ar Firefox.
@@ -21,10 +21,12 @@ Izmēģiniet Privāto pārlūkošanu
 
 
 # Displayed to non Firefox users
+# Displayed to non Firefox users
 ;To give the new Private Browsing a try, download Firefox.
 Lai izmēģinātu privāto pārlūkošanu, lejupielādējiet FIrefox
 
 
+# Displayed to Firefox users on old versions
 # Displayed to Firefox users on old versions
 ;Your Firefox is not up to date. Download the latest version to use the new Private Browsing.
 Jums nav pēdējā Firefox versiju. Lejupielādējiet pēdējo versiju lai izmantot jauno privāto pārlūkošanu.
