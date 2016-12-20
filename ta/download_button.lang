@@ -1,6 +1,3 @@
-## NOTE: Strings used in our download buttons. Test area: https://www-dev.allizom.org/styleguide/all-download-buttons/
-
-
 ;Download Firefox
 பயர்பாக்ஸை பதிவிறக்கு
 
@@ -53,6 +50,7 @@ Firefox Beta {ok}
 இலவச பதிவிறக்கம்
 
 
+# Displayed in the download button for users of old versions of Firefox (should be short)
 # Displayed in the download button for users of old versions of Firefox (should be short)
 ;Update your Firefox
 உங்கள் பயர்பாக்ஸை புதுப்பி
