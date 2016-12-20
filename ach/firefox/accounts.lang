@@ -1,11 +1,10 @@
-## NOTE: demo page available at https://www-dev.allizom.org/firefox/accounts/
-
-
+# Used as part of HTML title
 # Used as part of HTML title
 ;Get a Firefox Account
 Nong akaunt me Firefox
 
 
+# Used as HTML description
 # Used as HTML description
 ;Get easy access to your bookmarks, passwords, tabs and more from any computer or mobile device running Firefox.
 Get easy access to your bookmarks, passwords, tabs and more from any computer or mobile device running Firefox.
@@ -20,35 +19,42 @@ With a Firefox Account, you can get all your bookmarks, passwords, open tabs and
 
 
 # Ordered list (item #1) displayed to Firefox users not logged in into a Firefox Account
+# Ordered list (item #1) displayed to Firefox users not logged in into a Firefox Account
 ;Sign up for a Firefox Account
 Cone pi akaunt me Firefox
 
 
+# Ordered list (item #2) displayed to Firefox users not logged in into a Firefox Account
 # Ordered list (item #2) displayed to Firefox users not logged in into a Firefox Account
 ;Sign in everywhere you use Firefox
 Sign in everywhere you use Firefox
 
 
 # Ordered list (item #3) displayed to Firefox users not logged in into a Firefox Account
+# Ordered list (item #3) displayed to Firefox users not logged in into a Firefox Account
 ;Sync what you want
 Sync what you want
 
 
+# Displayed to Firefox users already signed-in
 # Displayed to Firefox users already signed-in
 ;You’re signed in and ready to start using Sync.
 You’re signed in and ready to start using Sync.
 
 
 # Displayed to Firefox for iOS users
+# Displayed to Firefox for iOS users
 ;Set up Sync for iOS
 Set up Sync for iOS
 
 
 # Displayed to Firefox for Android users
+# Displayed to Firefox for Android users
 ;Set up Sync on your <br>Android device
 Set up Sync on your <br>Android device
 
 
+# Displayed to non-Firefox browsers
 # Displayed to non-Firefox browsers
 ;Download Firefox to start using Sync.
 Download Firefox to start using Sync.
