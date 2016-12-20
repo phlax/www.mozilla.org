@@ -4,30 +4,37 @@ Navigacion
 
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
 <span>per</span> ordenadors
 
 
+# Firefox family navigation menu. Main level item.
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
 Firefox <span>per</span> Android
 
 
 # Firefox family navigation menu. Main level item.
+# Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
 <span>per</span> iOS
 
 
+# Firefox family navigation menu. Main level item.
 # Firefox family navigation menu. Main level item.
 ;OS
 OS {ok}
 
 
 # Used for the navigation menu only in Firefox OS pages
+# Used for the navigation menu only in Firefox OS pages
 ;TV
 TV
 
 
+# Used for the navigation menu, points to /firefox/channel
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
@@ -35,60 +42,73 @@ Pre-release downloads
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
 Pels ordenadors
 
 
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
 Pels telefòns e las tauletas
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
+# Firefox family navigation menu. Second-level item shared across different menus.
 ;Overview
 Vista d’ensemble
 
 
+# Firefox family navigation menu. Second-level item shared across different menus.
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
 Fisable
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
+# Firefox family navigation menu. Second-level item shared across different menus.
 ;Flexible
 Flexible {ok}
 
 
+# Firefox family navigation menu. Second-level item shared across different menus.
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Fast
 Rapid
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 A prepaus
 
 
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
 Aparelhs
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
 Partenariats
 
 
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
 Apps {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Me pistar pas
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
 Vinhetas
@@ -96,50 +116,61 @@ Vinhetas
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
 Tablèu de bòrd dels centres d’interès
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
 Developer Edition {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
 Navigacion privada
 
 
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
 Besonh d'ajuda&nbsp;?
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Actualitats
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
 Pels desvolopaires
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
 Localizar mon aparelh
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
 Desvolopaires
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
 Causissètz lo navigador independent
 
 
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 Firefox es gratuit, de tòca non lucrativa e sens compromés. Causir Firefox, es pas solament causir un navigador, es votar per la libertat individuala.
@@ -206,10 +237,12 @@ Autras lengas&nbsp;:
 
 
 # Will replace "Other languages" for the footer's language switcher
+# Will replace "Other languages" for the footer's language switcher
 ;Page language:
 Page language:
 
 
+# Year / Month / Day, indicate your prefered date format for your language
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %Y-%m-%d {ok}
@@ -220,10 +253,12 @@ Mencions legalas
 
 
 # Used as link in the footer
+# Used as link in the footer
 ;Cookies
 Cookies {ok}
 
 
+# Used as link in the footer
 # Used as link in the footer
 ;Firefox Affiliates
 Collaboradors de Firefox
@@ -278,6 +313,7 @@ Seguent
 
 
 # MegaBytes abbreviation
+# MegaBytes abbreviation
 ;MB
 Mo
 
@@ -307,6 +343,7 @@ Mesa a jorn gratuita
 
 
 # social networks such as Facebook and Twitter
+# social networks such as Facebook and Twitter
 ;Follow us on:
 Seguissètz-nos sus&nbsp;:
 
@@ -320,10 +357,12 @@ Ne saber mai
 
 
 # Same as previous above but with no capitalization on More
+# Same as previous above but with no capitalization on More
 ;Learn more
 Ne saber mai
 
 
+# Link used to play again an animation or a video
 # Link used to play again an animation or a video
 ;Replay
 Rejogar l’animacion
@@ -414,230 +453,276 @@ Aparelhs preses en carga
 
 
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
 Qué de nòu
 
 
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 ;Privacy
 Voda privada
 
 
 # Footer string
+# Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 D'unas partidas d'aqueste contengut son ©1998–%(current_year)s pels contributors. Lo contengut es disponible jos <a href="%(url)s">licence Creative Commons</a>.
 
 
+# Footer string (will replace "Contribute to this page")
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
 Contribuissètz a aquesta pagina
 
 
 # Footer string
+# Footer string
 ;Contribute to this page
 Contribuissètz a aquesta pagina
 
 
+# Top menu item
 # Top menu item
 ;Mission
 Mission {ok}
 
 
 # Footer item on some pages to link to a tour of features
+# Footer item on some pages to link to a tour of features
 ;Tour
 Torn
 
 
+# Footer item
 # Footer item
 ;Partner with Us
 Partenariats
 
 
 # Top menu item on pages like firefox/desktop/tips/
+# Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync {ok}
 
 
+# Top menu item on pages like firefox/desktop/tips/
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
 Moduls complementaris (ordenadors)
 
 
 # Top menu item on pages like firefox/desktop/tips/
+# Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
 Moduls Android
 
 
+# Top menu item on pages like firefox/desktop/tips/
 # Top menu item on pages like firefox/desktop/tips/
 ;Themes
 Tèmas
 
 
 # Top menu item on pages like firefox/desktop/tips/
+# Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
 Ordenadors
 
 
+# Top menu item on pages like firefox/desktop/tips/
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
 Assisténcia Android
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Performance
 Performàncias
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Technology
 Tecnologia
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Privacy &amp; Security
 Vida privada e seguretat
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Releases
 Versions
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Firefox
 Firefox {ok}
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Firefox for Organizations
 Firefox per las entrepresas
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Mobile Add-ons
 Moduls complementaris (aparelhs mobils)
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Mobile Support
 Aparelhs mobils
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Blog
 Blog {ok}
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;About Firefox
 A prepaus de Firefox
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Join Mozilla
 Rejonhètz Mozilla
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Participate
 Participar
 
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
 Contribuir
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Brand Toolkit
 Guida d'estil
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Partnerships
 Partenariats
 
 
+# Newsletter subscription form above footer on some pages
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
 Las nòvas de Mozilla
 
 
 # share button for social networks
+# share button for social networks
 ;Share
 Partejar
 
 
+# footer link
 # footer link
 ;Mozilla on Twitter
 Mozilla sus Twitter
 
 
 # footer link
+# footer link
 ;Firefox on Twitter
 Firefox sus Twitter
 
 
+# footer link
 # footer link
 ;Mozilla on Facebook
 Mozilla sus Facebook
 
 
 # footer link
+# footer link
 ;Firefox on Facebook
 Firefox sus Facebook
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
 Forums {ok}
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
 Patents
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
 Direccion
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
 Governança
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
 Istòria
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
 Nòstres logicials
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
 Logicials e autras innovacions concebuts per sosténer nòstra mission.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
 Venètz benevòl dins fòrça domenis possibles
 
 
+# This is a non-visible string for blind people to indicate where the menu is
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
 Menú
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Engatjat per vos, vòstra vida privada e lo Web dobèrt
 
 
+# Common title used in Fx 10 pages
 # Common title used in Fx 10 pages
 ;Choose Independent
 Causissètz la libertat
@@ -645,20 +730,25 @@ Causissètz la libertat
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
 Batèm-nos amassa per qu’Internet demòre liure e dobèrt ! #ChooseIndependent. Causissètz Firefox :
 
 
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
 Activatz JavaScript per afichar corrèctament aquesta pagina.
 
 
 # Used as link to /firefox/desktop in footers on some pages
+# Used as link to /firefox/desktop in footers on some pages
 ;Firefox Features
 Foncionalitats de Firefox
 
 
+# Used as link to SUMO in footers on some pages
 # Used as link to SUMO in footers on some pages
 ;Firefox Help
 Ajuda de Firefox
@@ -761,6 +851,7 @@ decembre
 
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
 Firefox serà lèu disponible sus iOS&nbsp;! <a href="{url}">Abonatz-vos a la letra d’informacion per mancar pas res</a>.
 
@@ -770,20 +861,24 @@ Felicitacions. Sètz a jorn !
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
 ;Format
 Format {ok}
 
 
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;Text
 Tèxte
 
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
 HTML {ok}
 
 
+# This is the error message displayed if you provide an invalid email address in a form
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 Atencion, asseguratz-vos qu'avètz picat una adreça valida.
@@ -798,25 +893,30 @@ J’accepte que Mozilla utilise mes informations conformément à <a href="%s">c
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
 Keep up with<br> all things Firefox.
 
 
+# This string is used for a subscription field on other pages than /newsletter/
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Recebètz nòstra letra mesadièra
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
+# This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
 VÒSTRE EMAIL AICÍ
 
 
 # Newsletter subscription Button
+# Newsletter subscription Button
 ;Sign Up Now
 Sign Up Now
 
 
+# Old newsletter subscription Button
 # Old newsletter subscription Button
 ;Sign me up
 Inscrivètz-me
@@ -843,10 +943,12 @@ If you haven’t previously confirmed a subscription to a Mozilla-related newsle
 
 
 # Obsolete string. Do not remove.
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Mercé ! Consultats vòstra bóstia de corrièr per confirmar vòstra inscripcion.
 
 
+# Obsolete string. Do not remove.
 # Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Anatz recebrr un messatge de mozilla@e.mozilla.org per confirmar vòstre abonament. Se lo vesètz pas dins vòstre bóstia de letras, verificatz qu'es pas anat se metre dins los corrièrs indesirables. Vos caldrà confirmar vòstre abonament per recebre nòstra letra d'informacions.
@@ -868,6 +970,7 @@ Abonatz-vos per èsser informat cada mes de totas las mesas a jorn e de las nove
 Get Firefox tips, tricks, news and more
 
 
+# This string will be used as a navigation label in home page, pointing to /technology
 # This string will be used as a navigation label in home page, pointing to /technology
 ;Web Innovations
 Web Innovations
