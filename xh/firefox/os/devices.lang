@@ -1,17 +1,16 @@
-## active ##
-## NOTE: page is https://www-dev.allizom.org/firefox/os/devices/
-
-
+# Page title
 # Page title
 ;Firefox OS - Devices &amp; Availability
 i-Firefox OS - Idivayisi &amp; Ufumaneko
 
 
 # Main title - <br> tag below used for formatting only.
+# Main title - <br> tag below used for formatting only.
 ;Find Firefox OS <br>near you
 Fumana i-Firefox OS <br>ekufutshane kuwe
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Explore <br>Firefox OS devices
 Phonononga <br>izixhobo ze-Firefox OS
@@ -166,6 +165,7 @@ iUruguay
 
 
 # The following countries are not currently sold online. We'll keep them around in case they come back
+# The following countries are not currently sold online. We'll keep them around in case they come back
 ;Australia
 I-Australia
 
@@ -255,6 +255,7 @@ Efumanekayo
 
 
 # Alcatel One Touch slogan
+# Alcatel One Touch slogan
 ;Set your world on fire
 Yenza ilizwe lakho livuthe ngomlilo
 
@@ -280,6 +281,7 @@ Ibhrendi
 
 
 # Features panel
+# Features panel
 ;Available in
 Efumanekayo ku
 
@@ -296,6 +298,7 @@ Ikhamera yangasemva
 Indawo yokugcina efumanekayo yesiqulatho somsebenzisi iyahlukana ngokuxhomekeke kwinguqulelo kwaye inokuguquka ngokusekeke kwizihlaziyi zesoftwe yefowuni kunye nosetyenziso lwee-app.
 
 
+# Specifications panel
 # Specifications panel
 ;Screen
 Isikrini
@@ -374,6 +377,7 @@ Unomathotholo
 
 
 # Storage/Memory
+# Storage/Memory
 ;128 MB
 i-128 MB
 
@@ -439,6 +443,7 @@ i-MicroSD ukuya kwi-4 GB
 
 
 # Weight/Dimensions
+# Weight/Dimensions
 ;70 x 139 x 10.5 mm
 70 x 139 x 10.5 mm {ok}
 
@@ -492,6 +497,7 @@ i-MicroSD ukuya kwi-4 GB
 
 
 # Processor
+# Processor
 ;Qualcomm Snapdragon MSM7227A, 1 GHz CPU
 Qualcomm Snapdragon MSM7227A, 1 GHz CPU {ok}
 
@@ -536,6 +542,7 @@ i-Spreadtrum SC6821
 i-Spreadtrum 6821 1.0 GHz
 
 
+# Networks
 # Networks
 ;UMTS 900/2100 and 850/1900/2100 - 3G Data up to 7.2 Mbps DL and 384 Kbps UL
 UMTS 900/2100 and 850/1900/2100 - 3G iData ukuya kwi-7.2 Mbps DL kwaye 384 Kbps UL
@@ -602,6 +609,7 @@ i-GPRS/EDGE
 
 
 # Wireless/Ports
+# Wireless/Ports
 ;Wi-Fi
 i-Wi-Fi
 
@@ -626,6 +634,7 @@ i-headset jack ye-stereo esiyi-3.5 mm
 i-Stereo FM
 
 
+# Camera
 # Camera
 ;1.3 MP
 i-1.3 MP
@@ -708,6 +717,7 @@ i-VGA
 
 
 # Bluetooth
+# Bluetooth
 ;Bluetooth
 I-Bluetooth
 
@@ -732,6 +742,7 @@ i-Bluetooth v3.0
 i-Bluetooth v3.0 A2DP
 
 
+# Battery
 # Battery
 ;1000 mAh
 i-1000 mAh
@@ -902,6 +913,7 @@ Ukuya kwi-720 h (LTE), 820 h (3G)
 
 
 # Screen
+# Screen
 ;3.5"
 3.5" {ok}
 
@@ -971,6 +983,7 @@ I-4.5" qHD
 
 
 # other screen strings
+# other screen strings
 ;320 x 480 pixels
 i-320 x 480 pikseli
 
@@ -991,6 +1004,7 @@ i-TFT capacitive touch
 Umbonakaliso unombala we-TFT
 
 
+# Firefox OS TV
 # Firefox OS TV
 ;Picture Quality
 Ubunjani Bomfanekiso
@@ -1037,6 +1051,7 @@ Uluhlu olupheleleyo lweDX
 
 
 # Footer
+# Footer
 ;More about Firefox OS
 Funda nge-Firefox OS
 
@@ -1058,6 +1073,7 @@ Funda malunga ii-apps zeFirefox OS kwi-Firefox Marketplace
 
 
 # Popup after clicking on "Get a phone"
+# Popup after clicking on "Get a phone"
 ;We work with a number of providers to offer Firefox OS on a variety of devices.
 Sisebenza ngababoneleli abaliqela ukuze sivelise iFirefox OS ngezixhobo ezahlukeneyo.
 
@@ -1067,10 +1083,12 @@ Nceda uthumele i-FAQ yethu <a href="%(link)s">yoluhlu oluzeleyo lwababoneleli ku
 
 
 # Case 1: There are several phone providers
+# Case 1: There are several phone providers
 ;Choose one from the list below to get a Firefox OS smartphone in your country.
 Khetha abe mnye kuluhlu olungezanti ukuze ufumane ifowuni echubekileyo yeFirefox OS kwilizwe lakho.
 
 
+# Case 2: There is only one provider in the country
 # Case 2: There is only one provider in the country
 ;Click on the provider below to get a Firefox OS smartphone in your country.
 Cofa kumboneleli ongezantsi ukuze ufumane ifowuni echubekileyo yeFirefox OS.
