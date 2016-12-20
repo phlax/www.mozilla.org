@@ -1,15 +1,10 @@
-## active ##
-## firefox_accounts_promo ##
-## ios_promo ##
-## teach_the_web_promo ##
-## NOTE: demo server at https://www-dev.allizom.org/
-
-
+# Used as page title in HTML meta tag
 # Used as page title in HTML meta tag
 ;We’re building a better Internet
 Rydym yn adeiladu gwell Rhyngrwyd
 
 
+# Used as page description in HTML meta tag
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Wyddoch chi? Mae Mozilla — gwneuthurwr Firefox — yn ymladd i gadw'r Rhyngrwyd yn adnodd cyhoeddus byd eang ar gael ac agored i bawb.
@@ -44,6 +39,7 @@ Rhowch gynnig ar Bori Preifat
 
 
 # Small tile. Link points to https://advocacy.mozilla.org
+# Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 Dysgu am Mozilla Advocacy
 
@@ -64,6 +60,7 @@ Helpu <br>miliynau i gael y mwyaf o'u <br>hoff borwr.
 Ymunwch â'n tîm cefnogi
 
 
+# Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 # Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 ;Get smart on Tracking
 Deall yn well am Dracio
@@ -90,10 +87,12 @@ Estynnwch Firefox iOS
 
 
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Try Firefox Developer Edition
 Estynnwch Firefox ar gyfer Datblygwyr
 
 
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Introducing Firefox Developer Edition
 Dyma'r Firefox ar gyfer Datblygwyr
@@ -120,30 +119,36 @@ Dathlwch gyda ni
 
 
 # Used in Twitter feed
+# Used in Twitter feed
 ;Reply
 Ateb
 
 
+# Used in Twitter feed
 # Used in Twitter feed
 ;Retweet
 Aildrydar
 
 
 # <strong> tags below are for visual formatting only.
+# <strong> tags below are for visual formatting only.
 ;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
 Yn ymrwymedig i <strong>chi, eich preifatrwydd</strong> a'r <strong>We agored</strong>
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians <br>worldwide
 Mozilliad gweithgar <br>ledled y byd
 
 
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events <br>around the globe
 digwyddiad i ddod <br>drwy'r byd
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;languages and counting, <br>on every continent
 iaith ac yn cynyddu, <br>ar bob cyfandir
@@ -185,6 +190,7 @@ Cael atebion i'ch cwestiynau am Firefox a holl gynnyrch Mozilla gan ein tîm cef
 Canfod rhagor
 
 
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
 # This is used as a link to dismiss the video overlay and continue to mozilla.org website
 ;Continue to mozilla.org
 Ymlaen i mozilla.org
