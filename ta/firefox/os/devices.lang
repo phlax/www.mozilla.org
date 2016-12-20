@@ -1,17 +1,16 @@
-## active ##
-## NOTE: page is https://www-dev.allizom.org/firefox/os/devices/
-
-
+# Page title
 # Page title
 ;Firefox OS - Devices &amp; Availability
 Firefox OS - சாதனங்களின் &amp; இருப்பு
 
 
 # Main title - <br> tag below used for formatting only.
+# Main title - <br> tag below used for formatting only.
 ;Find Firefox OS <br>near you
 உங்களுக்கு அருகாமையில் Firefox OS <br>கிடைக்கிறதா என கண்டறி
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Explore <br>Firefox OS devices
 Firefox OS சாதனங்களை <br> ஆராய
@@ -166,6 +165,7 @@ Tunisia
 
 
 # The following countries are not currently sold online. We'll keep them around in case they come back
+# The following countries are not currently sold online. We'll keep them around in case they come back
 ;Australia
 ஆஸ்திரேலியா
 
@@ -255,6 +255,7 @@ Myanmar
 
 
 # Alcatel One Touch slogan
+# Alcatel One Touch slogan
 ;Set your world on fire
 உங்கள் உலகத்தை தீ மேலே அமையுங்கள்
 
@@ -280,6 +281,7 @@ Myanmar
 
 
 # Features panel
+# Features panel
 ;Available in
 இதிலிருக்கிறது
 
@@ -296,6 +298,7 @@ Myanmar
 பயனர்களுக்கு இருக்கின்ற உள்ளடக்க சேமிப்பக அளவானது பேசியின் பதிப்பையும் மென்பொருள் பதுப்பிப்பையும் பயன்பாடுகளின் பயனளவையும் பொருத்து மாறுகிறது.
 
 
+# Specifications panel
 # Specifications panel
 ;Screen
 திரை
@@ -374,6 +377,7 @@ GPS / A-GPS {ok}
 
 
 # Storage/Memory
+# Storage/Memory
 ;128 MB
 128 மெகாபைட்டு
 
@@ -439,6 +443,7 @@ MicroSD 32 GB வரை பயன்படுத்தலாம்
 
 
 # Weight/Dimensions
+# Weight/Dimensions
 ;70 x 139 x 10.5 mm
 70 x 139 x 10.5 மிமீ
 
@@ -492,6 +497,7 @@ MicroSD 32 GB வரை பயன்படுத்தலாம்
 
 
 # Processor
+# Processor
 ;Qualcomm Snapdragon MSM7227A, 1 GHz CPU
 குவால்காம் ஸ்னாப்டிராகன் MSM7227A, 1 GHz செயலகம்
 
@@ -536,6 +542,7 @@ QCT 8210 இரட்டை கோர் 1.2 GHz
 ஸ்பிரட்ரம் 6821 1.0 GHz
 
 
+# Networks
 # Networks
 ;UMTS 900/2100 and 850/1900/2100 - 3G Data up to 7.2 Mbps DL and 384 Kbps UL
 UMTS 900/2100 மற்றும் 850/1900/2100 - 3G 7.2 Mbps வரை பதிவிறக்கமும் 384 Kbps வரை பதிவேற்றமும் செய்கிறது
@@ -602,6 +609,7 @@ GPRS/EDGE {ok}
 
 
 # Wireless/Ports
+# Wireless/Ports
 ;Wi-Fi
 வை-பை
 
@@ -626,6 +634,7 @@ GPRS/EDGE {ok}
 ஸ்டீரியொ பண்பலை
 
 
+# Camera
 # Camera
 ;1.3 MP
 1.3 MP {ok}
@@ -708,6 +717,7 @@ VGA {ok}
 
 
 # Bluetooth
+# Bluetooth
 ;Bluetooth
 ப்ளூடூத்
 
@@ -732,6 +742,7 @@ VGA {ok}
 ப்ளூடூத் v3.0 A2DP
 
 
+# Battery
 # Battery
 ;1000 mAh
 1000 mAh {ok}
@@ -902,6 +913,7 @@ Up to 96 h (2G)
 
 
 # Screen
+# Screen
 ;3.5"
 3.5" {ok}
 
@@ -971,6 +983,7 @@ Up to 96 h (2G)
 
 
 # other screen strings
+# other screen strings
 ;320 x 480 pixels
 320 x 480 பிக்சல்கள்
 
@@ -991,6 +1004,7 @@ TFT கொள்ளளவு தொடுதிரை
 TFT வண்ண காட்சி
 
 
+# Firefox OS TV
 # Firefox OS TV
 ;Picture Quality
 Picture Quality
@@ -1037,6 +1051,7 @@ Full DX series
 
 
 # Footer
+# Footer
 ;More about Firefox OS
 மேலும் Firefox OS பற்றி
 
@@ -1058,6 +1073,7 @@ Firefox Marketplace இல் உள்ள Firefox OS பயன்பாடு�
 
 
 # Popup after clicking on "Get a phone"
+# Popup after clicking on "Get a phone"
 ;We work with a number of providers to offer Firefox OS on a variety of devices.
 பையர்பாக்ஸ் OSசை பலதரப்பட்ட சாதனத்தில் வழங்க நாங்கள் பல வழங்குனர்களுடன் பணிபுரிந்து வருகிறோம்.
 
@@ -1067,10 +1083,12 @@ Firefox Marketplace இல் உள்ள Firefox OS பயன்பாடு�
 
 
 # Case 1: There are several phone providers
+# Case 1: There are several phone providers
 ;Choose one from the list below to get a Firefox OS smartphone in your country.
 பையர்பாக்ஸ் OSஸை உங்கள் நாட்டில் பெற கீழ் உள்ள பட்டியலில் இருந்து ஒன்றை தேர்ந்தெடுக்கவும்.
 
 
+# Case 2: There is only one provider in the country
 # Case 2: There is only one provider in the country
 ;Click on the provider below to get a Firefox OS smartphone in your country.
 பையர்பாக்ஸ் OSஸை உங்கள் நாட்டில் பெற கீழ் உள்ள சேவை வழங்குனரை தேர்ந்தெடுக்கவும்.
