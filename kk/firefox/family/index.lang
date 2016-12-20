@@ -1,25 +1,22 @@
-## active ##
-## fx49_remove_hello ##
-## ios_product_tagline ##
-## tracking_protection ##
-## NOTE: demo page available at https://www-dev.allizom.org/firefox/products/
-
-
+# Title of the page (HTML meta tag)
 # Title of the page (HTML meta tag)
 ;Firefox – Desktop browser, Android, iOS, Sync, Private Browsing
 Firefox – жұмыс үстел браузері, Android, iOS, Синхрондау, жекелік шолу
 
 
 # Obsolete title of the page (do not remove)
+# Obsolete title of the page (do not remove)
 ;Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing
 Firefox – жұмыс үстел браузері, Android, iOS, OS, Hello, Синхрондау, жекелік шолу
 
 
 # Obsolete title of the page (do not remove)
+# Obsolete title of the page (do not remove)
 ;Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace
 Firefox — жұмыс үстел браузері, Android, OS, Hello, Синхрондау, Marketplace
 
 
+# Description of the page (HTML meta tag)
 # Description of the page (HTML meta tag)
 ;Learn more about our complete lineup of products for desktop and mobile browsing (and more) that help keep you in control online. Free yourself with Firefox.
 Сізге цифрлық өміріңізді бақылауға көмектесетін жұмыс үстелі және мобильді шолу үшін (және т.б.) арналған өнімдеріміздің толық қатары жөнінде біліңіз. Өзіңізді Firefox-пен еркін қылыңыз.
@@ -42,10 +39,12 @@ Firefox-ты таңдаңыз.
 
 
 # %s will be replaced by an image (Firefox wordmark)
+# %s will be replaced by an image (Firefox wordmark)
 ;Free yourself with %s
 Өзіңізді %s көмегімен еркін қылыңыз
 
 
+# <span> tag below adds visual style to "for" text
 # <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> desktop
 Жұмыс үстелі <span>үшін</span> Firefox
@@ -55,6 +54,7 @@ Firefox-ты таңдаңыз.
 Сенімді. Икемді. Жылдам.
 
 
+# <span> tag below adds visual style to "for" text
 # <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> Android
 Android <span>үшін</span> Firefox
@@ -69,6 +69,7 @@ Android <span>үшін</span> Firefox
 
 
 # <span> tag below adds visual style to "for" text
+# <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> iOS
 iOS үшін <span>Firefox</span>
 
@@ -77,6 +78,7 @@ iOS үшін <span>Firefox</span>
 Жылдам. Ақылды. Сіздікі.
 
 
+# Obsolete title, do not remove
 # Obsolete title, do not remove
 ;Get it on iPhones and iPads
 Оны iPhone және iPad-қа алыңыз
