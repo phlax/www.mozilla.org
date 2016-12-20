@@ -1,5 +1,3 @@
-## active ##
-## gear_store ##
 ;Mozilla links
 Vinclos de Mozilla
 
@@ -45,6 +43,7 @@ Innovacions
 
 
 # Noun, links to https://www.mozilla.org/research
+# Noun, links to https://www.mozilla.org/research
 ;Research
 Investigación
 
@@ -82,35 +81,42 @@ Buscar
 
 
 # This is a verb, in the 'Get involved' column. Goes to partnership page.
+# This is a verb, in the 'Get involved' column. Goes to partnership page.
 ;Partner
 Colabora
 
 
+# Slogan for Firefox OS promo
 # Slogan for Firefox OS promo
 ;Look ahead
 Mira enta debant!
 
 
 # Link for slogan
+# Link for slogan
 ;Learn all about Firefox OS
 Conoixe-lo tot sobre Firefox OS
 
 
+# You can replace 'in your language' in this string by the name of your language if you want.
 # You can replace 'in your language' in this string by the name of your language if you want.
 ;Would you like to see this page in your language?
 Quiers veyer ista pachina en aragonés?
 
 
 # Translation bar: Your translation can just say Yes
+# Translation bar: Your translation can just say Yes
 ;Yes, please!
 Sí, sí, por favor!
 
 
 # Translation bar: Your translation can just say No
+# Translation bar: Your translation can just say No
 ;No, thanks.
 No, mersi.
 
 
+# Fundraising campaign in Tabzilla
 # Fundraising campaign in Tabzilla
 ;Support Mozilla
 Refirma Mozilla
@@ -118,20 +124,25 @@ Refirma Mozilla
 
 # Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 # Screenshot: https://bug935719.bugzilla.mozilla.org/attachment.cgi?id=8499330
+# Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
+# Screenshot: https://bug935719.bugzilla.mozilla.org/attachment.cgi?id=8499330
 ;Looks like you’re using an older version of Firefox.
 Yes emplegando una versión antiga de Firefox.
 
 
+# Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 # Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 ;Update to stay fast and safe.
 Esviella-lo ta seguir rapido y seguro.
 
 
 # Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
+# Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 ;Later
 Dimpués
 
 
+# Used in promo box
 # Used in promo box
 ;Official Mozilla gear is here
 Aquí son os accesorios oficials de Mozilla
