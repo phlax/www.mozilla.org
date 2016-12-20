@@ -1,19 +1,16 @@
-## active ##
-## firefox_updated ##
-## home_title_update ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop
-
-
+# This is the <title> tag
 # This is the <title> tag
 ;Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your privacy and an open Web
 Firefox interneti ceecikaw — naanante, faala, cahãnte — allaahidu war se, sutura nda interneti feerante
 
 
 # Previous title (DO NOT REMOVE)
+# Previous title (DO NOT REMOVE)
 ;Firefox Web browser — Trusted, Flexible, Fast — There's never been a better time
 Firefox interneti ceecikaw — naanante, faala, cahãnte — waati bešere mana bay ka bara
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;There’s never been a <br class="wide-br">better time for Firefox
 Zaman bešere mana tee <br class="wide-br">Firefox se
@@ -24,10 +21,13 @@ Ir allahidoo war se ti interneti suturante nda feerante.
 
 
 # This string is displayed if the visitor is using an up-to-date version of Firefox
+# This string is displayed if the visitor is using an up-to-date version of Firefox
 ;Your Firefox is up to date.
 War Firefox n' ka taagandi.
 
 
+# This string is displayed if the visitor is using an up-to-date version of Firefox
+# Active link to https://support.mozilla.org/products/firefox
 # This string is displayed if the visitor is using an up-to-date version of Firefox
 # Active link to https://support.mozilla.org/products/firefox
 ;Need help with anything?
