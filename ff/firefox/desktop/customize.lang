@@ -1,7 +1,3 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/customize/
-
-
 ;Firefox — Customize and make it your own — The most flexible browser on the Web
 Firefox — Heertin tee mbaɗaa-mo mo maa — Wanngorde ɓurnde weeɓtude e Geese
 
@@ -22,6 +18,7 @@ Alaa wanngorde woɗnde hokkat-maa suɓaade e weeɓnude hono ndee.
 Heertin Firefox
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Designed to <br class="wide-br">be redesigned
 Tafiraa ko <br class="wide-br">tafteede
