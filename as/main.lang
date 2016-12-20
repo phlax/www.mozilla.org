@@ -4,30 +4,37 @@
 
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
 <span>for</span> Desktop
 
 
+# Firefox family navigation menu. Main level item.
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
 <span>for</span> Android
 
 
 # Firefox family navigation menu. Main level item.
+# Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
 <span>for</span> iOS
 
 
+# Firefox family navigation menu. Main level item.
 # Firefox family navigation menu. Main level item.
 ;OS
 OS {ok}
 
 
 # Used for the navigation menu only in Firefox OS pages
+# Used for the navigation menu only in Firefox OS pages
 ;TV
 TV
 
 
+# Used for the navigation menu, points to /firefox/channel
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
@@ -35,60 +42,73 @@ Pre-release downloads
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
 For desktops &amp; laptops
 
 
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
 For phones &amp; tablets
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
+# Firefox family navigation menu. Second-level item shared across different menus.
 ;Overview
 অভাৰভিউ
 
 
+# Firefox family navigation menu. Second-level item shared across different menus.
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
 ভৰষাবান
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
+# Firefox family navigation menu. Second-level item shared across different menus.
 ;Flexible
 স্থিতিস্থাপক
 
 
+# Firefox family navigation menu. Second-level item shared across different menus.
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Fast
 দ্ৰুত
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 বিষয়ে
 
 
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
 Devices
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
 For partners
 
 
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
 Apps
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Do Not Track
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
 Tiles
@@ -96,50 +116,61 @@ Tiles
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
 Interest Dashboard
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
 Developer Edition
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
 Private Browsing
 
 
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
 সহায়ৰ প্ৰয়োজন?
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 News
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
 For developers
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
 Find My Device
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
 উন্নয়নকাৰীসকল
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
 Choose the independent browser
 
 
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
@@ -206,10 +237,12 @@ Mozilla ৰ বিষয়ে
 
 
 # Will replace "Other languages" for the footer's language switcher
+# Will replace "Other languages" for the footer's language switcher
 ;Page language:
 Page language:
 
 
+# Year / Month / Day, indicate your prefered date format for your language
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d-%m-%Y
@@ -220,10 +253,12 @@ Page language:
 
 
 # Used as link in the footer
+# Used as link in the footer
 ;Cookies
 কুকিসমূহ
 
 
+# Used as link in the footer
 # Used as link in the footer
 ;Firefox Affiliates
 Firefox Affiliates
@@ -278,6 +313,7 @@ Firefox Affiliates
 
 
 # MegaBytes abbreviation
+# MegaBytes abbreviation
 ;MB
 MB {ok}
 
@@ -307,6 +343,7 @@ FAQ {ok}
 
 
 # social networks such as Facebook and Twitter
+# social networks such as Facebook and Twitter
 ;Follow us on:
 আমাক লগ ধৰক:
 
@@ -320,10 +357,12 @@ FAQ {ok}
 
 
 # Same as previous above but with no capitalization on More
+# Same as previous above but with no capitalization on More
 ;Learn more
 আৰু অধিক জানক
 
 
+# Link used to play again an animation or a video
 # Link used to play again an animation or a video
 ;Replay
 পুনৰ চলাওক
@@ -414,230 +453,276 @@ Firefox ৰ নতুন ৰূপ আৰু অনুভূতি নিৰী�
 
 
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
 নতুন কি
 
 
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 ;Privacy
 গোপনীয়তা
 
 
 # Footer string
+# Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 এই সমলৰ কিছু অংশ ©1998–%(current_year)s ৰ সূকীয়া  mozilla.org অৱদানকাৰীসকলৰ অৱদান।  সমল এটা <a href="%(url)s">Creative Commons license</a> ৰ অন্তৰ্গত উপলব্ধ।
 
 
+# Footer string (will replace "Contribute to this page")
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
 Contribute to this site
 
 
 # Footer string
+# Footer string
 ;Contribute to this page
 এই পৃষ্ঠাৰ বাবে অৱদান দিয়ক
 
 
+# Top menu item
 # Top menu item
 ;Mission
 অভিযান
 
 
 # Footer item on some pages to link to a tour of features
+# Footer item on some pages to link to a tour of features
 ;Tour
 ভ্ৰমণ
 
 
+# Footer item
 # Footer item
 ;Partner with Us
 আমাৰ সহকাৰী হওক
 
 
 # Top menu item on pages like firefox/desktop/tips/
+# Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Sync
 
 
+# Top menu item on pages like firefox/desktop/tips/
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
 ডেস্কটপ এড-অনসমূহ
 
 
 # Top menu item on pages like firefox/desktop/tips/
+# Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
 Android Add-ons
 
 
+# Top menu item on pages like firefox/desktop/tips/
 # Top menu item on pages like firefox/desktop/tips/
 ;Themes
 থীমসমূহ
 
 
 # Top menu item on pages like firefox/desktop/tips/
+# Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
 ডেস্কটপ সমৰ্থন
 
 
+# Top menu item on pages like firefox/desktop/tips/
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
 Android Support
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Performance
 পৰিৱেশন
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Technology
 প্ৰযুক্তি
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Privacy &amp; Security
 গোপনীয়তা &amp; সুৰক্ষা
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Releases
 উন্মোচনসমূহ
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Firefox
 Firefox {ok}
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Firefox for Organizations
 সংঘঠনসমূহৰ বাবে Firefox
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Mobile Add-ons
 মবাইল এড-অনসমূহ
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Mobile Support
 মবাইল সমৰ্থন
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Blog
 ব্লগ
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;About Firefox
 Firefox ৰ বিষয়ে
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Join Mozilla
 Mozilla ত অংশগ্ৰহণ কৰক
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Participate
 অংশগ্ৰহণ কৰক
 
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
 Volunteer
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Brand Toolkit
 ব্ৰেণ্ড সঁজুলি
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Partnerships
 সহযোগ
 
 
+# Newsletter subscription form above footer on some pages
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
 Mozilla আপডেইটসমূহ প্ৰাপ্ত কৰক
 
 
 # share button for social networks
+# share button for social networks
 ;Share
 অংশীদাৰী কৰক
 
 
+# footer link
 # footer link
 ;Mozilla on Twitter
 Twitter ত Mozilla
 
 
 # footer link
+# footer link
 ;Firefox on Twitter
 Twitter ত Firefox
 
 
+# footer link
 # footer link
 ;Mozilla on Facebook
 Facebook ত Mozilla
 
 
 # footer link
+# footer link
 ;Firefox on Facebook
 Facebook ত Firefox
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
 ফৰামসমূহ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
 Patents
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
 Leadership
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
 চৰকাৰ
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
 ইতিহাস
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
 আমাৰ উৎপাদনসমূহ
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
 আমাৰ প্ৰকল্প উন্নত কৰিবলে চফ্টৱেৰ আৰু অন্য উদ্ভাৱনসমূহ।
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
 বিভিন্ন ঠাইত এজন স্বেচ্ছাসেৱী অৱদানকাৰী হওক।
 
 
+# This is a non-visible string for blind people to indicate where the menu is
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
 মেনু
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 আপুনি, আপোনাৰ গোপনীয়তা আৰু এটা মুক্ত ৱেবলৈ অৰ্পিত
 
 
+# Common title used in Fx 10 pages
 # Common title used in Fx 10 pages
 ;Choose Independent
 Choose Independent
@@ -645,20 +730,25 @@ Choose Independent
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
 Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
 
 
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
 Please turn on JavaScript to display this page correctly.
 
 
 # Used as link to /firefox/desktop in footers on some pages
+# Used as link to /firefox/desktop in footers on some pages
 ;Firefox Features
 Firefox বৈশিষ্ট্যসমূহ
 
 
+# Used as link to SUMO in footers on some pages
 # Used as link to SUMO in footers on some pages
 ;Firefox Help
 Firefox সহায়
@@ -761,6 +851,7 @@ Firefox সহায়
 
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
 Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
 
@@ -770,20 +861,24 @@ Congrats. You’re up to date!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
 ;Format
 বিন্যাস
 
 
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;Text
 লিখনী
 
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
 HTML
 
 
+# This is the error message displayed if you provide an invalid email address in a form
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 ইচ্ছ! এটা বৈধ ইমেইল ঠিকনা সুমুৱাওক।
@@ -798,25 +893,30 @@ I’m okay with Mozilla handling my info as explained in <a href="%s">this Priva
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
 Keep up with<br> all things Firefox.
 
 
+# This string is used for a subscription field on other pages than /newsletter/
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Firefox বাতৰি প্ৰাপ্ত কৰক
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
+# This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
 ইয়াত আপোনাৰ ইমেইল লিখক
 
 
 # Newsletter subscription Button
+# Newsletter subscription Button
 ;Sign Up Now
 Sign Up Now
 
 
+# Old newsletter subscription Button
 # Old newsletter subscription Button
 ;Sign me up
 মোক ছাইন আপ কৰক
@@ -843,10 +943,12 @@ If you haven’t previously confirmed a subscription to a Mozilla-related newsle
 
 
 # Obsolete string. Do not remove.
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 ধন্যবাদ! আপোনাৰ স্বাক্ষৰণ সুনিশ্চিত কৰিবলে অনুগ্ৰহ কৰি আপোনাৰ ইনবক্স নিৰীক্ষণ কৰক।
 
 
+# Obsolete string. Do not remove.
 # Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 আপোনাৰ স্বাক্ষৰণ সুনিশ্চিত কৰিবলে আপুনি mozilla@e.mozilla.org ৰ পৰা এটা ইমেইল প্ৰাপ্ত কৰিব। যদি আপুনি ইয়াক দেখি নাপায়, আপোনাৰ স্পেম ফিল্টাৰ নিৰীক্ষণ কৰক। আমাৰ বাতৰিকাকত গ্ৰহণ কৰিবলে আপুনি আপোনাৰ স্বাক্ষৰণ সুনিশ্চিত কৰিব লাগিব।
@@ -868,6 +970,7 @@ If you haven’t previously confirmed a subscription to a Mozilla-related newsle
 Get Firefox tips, tricks, news and more
 
 
+# This string will be used as a navigation label in home page, pointing to /technology
 # This string will be used as a navigation label in home page, pointing to /technology
 ;Web Innovations
 Web Innovations
