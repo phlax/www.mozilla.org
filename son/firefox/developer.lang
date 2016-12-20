@@ -1,12 +1,10 @@
-## NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
-## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated. It also won't be localizable inside the product, like "Beta" or "Nightly"
-
-
+# Used as page description (HTML meta tag)
 # Used as page description (HTML meta tag)
 ;Built for those who build the Web. Introducing the only browser made for developers.
 Built for those who build the Web. Introducing the only browser made for developers.
 
 
+# Used as page description from June 2nd (HTML meta tag)
 # Used as page description from June 2nd (HTML meta tag)
 ;Built for those who build the Web. The only browser made for developers like you.
 Built for those who build the Web. The only browser made for developers like you.
@@ -24,6 +22,7 @@ A tee borey din kaŋ ga interneti cin se
 Ceecikaw follokaa kaŋ tee cinakey se, sanda war.
 
 
+# This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Design, build and debug the Web without ever leaving your browser with the new Firefox Developer Edition!
 Design, build and debug the Web without ever leaving your browser with the new Firefox Developer Edition!
@@ -207,55 +206,67 @@ Firefox suuba
 
 # The following strings are used for the tour displayed on /firstrun
 # https://www.mozilla.org/firefox/35.0a2/firstrun/
+# The following strings are used for the tour displayed on /firstrun
+# https://www.mozilla.org/firefox/35.0a2/firstrun/
 ;Welcome to Firefox Developer Edition
 Kubayni Firefox cinakaw wallafiyan dumoo do
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;Developer Tools
 Cinakey goyjinawey
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;The most complete browser made just for developers, Firefox Developer Edition has every dev tool you’ll need built right in.
 Ceecikaw kul itimmantaa kaŋ tee cinakey hinne se, Firefox cinakaw wallafiyan dumoo ga kaa nda cinari goyjinay kul kaŋ war ga boona.
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;Next: Sync
 Jine: Sync
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;Important
 Alfaydante
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;Sync your new Developer Edition profile to your Firefox Account to access bookmarks, browsing history, passwords and more from your existing Firefox profile.
 Wa cinakaw wallafiyan alhaali taaga hangandi war Firefox kontoo bande ka duu doo-šilbawey, ceeciyan taariki, šennikufaley nda haya taney ka hun war Firefox alhaali barantaa ga.
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;Sync now
 Hangandi sohõ
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;No thanks
 Kalaa, manti sohõ
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;Before you go&hellip;
 Za war mana koy&hellip;
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;If you continue without syncing your new Developer Edition profile, you could lose access to important browsing data from your existing Firefox profile.
 Nda war bisa bila nda war cinakaw wallafiyan dumi taagaa ma hangandi, war ceeciyan bayhaya booboyaŋ ka hin ka dere ka hun war Firefox alhaali barantaa ra.
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;To sync now, choose the Sync option from this menu.
 Ka hangandi sohõ, wa Sync suuba šilbayboŋoo woo ra.
