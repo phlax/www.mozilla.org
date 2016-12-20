@@ -1,7 +1,3 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/products/
-
-
 ;Mozilla Products — Built by us, for the Web
 „Mozillos“ produktai – mūsų dovana saitynui
 
@@ -23,10 +19,12 @@ Kompiuteriams
 
 
 # Firefox Desktop
+# Firefox Desktop
 ;The free, non-profit browser for your desktop.
 Laisvoji naršyklė kompiuteriams, sukurta, nesiekiant pelno.
 
 
+# Firefox for Android
 # Firefox for Android
 ;The fast, smart, safe choice for Android browsing.
 Spartus, sumanus ir saugus pasirinkimas naršymui „Android“ įrenginiuose.
@@ -37,60 +35,72 @@ OS {ok}
 
 
 # Firefox OS
+# Firefox OS
 ;An open operating system for mobile devices.
 Laisvoji operacinė sistema mobiliesiems įrenginiams.
 
 
+# Open Badges
 # Open Badges
 ;A new standard to recognize and verify learning.
 Naujas standartas įgūdžių pripažinimui ir tikrinimui.
 
 
 # Marketplace
+# Marketplace
 ;A creation and distribution platform for apps.
 Platforma kurti ir platinti programėlėms.
 
 
+# Persona
 # Persona
 ;A better way to sign in to websites.
 Geresnis būdas registruotis svetainėse.
 
 
 # Thunderbird
+# Thunderbird
 ;Safe, fast and easy email.
 Saugi, sparti ir patogi el. pašto programa.
 
 
+# Webmaker
 # Webmaker
 ;Make something amazing with the Web.
 Sukurkite saityne ką nors įspūdingo.
 
 
 # WebFWD
+# WebFWD
 ;Our community-driven innovation accelerator.
 Mūsų bendruomenės vystomas naujovių spartintuvas.
 
 
+# Labs
 # Labs
 ;New ways to explore, experiment and innovate.
 Nauji būdai tyrinėti, eksperimentuoti ir kurti naujoves.
 
 
 # Bugzilla
+# Bugzilla
 ;A bug tracking system to help manage software development.
 Programinių klaidų registravimo ir sekimo sistema.
 
 
+# Firebug
 # Firebug
 ;Inspect, debug, analyze and more inside your browser.
 Tirkite, derinkite, analizuokite ir daugiau – viskas jūsų naršyklėje.
 
 
 # Gecko
+# Gecko
 ;The layout engine that drives Firefox.
 Atvaizdavimo varikliukas, kuriuo pagrįstas „Firefox“ veikimas.
 
 
+# XULRunner
 # XULRunner
 ;An environment for XUL-based applications.
 Aplinka XUL pagrindu veikiančioms programoms vykdyti.
