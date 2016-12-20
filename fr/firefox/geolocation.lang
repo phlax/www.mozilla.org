@@ -1,6 +1,5 @@
-## active ##
-## geolocation_faq_update ##
-## NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
+;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
+Firefox peut dire aux sites web où vous vous situez de sorte que vous pouvez trouver les informations les plus pertinentes et utiles. Il s’agit de rendre le Web plus intelligent &ndash; et c’est fait d’une manière qui respecte totalement votre vie privée. <a href="%(url)s" id="%(id)s" style="%(style)s">Essayez&nbsp;!</a>
 
 
 ;Geolocation in Firefox
@@ -195,6 +194,7 @@ La fonctionnalité de géolocalisation est maintenant désactivée
 Comment puis-je ajouter la prise en charge de la géolocalisation par mon site web&nbsp;?
 
 
+# Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
 Vos services peuvent prendre en charge la géolocalisation grâce aux instructions disponibles dans le <a href="%(url)s">centre Mozilla pour les développeurs</a>.
