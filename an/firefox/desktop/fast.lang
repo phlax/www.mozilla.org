@@ -1,12 +1,10 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/fast/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — The "speed king" - The fastest browser on the Web
 Firefox — O "rei d'a velocidat" - O navegador mas rapido en a Web
 
 
+# Main title
 # Main title
 ;Faster than ever
 Mas rapido que nunca
@@ -17,6 +15,7 @@ Ye o Firefox mas rapido de totz os tiempos.
 
 
 # L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 ;It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 Sobresale tanto en prebas tecnicas <br class="wide-br">como en as fayenas que mas fas cada día.
 
@@ -25,6 +24,7 @@ Sobresale tanto en prebas tecnicas <br class="wide-br">como en as fayenas que ma
 O “rei d'a velocidat”
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
 Firefox ha contrimostrau que ye millor que atros navegadors en prebas independients recients y se l'ha clamau <br class="wide-br">o <a href="%(url1)s" data-interaction="outbound link">“rei d'a velocidat.”</a>
@@ -58,6 +58,7 @@ A velocidat que puetz sentir
 Optimizamos Firefox ta la traza en que tu fas servir a Web.
 
 
+# L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 ;So things like opening or switching <br class="wide-br">between tabs and getting results from the Awesome Bar happen faster than ever.<br class="wide-br">
 Asinas, cosas como obrir u cambiar <br class="wide-br">entre pestanyas y aconseguir resultaus dende a Barra Marabillosa serán agora mas rapidos que nunca.<br class="wide-br">
