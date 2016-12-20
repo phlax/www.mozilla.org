@@ -1,28 +1,28 @@
-## active ##
-## contribute_cta_updates ##
-## NOTE: Demo server available at https://www-dev.allizom.org/contribute
-
-
+# Used for HTML title attribute
 # Used for HTML title attribute
 ;Volunteer Opportunities at Mozilla
 Galimybės savanoriams „Mozilloje“
 
 
 # this string is used for accessibility reasons, it's not visible in the page
+# this string is used for accessibility reasons, it's not visible in the page
 ;Menu
 Meniu
 
 
+# this br is for formatting, omit or reposition as needed
 # this br is for formatting, omit or reposition as needed
 ;Why<br> volunteer
 Kodėl verta<br> savanoriauti
 
 
 # this br is for formatting, omit or reposition as needed
+# this br is for formatting, omit or reposition as needed
 ;Find<br> an event
 Dalyvaukite<br> renginiuose
 
 
+# this br is for formatting, omit or reposition as needed
 # this br is for formatting, omit or reposition as needed
 ;Meet<br> Mozillians
 Susipažinkite<br> su moziliečiais
@@ -37,6 +37,7 @@ Jūsų valstybė
 
 
 # This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
+# This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
 ;I live in&hellip;
 Aš gyvenu&hellip;
 
@@ -46,15 +47,18 @@ Savanoriaukite „Mozilloje“!
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians worldwide
 – tiek pasaulyje yra aktyvių moziliečių
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events around the globe
 – tiek renginių vyks netrukus
 
 
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 ;languages and counting, on every continent
 – tai augantis skaičius kalbų, kuriomis mes bendraujame
@@ -65,10 +69,12 @@ Prisijunkite prie pasaulį keičiančios bendruomenės.
 
 
 # this br is for formatting, omit or reposition as needed
+# this br is for formatting, omit or reposition as needed
 ;Volunteer as much as you like. Or as little.<br> It’s totally up to you.
 Prisidėkite tiek daug, kiek norite. Arba tiek mažai.<br> Viskas priklauso nuo jūsų.
 
 
+# this br is for formatting, omit or reposition as needed
 # this br is for formatting, omit or reposition as needed
 ;Share your skills and pick up<br> a few new ones along the way.
 Dalinkitės savo įgūdžiais,<br> tuo pat metu įgydami naujų.
@@ -78,6 +84,7 @@ Dalinkitės savo įgūdžiais,<br> tuo pat metu įgydami naujų.
 Savanorystė „Mozilloje“&hellip;
 
 
+# This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 ;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
 &hellip;reiškia daugiau nei ištiesti pagalbos ranką. Tai – ir mokymasis, bendradarbiavimas, dalinimasis savo įgūdžiais su pasauline moziliečių&nbsp;– programuotojų, organizatorių, aktyvistų ir kitų&nbsp;– bendruomene, kasdien prisidedančia prie saityno ateities.
@@ -92,20 +99,24 @@ Ką veikia moziliečiai?
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Spain &middot; Activism
 Ispanija &middot; Aktyvistas
 
 
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Philippines &middot; Activism
 Filipinai &middot; Aktyvistas
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Switzerland &middot; Coding
 Šveicarija &middot; Programuotojas
 
 
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;India &middot; Teaching
 Indija &middot; Mokytojas
@@ -212,15 +223,18 @@ Prenumeruokite bendruomenės naujienas
 
 
 # Used as title of the /stories sub-page
+# Used as title of the /stories sub-page
 ;Mozillian Stories
 Moziliečių istorijos
 
 
 # Used as a toggle to display more content.
+# Used as a toggle to display more content.
 ;More
 Daugiau
 
 
+# Used as a toggle to display less content.
 # Used as a toggle to display less content.
 ;Less
 Mažiau
@@ -239,6 +253,7 @@ Daugiau istorijų – netrukus
 
 
 # Used as title of the /signup sub-page
+# Used as title of the /signup sub-page
 ;Get Involved: Volunteer Opportunities at Mozilla
 Įsitraukimas: galimybės savanoriams „Mozilloje“
 
@@ -251,6 +266,7 @@ Pirmiausia pasakykite, kas jus domina.
 Pasirinkite sritį, kuri jums įdomiausia. Kitose srityse taip pat galėsite padėti vėliau.
 
 
+# This text is used for accessibility reasons, it's not visible
 # This text is used for accessibility reasons, it's not visible
 ;Where would you like to get started?
 Nuo ko norėtumėte padėti?
@@ -545,6 +561,7 @@ Renginiai
 
 
 # Used as title of the thank you page displayed after users send the form
+# Used as title of the thank you page displayed after users send the form
 ;Thank you!
 Dėkojame!
 
@@ -602,20 +619,24 @@ O tuo metu&hellip;
 
 
 # Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
+# Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 ;You can help by picking an easy task that only takes a few minutes &mdash; or take on a bigger challenge.
 Prisidėti galite ir pasirinkdami nedidelę užduotį, kuriai pakaktų vos kelių minučių. Bet galite prisiimti ir didesnį iššūkį.
 
 
+# Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 # Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 ;Choose a Task Now
 Išsirinkite užduotį dabar
 
 
 # Displayed in the "Thank You!" page after the email is sent for other categories.
+# Displayed in the "Thank You!" page after the email is sent for other categories.
 ;Help us tell the world how awesome Firefox is and about all the important work Mozilla does every day.
 Padėkite mums parodyti pasauliui, kokia nuostabi yra „Firefox“ naršyklė bei ką svarbaus kiekvieną dieną veikia „Mozilla“.
 
 
+# Displayed in the "Thank You!" page after the email is sent for other categories.
 # Displayed in the "Thank You!" page after the email is sent for other categories.
 ;Join Now
 Prisijunkite dabar
@@ -637,6 +658,8 @@ Prieš tęsdami, turėsite prisijungti
 Ne, dėkui, aš tiesiog palauksiu laiško
 
 
+# The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+# Strings have been copied from the old template (mozorg/contribute.lang)
 # The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
 # Strings have been copied from the old template (mozorg/contribute.lang)
 ;Area of interest?
