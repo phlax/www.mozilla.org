@@ -1,12 +1,10 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/fast/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — The "speed king" - The fastest browser on the Web
 Firefox — "Cahãri kokoyoo" - Interneti ceecikaw kul cahãntaa
 
 
+# Main title
 # Main title
 ;Faster than ever
 Cahãri kaŋ mana bay ka diyandi
@@ -17,6 +15,7 @@ Woo Firefox kul icahãntaa kaŋ bay ka tee.
 
 
 # L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 ;It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 A ga sahã waanay adadey ra <br class="wide-br">nda hankul goyey da kaŋ war ga doona k'i tee.
 
@@ -25,6 +24,7 @@ A ga sahã waanay adadey ra <br class="wide-br">nda hankul goyey da kaŋ war ga 
 "Cahãri kokoyoo"
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
 Firefox hin ceecikey jerey kul šiiyan kokorantey kaŋ tee ra hala maaɲoo tee <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“cahãntey boŋkoynoo.”</a>
@@ -58,6 +58,7 @@ Cahãri kaŋ war ga hin k'a maate
 Ir ga Firefox sahãndi takaa kaŋ war ga interneti naaru se.
 
 
+# L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 ;So things like opening or switching <br class="wide-br">between tabs and getting results from the Awesome Bar happen faster than ever.<br class="wide-br">
 Adiši hayayaŋ sanda feeriyan wala bereyan <br class="wide-br">nor lokey game nda hunyaney zaayan Kayfi zuwoo ga k'a cahãroo tee bešere.<br class="wide-br">
