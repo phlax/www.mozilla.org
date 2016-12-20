@@ -1,17 +1,16 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/firefox/whatsnew/ and https://www-dev.allizom.org/firefox/firstrun/
-
-
+# Headline in /firstrun page
 # Headline in /firstrun page
 ;Take a quick tour
 Fe un paseyo rapido
 
 
 # Headline in /whatsnew page
+# Headline in /whatsnew page
 ;Welcome to Firefox
 Bienveniu ta Firefox
 
 
+# Sub-headline in /firstrun page
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
 Comprometiu con tu, con a tuya privacidat y con una Web ubierta.
@@ -34,6 +33,7 @@ Agrupaus chuntos ta un acceso facil y rapido
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites are<br> closer than ever
 Os tuyos puestos favoritos<br> mas amán que nunca
 
@@ -46,6 +46,7 @@ Adhibe caracteristicas y estilos con add-ons
 Tiens Firefox en belatro dispositivo?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Designed so you can<br> make it your own
 Disenyau ta que puedas<br> fer-lo tuyo
@@ -68,10 +69,12 @@ Ubre una nueva finestra
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
+# This is the text for a door-hanger menu that shows in the browser chrome
 ;It’s the fastest, most flexible Firefox ever.
 Ye o Firefox mas rapido y mas flexible de totz os tiempos.
 
 
+# This is the label for a button that opens the tour modal dialog
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
 Ubrir a cursa
@@ -90,10 +93,12 @@ Nunca no i ha habiu un tiempo millor ta Firefox
 
 
 # This is the label for a button that closes the tour modal dialog
+# This is the label for a button that closes the tour modal dialog
 ;Close tour
 Zarrar a cursa
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
 Milenta trazas de<br> fer que Firefox faga mas
@@ -103,6 +108,7 @@ Milenta trazas de<br> fer que Firefox faga mas
 Agora de millor trobar, fer servir y chestionar
 
 
+# This is the title for a door-hanger menu that shows in the browser chrome
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
 Mira-te o que ye nuevo
@@ -129,6 +135,7 @@ Adhibe y mira-te os marcapachinas dende qualsiquier puesto nuevo.
 
 
 # This is the text for a call to action that appears in the web page
+# This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
 Fe a cursa guiada ta veyer as novedatz.
 
@@ -150,30 +157,36 @@ Comparte a tuya visión
 
 
 # This is the label for a button that delays starting the tour
+# This is the label for a button that delays starting the tour
 ;Not now
 No pas agora
 
 
+# This is the label for a button that starts the tour
 # This is the label for a button that starts the tour
 ;Let’s go
 Imo-nos-ne
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 1/4 {ok}
 
 
+# This is the label that represents tour step three of four
 # This is the label that represents tour step three of four
 ;3/4
 3/4 {ok}
 
 
 # This is the label that represents tour step two of four
+# This is the label that represents tour step two of four
 ;2/4
 2/4 {ok}
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 4/4 {ok}
@@ -207,6 +220,7 @@ Imo-nos-ne
 Aprender sobre o nuevo disenyo
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 Empecipia con o nuevo <br> y intuitivo menú
@@ -245,6 +259,7 @@ Empecipia a navegación
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 Os tuyos puestos favoritos<br> son mas amán que nunca
 
@@ -261,6 +276,7 @@ Quiers connectar con belatro dispositivo?
 Que mena de Web quiers tener?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the redesigned,<br> intuitive menu
 Empecipia con un menú redisenyau,<br> y intuitivo
