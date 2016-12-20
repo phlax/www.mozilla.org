@@ -1,12 +1,10 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/fast/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — The "speed king" - The fastest browser on the Web
 Firefox — "Жылдамдық патшасы" - Интернеттегі ең жылдам браузер
 
 
+# Main title
 # Main title
 ;Faster than ever
 Бұрынғыдан да жылдам
@@ -17,6 +15,7 @@ Firefox — "Жылдамдық патшасы" - Интернеттегі ең 
 
 
 # L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 ;It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 Ол техникалық сынауларда да, <br class="wide-br">күнделікті жұмыста да озады.
 
@@ -25,6 +24,7 @@ Firefox — "Жылдамдық патшасы" - Интернеттегі ең 
 "Жылдамдық патшасы"
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
 Firefox соңғы тәуелсіз сынауда басқа браузерлерді озып, <br class="wide-br"><a href="%(url1)s" data-interaction="outbound link">"жылдамдық патшасы" етіп аталды.</a>
@@ -58,6 +58,7 @@ Firefox онлайн ойындарды дамытуда көп үлес қос�
 Біз Firefox-ты сіз интернетті қолданатын жолы үшін ыңғайлатамыз.
 
 
+# L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 ;So things like opening or switching <br class="wide-br">between tabs and getting results from the Awesome Bar happen faster than ever.<br class="wide-br">
 Енді жаңа беттерді ашу не олар арасында ауысу <br class="wide-br">және Awesome Bar-дан нәтижелерді алу бұрынғыдан да жылдам іске асады.<br class="wide-br">
