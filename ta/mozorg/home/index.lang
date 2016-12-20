@@ -1,11 +1,10 @@
-## NOTE: demo server at https://www-dev.allizom.org/
-
-
+# Used as page title in HTML meta tag
 # Used as page title in HTML meta tag
 ;We’re building a better Internet
 நாங்கள் ஒரு சிறந்த இணையத்தை உருவாக்குகிறோம்
 
 
+# Used as page description in HTML meta tag
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 உங்களுக்கு தெரியுமா? மொசில்லா — Firefox உலாவியை உருவாக்கி — அனைவரும் சுதந்திரமாகவும் பொதுவாகவும் அணுகும் வகையில் இணையம் கிடைத்திட தொடர்ந்து போராடி வருகிறது.
@@ -40,6 +39,7 @@ Try Private Browsing
 
 
 # Small tile. Link points to https://advocacy.mozilla.org
+# Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 மொசில்லாவின் பரிந்துகளைப் பற்றி அறியவும்
 
@@ -60,6 +60,7 @@ Try Private Browsing
 எங்கள் ஆதரவு அணியில் சேருங்கள்
 
 
+# Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 # Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 ;Get smart on Tracking
 Get smart on Tracking
@@ -86,10 +87,12 @@ iOS இயங்கு தளத்திற்கான Firefox ஐப் ப�
 
 
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Try Firefox Developer Edition
 Try Firefox Developer Edition
 
 
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Introducing Firefox Developer Edition
 Firefox உருவாக்குநர் பதிப்பு அறிமுகமாகிறது
@@ -116,30 +119,36 @@ Celebrate with us
 
 
 # Used in Twitter feed
+# Used in Twitter feed
 ;Reply
 பதிலளி
 
 
+# Used in Twitter feed
 # Used in Twitter feed
 ;Retweet
 மறு-டிவீட் செய்
 
 
 # <strong> tags below are for visual formatting only.
+# <strong> tags below are for visual formatting only.
 ;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
 <strong>உங்களின் தனிமைக்கும்</strong> & <strong>திறந்த இணையம்</strong> கிடைக்கவும் அர்ப்பணிப்பு செய்கிறோம்
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians <br>worldwide
 உலகெங்கும் செயலில் உள்ள<br>மொசில்லியன்ஸ்
 
 
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events <br>around the globe
 உலகெங்கும் அடுத்து <br>நடக்கவிருக்கும் நிகழ்ச்சிகள்
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;languages and counting, <br>on every continent
 மொழிகள் <br> ஒவ்வொரு கண்டத்திலும் கணக்கிடப்படுகிறது.
@@ -181,6 +190,7 @@ Firefox பற்றிய உங்களின் கேள்விகளு�
 கூடுதலாக கண்டுபிடியுங்கள்
 
 
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
 # This is used as a link to dismiss the video overlay and continue to mozilla.org website
 ;Continue to mozilla.org
 mozilla.org வுக்கு தொடருங்கள்
