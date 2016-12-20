@@ -1,12 +1,10 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/fast/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — The "speed king" - The fastest browser on the Web
 IFirefox - "ikumkani yesantya" - eyona bhrawuza ikhawulezayo kwiwebhu
 
 
+# Main title
 # Main title
 ;Faster than ever
 Ikhawuleza ngaphezu kwangaphambili
@@ -17,6 +15,7 @@ Iseyeyona Firefox ikhawuleza kakhulu le.
 
 
 # L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 ;It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 Igqwesa kulinganiso lobuchwepheshe <br class="wide-br">nakwimisebenzi yemihla ngemihla oyenza kakhulu.
 
@@ -25,6 +24,7 @@ Igqwesa kulinganiso lobuchwepheshe <br class="wide-br">nakwimisebenzi yemihla ng
 "Ikumkani yesantya"
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
 I-Firefox izigqwesile ezinye iibhrawuza kwiimvavanyo ezizimeleyo zakutshanje eziya kubizwa -<br class="wide-br">i <a href="%(url1)s">“kumkani yesantya.”</a>
@@ -58,6 +58,7 @@ Isantya onokusiva
 Sikhulisa iFirefox ngendlela osebenzisa ngayo iwebhu.
 
 
+# L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 ;So things like opening or switching <br class="wide-br">between tabs and getting results from the Awesome Bar happen faster than ever.<br class="wide-br">
 Ngoko ke izinto ezifana nokuvula okanye ukutshintsha <br class="wide-br">phakathi kweethebhu nokufumana iziphumo kwibha efanelekileyo kwenzeka ngokukhawuleza kunangaphambili.i-<br class="wide-br">
