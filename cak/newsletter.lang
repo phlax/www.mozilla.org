@@ -1,6 +1,3 @@
-## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
-
-
 ;Your email address:
 Rochochib'al ataqoya'l:
 
@@ -21,6 +18,7 @@ Tacha' jun amaq'
 Amaq':
 
 
+# Form submit button on the Student Ambassador newsletter subscription form
 # Form submit button on the Student Ambassador newsletter subscription form
 ;Sign me up!
 ¡Titz'ib'äx nub'i'!
@@ -47,95 +45,114 @@ Xjikib'äx ri rutz'ib'axik ab'i' pa ri ko'öl wuj.
 
 
 # Name for the newsletter in Newsletter subscription page
+# Name for the newsletter in Newsletter subscription page
 ;Firefox & You
 Firefox chuqa' Rat
 
 
+# Description for the newsletter in Newsletter subscription page (Firefox & You)
 # Description for the newsletter in Newsletter subscription page (Firefox & You)
 ;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
 Jun ajik' ko'öl wuj chuqa' utziläj taq rutzijol akuchi' niya' taq pixa' richin nawutzilaj ri awetamab'al rik'in Firefox pa ri akematz'ib'ab'al chuqa' oyonib'äl okisaxel.
 
 
 # Name for the newsletter in Newsletter subscription page
+# Name for the newsletter in Newsletter subscription page
 ;Firefox OS News
 Taq rutzijol Firefox OS
 
 
+# Description for the newsletter in Newsletter subscription page (Firefox OS News)
 # Description for the newsletter in Newsletter subscription page (Firefox OS News)
 ;A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
 Jun ajik' ko'öl wuj chuqa' nimaläj taq rutzijol chi rij ütz rub'eyal nawokisaj ri Firefox OS awokisaxel, nitz'aqatisäx ri ruk'isib'al taq rub'anikil chuqa' ri utziläj taq chokoy pa ri Marketplace richin Firefox.
 
 
 # Name for the newsletter in Newsletter subscription page
+# Name for the newsletter in Newsletter subscription page
 ;Mozilla Communities
 Taq ritinamit Mozilla
 
 
+# Description for the newsletter in Newsletter subscription page (Mozilla Communities)
 # Description for the newsletter in Newsletter subscription page (Mozilla Communities)
 ;Bringing you the best new opportunities to help support the open Web.
 Niqasüj chawe k'aka' chuqa' utziläj taq samaj richin nib'an to'ïk rik'in ri rutemab'al jun ajokel ajk'amaya'l.
 
 
 # Name for the newsletter in Newsletter subscription page
+# Name for the newsletter in Newsletter subscription page
 ;Firefox Student Ambassadors
 ruk'amöl tinamït rutijoxela' Firefox
 
 
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
 # Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
 ;A monthly newsletter on how to get involved with Mozilla on your campus.
 Jun ajik' ko'öl wuj pa ruwi' rub'eyal nanïm awi' rik'in Mozilla pa ri ak'ojlib'al.
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
 ;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
 Jun ajik' ko'öl wuj richin nawetamaj q'ij q'ij chi rij ri Firefox Affiliates kema'.
 
 
+# Name for the newsletter in Newsletter subscription page
 # Name for the newsletter in Newsletter subscription page
 ;Firefox Apps & Hacks
 Firefox taq chokoy chuqa' taq ja'k
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
+# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
 ;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
 Taq rutzijol kichin ri b'anonela' chi rij ri Firefox&nbsp;OS, Firefox Marketplace chuqa'  ch'ajch'öj kinuk'ulem ri taq chokoy pan okel ajk'amaya'l.
 
 
+# Name for the newsletter in Newsletter subscription page
 # Name for the newsletter in Newsletter subscription page
 ;Mozillians
 Aj Mozilla
 
 
 # Name for the newsletter in Newsletter subscription page
+# Name for the newsletter in Newsletter subscription page
 ;Firefox for desktop
 Firefox richin ajkematz'ib'
 
 
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
 ;Don’t miss the latest announcements about our desktop browser.
 Man ke'asüch ri ruk'isib'al taq rutzijol chi rij ri qokik'amaya'l richin ajkematz'ib'.
 
 
 # Name for the newsletter in Newsletter subscription page
+# Name for the newsletter in Newsletter subscription page
 ;Firefox for Android
 Firefox richin Android
 
 
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
 # Description for the newsletter in Newsletter subscription page (Firefox for Android)
 ;Keep up with releases and news about Firefox for Android.
 Tawetamaj pa kiwi' ri k'ak'a' taq relesaxik chuqa' taq rutzijol chi rij ri Firefox richin Android.
 
 
 # Description for the newsletter in Newsletter subscription page (Mozilla)
+# Description for the newsletter in Newsletter subscription page (Mozilla)
 ;Special announcements and messages from the team dedicated to keeping the Web free and open.
 Nimaläj taq rutzijol chuqa' kitzijol taq kitaqoya'l ri molaj, ri yesamäj chi jantape' alaj chuqa' okel ri ajk'amaya'l.
 
 
 # Name for the newsletter in Newsletter subscription page
+# Name for the newsletter in Newsletter subscription page
 ;Firefox OS smartphone owner?
 ¿La at rajaw jun jwi' oyonib'äl Firefox OS?
 
 
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
 # Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
 ;Don’t miss important news and updates about your Firefox OS device.
 Man ke'asüch nimaläj taq rutzijol chuqa' taq k'exoj chi rij ri Firefox Os awokisaxel.
@@ -326,50 +343,60 @@ Chi qij röj
 
 
 # Description for the newsletter in Newsletter subscription page
+# Description for the newsletter in Newsletter subscription page
 ;A monthly newsletter packed with tips to improve your Firefox experience.
 Jun ajik' chi ko'öl wuj nojnäq chi pixa' richin nub'än ruk'ojolem ri awetamab'al rik'in ri Firefox.
 
 
+# Description for the newsletter in Newsletter subscription page
 # Description for the newsletter in Newsletter subscription page
 ;Firefox OS news, tips, launch information and where to buy.
 Taq rutzijol, taq pixa' chuqa' etamab'äl richin relesaxik chuqa' akuchi' niloq' Firefox OS.
 
 
 # Description for the newsletter in Newsletter subscription page
+# Description for the newsletter in Newsletter subscription page
 ;Be the first to know when Firefox is available for iOS devices.
 Tawetamaj nab'ey jampe' toq wachel Firefox pa iOS taq okisaxel.
 
 
+# Description for the newsletter in Newsletter subscription page
 # Description for the newsletter in Newsletter subscription page
 ;Discover the latest, coolest HTML5 apps on Firefox OS.
 Tawila' ri ruk'isib'al, ri janila utziläj taq chokoy pa HTML5 richin Firefox OS.
 
 
 # Description for the newsletter in Newsletter subscription page
+# Description for the newsletter in Newsletter subscription page
 ;Get a weekly tip on how to super-charge your Firefox experience.
 Tak'ulu' jun pixa' pa taq wuqq'ij pa ruwi' rub'eyal nisamajib'ëx ri awetamab'al rik'in Firefox.
 
 
+# Description for the newsletter in Newsletter subscription page
 # Description for the newsletter in Newsletter subscription page
 ;Read about the latest features for Firefox desktop and mobile before the final release.
 Tasik'ij ronojel chi kij ri ruk'isib'al taq rub'anikil Firefox richin ajkematz'ib' chuqa' oyonib'äl taq okisaxel chuwäch xtelesäx rutzijol ri ruk'isib'al ruwäch.
 
 
 # Description for the newsletter in Newsletter subscription page
+# Description for the newsletter in Newsletter subscription page
 ;News from the Mozilla Project.
 Taq rutzijol ri Mozilla Nimasamaj.
 
 
+# Description for the newsletter in Newsletter subscription page
 # Description for the newsletter in Newsletter subscription page
 ;Periodic email updates about our annual international film competition.
 Jutaqil k'exoj taq ruwäch pa taqoya'l chi rij ri qach'akoj moloj juna' juna' richin silowachib'alil ajruwachulew.
 
 
 # Description for the newsletter in Newsletter subscription page
+# Description for the newsletter in Newsletter subscription page
 ;Email updates for vouched Mozillians on mozillians.org.
 Taq k'exoj ruwäch pa taqoya'l chi ke ri ajmozilla, ri e'uxqanem pa mozillians.org.
 
 
+# Description for the newsletter in Newsletter subscription page
 # Description for the newsletter in Newsletter subscription page
 ;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
 Ri jun ajnimatijob'äl nuk'samaj richin 2008-2011, xk'is chuqa' xtikirisäx chik achi'el ulanel tijonela' runuk'samaj Firefox.
