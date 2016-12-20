@@ -1,8 +1,4 @@
-## active ##
-## update_may2015 ##
-## NOTE: http://www-dev.allizom.org/lightbeam
-
-
+# Navigation
 # Navigation
 ;Menu
 Dewislen
@@ -16,6 +12,7 @@ Cartref
 Ynghylch
 
 
+# Main page title
 # Main page title
 ;Lightbeam for Firefox
 Lightbeam ar gyfer Firefox
@@ -138,6 +135,7 @@ Dysgu rhagor
 
 
 # About page
+# About page
 ;About Lightbeam
 Ynghylch Lightbeam
 
@@ -151,10 +149,12 @@ Sut mae'r ychwanegyn yn gweithio
 
 
 # New string (May 15) to reflect features that have been removed from the add-on.
+# New string (May 15) to reflect features that have been removed from the add-on.
 ;Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
 Gan ddefnyddio tri math o ddull cyflwyno rhyngweithiol gwahanol — Graff a Rhestr — mae Lightbeam yn eich galluogi i archwilio trydydd partïon dros amser, gan weld lle maen nhw'n cysylltu â'ch gweithgaredd ar-lein a chynnig ffyrdd i chi ddeall yr olwg unigryw hon o'r we.
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
 Gan ddefnyddio tri math o ddull cyflwyno rhyngweithiol gwahanol — Graff, Cloc a Rhestr — mae Lightbeam yn eich galluogi i edrych ar drydydd partïon dros amser ac yn lle, gan weld lle maen nhw'n cysylltu â'ch gweithgaredd ar-lein ac yn cynnig ffyrdd i chi ddeall yr olwg unigryw hon o'r we.
@@ -237,10 +237,12 @@ Fformatau data yn Lightbeam
 
 
 # New string (May 15) to reflect features that have been removed from the add-on.
+# New string (May 15) to reflect features that have been removed from the add-on.
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
 Ewch <a href="%s">i'n dogfennaeth ar Github</a> i ddysgu rhagor am y fformatau ffeil sy'n cael eu defnyddio yn Lightbeam.
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
 Ewch i'n <a href="%s">dogfennaeth ar Github</a> i ddysgu rhagor am y fformatau ffeil sy'n cael eu defnyddio yn Lightbeam a gweld manylion y data sy'n cael ei lwytho i fyny os ydych yn dewis cyfrannu i'r gronfa ddata.
