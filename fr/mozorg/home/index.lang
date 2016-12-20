@@ -1,15 +1,129 @@
-## active ##
-## firefox_accounts_promo ##
-## ios_promo ##
-## teach_the_web_promo ##
-## NOTE: demo server at https://www-dev.allizom.org/
+;Home of the Mozilla Project
+Accueil du projet Mozilla
 
 
+;Community
+Communauté
+
+
+;Meet<br> Firefox Hello
+Découvrez<br> Firefox&nbsp;Hello
+
+
+;The easiest way to connect for free over video.
+La façon la plus simple de lancer des conversations vidéo gratuites.
+
+
+;Try Firefox Hello
+Essayez Firefox&nbsp;Hello
+
+
+;Discover <br>what drives our mission
+Découvrez ce qui motive notre mission
+
+
+;See the principles <br>that guide everything <br>we do.
+Découvrez les principes qui guident nos pas.
+
+
+;Read the <br>Mozilla Manifesto
+Lisez le <br>Manifeste Mozilla
+
+
+;Understand your privacy online
+Découvrez pourquoi votre vie privée en ligne est cruciale
+
+
+;Learn more
+En savoir plus
+
+
+;Make the Web you want
+Bâtissez le Web que vous voulez
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Créez une page ou une application web<br> en quelques minutes,<br> sans avoir besoin de coder.
+
+
+;Become a Webmaker
+Devenez un Webmaker
+
+
+;Teach the Web
+Enseignez le Web
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+Construisons un Web ouvert, <br>main dans la main.
+
+
+;Build an app <br>in seconds
+Créez une application <br>en un instant
+
+
+;Try the best Firefox yet
+Essayez la meilleure version de Firefox
+
+
+;Made with a mission to put you first.
+La priorité, <br>c’est vous.
+
+
+;Learn more about Firefox
+Apprenez-en davantage sur Firefox
+
+
+;Put your Firefox on your Android
+Installez Firefox sur Android
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+Les fonctionnalités <br>que vous appréciez. <br>La confidentialité <br>en plus.
+
+
+;Learn about <br>Firefox for Android
+Découvrez <br>Firefox pour Android
+
+
+;Donate to Mozilla
+Faites un don à Mozilla
+
+
+;Your gift helps us build the Internet the world needs.
+En faisant un don, vous nous aidez à créer l’Internet dont le monde a besoin.
+
+
+;Donate today
+Faites un don dès maintenant
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+Les produits dérivés officiels de Mozilla sont disponibles
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+Montrez fièrement que vous soutenez la mission de Mozilla.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+Obtenez vos produits dérivés Mozilla
+
+
+;Help us celebrate 10 years of Firefox.
+Fêtez avec nous les 10&nbsp;ans de Firefox.
+
+
+# Used as page title in HTML meta tag
 # Used as page title in HTML meta tag
 ;We’re building a better Internet
 Nous œuvrons à améliorer Internet
 
 
+# Used as page description in HTML meta tag
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Le saviez-vous ? Mozilla, le concepteur de Firefox, se bat pour qu’Internet, une ressource publique mondiale, demeure ouverte et accessible à tous.
@@ -44,6 +158,7 @@ Essayez la navigation privée
 
 
 # Small tile. Link points to https://advocacy.mozilla.org
+# Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 Découvrez Mozilla Advocacy
 
@@ -64,6 +179,7 @@ Aidez des millions de personnes <br>à tirer le meilleur parti <br>de leur navig
 Rejoignez l’équipe d’assistance
 
 
+# Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 # Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 ;Get smart on Tracking
 Devenez incollable sur le pistage
@@ -90,10 +206,12 @@ Téléchargez Firefox pour iOS
 
 
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Try Firefox Developer Edition
 Essayez Firefox Developer Edition
 
 
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Introducing Firefox Developer Edition
 Découvrez Firefox Developer Edition
@@ -120,30 +238,36 @@ Fêtons ça ensemble
 
 
 # Used in Twitter feed
+# Used in Twitter feed
 ;Reply
 Répondre
 
 
+# Used in Twitter feed
 # Used in Twitter feed
 ;Retweet
 Retweeter
 
 
 # <strong> tags below are for visual formatting only.
+# <strong> tags below are for visual formatting only.
 ;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
 Engagé pour <strong>vous, votre vie privée</strong> et un <strong>Web ouvert</strong>
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians <br>worldwide
 Mozilliens actifs <br>sur la planète&nbsp;!
 
 
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events <br>around the globe
 évènements à venir <br>dans le monde
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;languages and counting, <br>on every continent
 langues et bientôt davantage, <br>sur tous les continents
@@ -185,6 +309,7 @@ Obtenez des réponses à vos questions sur Firefox et tous les logiciels Mozilla
 En apprendre davantage
 
 
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
 # This is used as a link to dismiss the video overlay and continue to mozilla.org website
 ;Continue to mozilla.org
 Accéder à mozilla.org
