@@ -1,14 +1,10 @@
-## active ##
-## firefox_dev_fall ##
-## NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
-## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated. It also won't be localizable inside the product, like "Beta" or "Nightly"
-
-
+# Used as page description (HTML meta tag)
 # Used as page description (HTML meta tag)
 ;Built for those who build the Web. Introducing the only browser made for developers.
 Интернетті жасайтындары үшін арнайы жасалған. Өндірушілер үшін жасалған жалғыз браузер.
 
 
+# Used as page description from June 2nd (HTML meta tag)
 # Used as page description from June 2nd (HTML meta tag)
 ;Built for those who build the Web. The only browser made for developers like you.
 Интернетті жасайтындары үшін арнайы жасалған. Өзіңіз сияқты өндірушілер үшін жасалған жалғыз браузер.
@@ -26,6 +22,7 @@ Mozilla Firefox, еркін веб браузерін, жүктеп алыңыз
 Өзіңіз сияқты өндірушілер үшін жасалған жалғыз браузер.
 
 
+# This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Design, build and debug the Web without ever leaving your browser with the new Firefox Developer Edition!
 Жаңа Firefox Developer Edition көмегімен тура браузердің ішінен Интернет дизайнын жасап, оны құрастыру және жөндеуге қатысыңыз!
@@ -209,55 +206,67 @@ Firefox-ты таңдаңыз
 
 # The following strings are used for the tour displayed on /firstrun
 # https://www.mozilla.org/firefox/35.0a2/firstrun/
+# The following strings are used for the tour displayed on /firstrun
+# https://www.mozilla.org/firefox/35.0a2/firstrun/
 ;Welcome to Firefox Developer Edition
 Firefox Developer Edition ішіне қош келдіңіз
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;Developer Tools
 Өндіруші саймандары
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;The most complete browser made just for developers, Firefox Developer Edition has every dev tool you’ll need built right in.
 Firefox Developer Edition ішінде, тек өндірушілер үшін жасалған жалғыз браузерде, сізге керек саймандардың барлығы бар.
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;Next: Sync
 Келесі: Синхрондау
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;Important
 Маңызды
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;Sync your new Developer Edition profile to your Firefox Account to access bookmarks, browsing history, passwords and more from your existing Firefox profile.
 Жаңа Developer Edition профилін өзіңіздің Firefox тіркелгіңізге синхрондап, бар болып тұрған Firefox профилінен бетбелгілер, шолу тарихы, парольдерге және т.б. қол жеткізіңіз.
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;Sync now
 Қазір синхрондау
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;No thanks
 Жоқ, рахмет
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;Before you go&hellip;
 Бастау алдында&hellip;
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;If you continue without syncing your new Developer Edition profile, you could lose access to important browsing data from your existing Firefox profile.
 Егер сіз жаңа Developer Edition профилін синхрондамай-ақ жалғастырсаңыз, бар болып тұрған Firefox профилінің маңызды шолу тарихына қатынай алмауыңыз мүмкін.
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;To sync now, choose the Sync option from this menu.
 Қазір синхрондау үшін, бұл мәзірден Синхрондау таңдаңыз.
