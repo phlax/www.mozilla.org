@@ -1,16 +1,16 @@
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop
-
-
+# This is the <title> tag
 # This is the <title> tag
 ;Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your privacy and an open Web
 Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your privacy and an open Web
 
 
 # Previous title (DO NOT REMOVE)
+# Previous title (DO NOT REMOVE)
 ;Firefox Web browser — Trusted, Flexible, Fast — There's never been a better time
 Firefox Web browser — Trusted, Flexible, Fast — There's never been a better time
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;There’s never been a <br class="wide-br">better time for Firefox
 There’s never been a <br class="wide-br">better time for Firefox
@@ -21,10 +21,13 @@ There’s never been a <br class="wide-br">better time for Firefox
 
 
 # This string is displayed if the visitor is using an up-to-date version of Firefox
+# This string is displayed if the visitor is using an up-to-date version of Firefox
 ;Your Firefox is up to date.
 Your Firefox is up to date.
 
 
+# This string is displayed if the visitor is using an up-to-date version of Firefox
+# Active link to https://support.mozilla.org/products/firefox
 # This string is displayed if the visitor is using an up-to-date version of Firefox
 # Active link to https://support.mozilla.org/products/firefox
 ;Need help with anything?
