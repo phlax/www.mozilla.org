@@ -1,9 +1,4 @@
-## active ##
-## NOTE: Demo page at https://www-dev.allizom.org/firefox/windows-10/welcome
-## NOTE: You need to add the demo server to your prefs http://bedrock.readthedocs.org/en/latest/uitour.html#local-development
-## NOTE: design of the page https://docs.google.com/presentation/d/1huZYwWDp2R4YOUwxY9rlLSu7vFPibamIHkKx_Pdraqg
-
-
+# Main title
 # Main title
 ;Firefox + Windows 10. Perfect together.
 Firefox + Windows 10. Peurvat asambles.
@@ -14,15 +9,18 @@ Azasaet hon eus Firefox evit ma klotfe an neuz gant hini Windows 10, gant an hev
 
 
 # Displayed when Firefox is not the default browser.
+# Displayed when Firefox is not the default browser.
 ;Make Firefox your default in 3 easy steps:
 Lakait Firefox da vezañ ho merdeer dre ziouer gant 3 fazenn aes :
 
 
 # The following strings are displayed when Firefox is not set as default browser.
+# The following strings are displayed when Firefox is not set as default browser.
 ;Click the button above
 Click the button above
 
 
+# This string is obsolete (do not remove). In the latest version of the page the button moved above the string
 # This string is obsolete (do not remove). In the latest version of the page the button moved above the string
 ;Click the button below
 Klikit war an afell dindan
@@ -40,6 +38,7 @@ Dibabit Firefox
 Deomp dezhi
 
 
+# The following strings are displayed when Firefox set as default browser.
 # The following strings are displayed when Firefox set as default browser.
 ;Privacy
 Buhez prevez
