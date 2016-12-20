@@ -1,12 +1,10 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/fast/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — The "speed king" - The fastest browser on the Web
 Firefox — "Laamɗo banngorɗe" - Wanngorde ɓurnde yaawde e Geese
 
 
+# Main title
 # Main title
 ;Faster than ever
 Yaawde ko ɗoo haaɗata
@@ -17,6 +15,7 @@ Oo Firefox woni ɓurɗo yaawde tawo.
 
 
 # L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 ;It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 Ko o ŋanaa e jerondire karallaagal <br class="wide-br">e golle ñalnde kala ɗe keew-ɗaa waɗde.
 
@@ -25,6 +24,7 @@ Ko o ŋanaa e jerondire karallaagal <br class="wide-br">e golle ñalnde kala ɗe
 “Laamɗo banngorɗe”
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
 Firefox daɗii banngorɗe goɗɗe e ƴeewndooji cakkitiiɗi tawa ko baɗaaɗi e nuunɗal haa o inniraa <br class="wide-br"><a href="%(url1)s" data-interaction="outbound link">“laamɗo banngorɗe”</a>
@@ -58,6 +58,7 @@ Njaaweeki ki njiyru-ɗaa gite maa
 Min ƴellitat Firefox ngam yahda e no kuutorto-ɗaa Geese.
 
 
+# L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 ;So things like opening or switching <br class="wide-br">between tabs and getting results from the Awesome Bar happen faster than ever.<br class="wide-br">
 Wadde geɗe bayɗe no udditde walla taaɓaade <br class="wide-br">hakkunde tabbe e heɓde njaltudi ummiindi e palal Awesome Bar ngal ko hannde fof ɓuri yaawde.<br class="wide-br">
