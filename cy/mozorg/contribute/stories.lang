@@ -1,7 +1,3 @@
-## active ##
-## NOTE: Demo server available at https://www-dev.allizom.org/contribute/stories
-
-
 ;Meet Mozillians from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
 Dewch i gyfarfod a Mozilliaid o ar draws y byd i gyd. Dysgwch am y projectau maen nhw'n gweithio arnyn nhw a gweld beth sy'n eu cynorthwyo ar hyn o bryd.
 
@@ -18,6 +14,7 @@ Darllenwch eu straeon yma a chanfod rhagor eto ar Twitter gyda <a href="%(link_h
 Straeon Mozilliaid
 
 
+# These <b>s are for formatting.
 # These <b>s are for formatting.
 ;Hi, I’m <b class="name">Rubén</b>, a Mozillian in <b class="country">Spain</b>
 Helo, fi yw <b class="name">Rubén</b>, rwy'n Fozilliad yn <b class="country">Sbaen</b>
@@ -43,6 +40,7 @@ Rhaglen mentora Sbaenaidd Mozilla
 Digwyddiadau cymunedol
 
 
+# These <b>s are for formatting so we can style the name and country.
 # These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Faye</b>, a Mozillian in <b class="country">the Philippines</b>
 Helo, fi yw <b class="name">Faye</b>, rwy'n Fozilliad yn <b class="country">y Philipinau</b>
@@ -77,6 +75,7 @@ Fy hoff beth o fod yn Fozilliad yw'r gymuned ryngwladol. Rwy'n hoffi meddwl amda
 
 
 # These <b>s are for formatting so we can style the name and country.
+# These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Shreyas</b>, a Mozillian in <b class="country">India</b>
 Helo, fi yw <b class="name">Shreyas</b>, Mozilliad yn <b class="country">yr India</b>
 
@@ -105,6 +104,7 @@ Un o'r pethau rwy'n fwyaf balch amdano yn fy amser fel Mozilliad yw'r project �
 Rwyf hefyd yn awdur brwd — os ydych yn gweithio ym maes cyfathrebu, croeso i chi gysylltu. Byddwn wrth fy modd yn gweithio ar rywbeth. Ac os oes gennych awydd siarad am Webmaker ac addysgu, dwi ar gael.
 
 
+# These <b>s are for formatting so we can style the name and country.
 # These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Michael</b>, a Mozillian in <b class="country">Switzerland</b>
 Helo, fi yw <b class="name">Michael</b>, Mozilliad yn <b class="country">y Swistir</b>
