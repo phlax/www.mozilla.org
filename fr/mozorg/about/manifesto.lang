@@ -1,9 +1,3 @@
-## active ##
-## join-us ##
-## manifesto_landing ##
-## NOTE: Page is available at https://www-dev.allizom.org/about/manifesto/
-
-
 ;The Mozilla Manifesto
 Le Manifeste Mozilla
 
@@ -16,6 +10,7 @@ Voici les principes qui guident nos pas dans la promotion de l’ouverture, de l
 Partager
 
 
+# <strong> and </strong> tags are used for presentation purposes, do not translate them
 # <strong> and </strong> tags are used for presentation purposes, do not translate them
 ;<strong>Our 10</strong> Principles
 <strong>Nos 10</strong> principes
@@ -89,6 +84,7 @@ L’histoire de Mozilla
 Vous ne devez pas vous préoccuper de ce qui est ouvert. Vous devez vous préoccuper de ce qui est fermé.
 
 
+# VP stands for Vice President - do not translate <span> and </span> tags
 # VP stands for Vice President - do not translate <span> and </span> tags
 ;<span>Johnathan Nightingale,</span> <span>VP Firefox</span>
 <span>Johnathan Nightingale,</span> <span>vice-président de Firefox</span>
@@ -231,6 +227,7 @@ Nous rejoindre en tant qu’étudiant ambassadeur
 
 
 # Obsolete string replaced by separate strings (do not remove)
+# Obsolete string replaced by separate strings (do not remove)
 ;Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
 Nous rejoindre comme <a href="%(volunteer)s">bénévole</a> ou <a href="%(ambassador)s">étudiant ambassadeur</a>
 
@@ -296,6 +293,7 @@ Faites passer le mot
 
 
 # This string will be included in a tweet
+# This string will be included in a tweet
 ;I support Mozilla because… #mozmanifesto
 Je soutiens Mozilla car… #mozmanifesto
 
@@ -320,6 +318,7 @@ Notre histoire
 Notre mission
 
 
+# Strings for mozilla.org/about/manifesto/details/
 # Strings for mozilla.org/about/manifesto/details/
 ;Introduction
 Introduction {ok}
