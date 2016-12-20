@@ -1,9 +1,3 @@
-## active ##
-## join-us ##
-## manifesto_landing ##
-## NOTE: Page is available at https://www-dev.allizom.org/about/manifesto/
-
-
 ;The Mozilla Manifesto
 Mozilla Bayrandoo
 
@@ -16,6 +10,7 @@ Ir anniyaa ga hanga fondawey wey ka interneti tonton nda feerayan, tejandiyan nd
 Woo žemna
 
 
+# <strong> and </strong> tags are used for presentation purposes, do not translate them
 # <strong> and </strong> tags are used for presentation purposes, do not translate them
 ;<strong>Our 10</strong> Principles
 Ir fondo<strong>10</strong>
@@ -89,6 +84,7 @@ Mozilla ženti
 Kakaw ši hima ga bara interneti feerante nafaa ra. Kakaw ši bara kala nd'a ši feera.
 
 
+# VP stands for Vice President - do not translate <span> and </span> tags
 # VP stands for Vice President - do not translate <span> and </span> tags
 ;<span>Johnathan Nightingale,</span> <span>VP Firefox</span>
 <span>Johnathan Nightingale,</span> <span>VP Firefox</span> {ok}
@@ -231,6 +227,7 @@ Kaa ka tee ir lokkolize anbasaader
 
 
 # Obsolete string replaced by separate strings (do not remove)
+# Obsolete string replaced by separate strings (do not remove)
 ;Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
 Kaa ka tee <a href="%(volunteer)s">faabakaw</a> wala <a href="%(ambassador)s">lokkolize anbasaader</a>
 
@@ -296,6 +293,7 @@ A har war cerey se
 
 
 # This string will be included in a tweet
+# This string will be included in a tweet
 ;I support Mozilla because… #mozmanifesto
 I ga Mozilla gaakašinay zama… #mozmanifesto
 
@@ -320,6 +318,7 @@ Ir taarikoo
 Ir anniyaa
 
 
+# Strings for mozilla.org/about/manifesto/details/
 # Strings for mozilla.org/about/manifesto/details/
 ;Introduction
 Šintin daara
