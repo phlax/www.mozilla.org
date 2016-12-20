@@ -1,7 +1,3 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/customize/
-
-
 ;Firefox — Customize and make it your own — The most flexible browser on the Web
 பயர்பாக்ஸ் — தனிபயனாக்கத்தின் மூலம் தனக்கென ஒன்றை உருவாக்க — இணையத்தில் மிகவும் இணக்கமான ஒரு உலாவி
 
@@ -22,6 +18,7 @@
 பயர்பாக்ஸை தனிபயனாக்கு
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Designed to <br class="wide-br">be redesigned
 வடிவமைக்கப்பட்டதே <br class="wide-br">மாற்றி வடிவமைத்திடதான்
