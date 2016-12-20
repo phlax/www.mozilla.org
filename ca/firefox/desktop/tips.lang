@@ -1,8 +1,4 @@
-## active ##
-## sync_device_note ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/tips/
-
-
+# main title
 # main title
 ;The best of the latest Firefox
 El millor del darrer Firefox
@@ -57,6 +53,7 @@ següent
 
 
 # Tip 1
+# Tip 1
 ;Click the star
 Feu clic a l'estrella
 
@@ -78,6 +75,7 @@ Feu clic a l'estrella per afegir i gestionar adreces d'interès.
 
 
 # Tip 2
+# Tip 2
 ;Simplify your life
 Simplifiqueu
 
@@ -91,10 +89,12 @@ Elimineu els botons que no feu servir i així trobareu més fàcilment els que s
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Open the menu, select “<strong>Customize</strong>” and drag any button out of the toolbar.
 Obriu el menú, seleccioneu «<strong>Personalitza</strong>» i arrossegueu qualsevol botó fora de la barra d'eines.
 
 
+# Tip 3
 # Tip 3
 ;Add your faves
 Afegiu elements al gust
@@ -105,30 +105,36 @@ Tingueu a mà les funcions que feu servir més sovint i reordeneu-les per tenir-
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Open the menu, select “<strong>Customize</strong>” and drag any button into the toolbar or menu.
 Obriu el menú, seleccioneu «<strong>Personalitza</strong>» i arrossegueu qualsevol botó a la barra d'eines o al menú.
 
 
+# Tip 4
 # Tip 4
 ;Stay in Sync
 Sincronitzeu-vos
 
 
 # New string
+# New string
 ;Use Sync to magically access your open tabs, passwords and more wherever you use Firefox.
 Empreu el Sync per accedir a les vostres pestanyes obertes, contrasenyes i més arreu on utilitzeu el Firefox.
 
 
+# Old string, will be removed once the new string is activated
 # Old string, will be removed once the new string is activated
 ;Use Sync to magically access your open tabs, passwords and more from any device.
 Empreu el Sync per accedir a les vostres pestanyes obertes, contrasenyes i més des de qualsevol dispositiu.
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Choose “<strong>Sign in to Sync</strong>” from the menu and make Firefox your own wherever you use it.
 Al menú, escolliu «<strong>Inicia la sessió al Sync</strong>» i feu-vos el Firefox vostre arreu on l'utilitzeu.
 
 
+# Tip 5
 # Tip 5
 ;Free your add-ons
 Allibereu els complements
@@ -138,6 +144,7 @@ Allibereu els complements
 Tingueu els complements especials i preferits en el menú perquè sempre estiguin visibles i a l'abast.
 
 
+# The strong tags are for presentational purpose
 # The strong tags are for presentational purpose
 ;Select “<strong>Customize</strong>” from the menu and drag in the add-ons you want.
 Al menú, seleccioneu «<strong>Personalitza</strong>» i arrossegueu-hi els complements que vulgueu.
@@ -160,20 +167,24 @@ Ajudeu els amics a ser experts del Firefox.
 
 
 # Accessibility string for link
+# Accessibility string for link
 ;Learn more about bookmarks
 Més informació sobre les adreces d'interès
 
 
+# Accessibility string for link
 # Accessibility string for link
 ;Learn more about customizing
 Més informació sobre la personalització
 
 
 # Accessibility string for link
+# Accessibility string for link
 ;Learn more about Sync
 Més informació sobre el Sync
 
 
+# Accessibility string for link
 # Accessibility string for link
 ;Learn more about add-ons
 Més informació sobre els complements
