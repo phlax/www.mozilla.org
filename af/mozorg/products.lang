@@ -1,7 +1,3 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/products/
-
-
 ;Mozilla Products — Built by us, for the Web
 Mozilla-produkte — gebou deur ons, vir die Web
 
@@ -23,10 +19,12 @@ Rekenaar
 
 
 # Firefox Desktop
+# Firefox Desktop
 ;The free, non-profit browser for your desktop.
 Die gratis webblaaier vir die rekenaar.
 
 
+# Firefox for Android
 # Firefox for Android
 ;The fast, smart, safe choice for Android browsing.
 Die vinnige, flink, en veilige webblaaier op Android.
@@ -37,60 +35,72 @@ OS {ok}
 
 
 # Firefox OS
+# Firefox OS
 ;An open operating system for mobile devices.
 'n Oop bedryfstelsel vir selfone.
 
 
+# Open Badges
 # Open Badges
 ;A new standard to recognize and verify learning.
 'n Nuwe standaard vir erkenning en verifikasie van leer.
 
 
 # Marketplace
+# Marketplace
 ;A creation and distribution platform for apps.
 'n Platform vir die skep en verspreiding van toepassings.
 
 
+# Persona
 # Persona
 ;A better way to sign in to websites.
 'n Beter manier vir aanmelding by webwerwe.
 
 
 # Thunderbird
+# Thunderbird
 ;Safe, fast and easy email.
 Veilige, vinnige en maklike e-pos.
 
 
+# Webmaker
 # Webmaker
 ;Make something amazing with the Web.
 Maak iets ongeloofliks met die Web.
 
 
 # WebFWD
+# WebFWD
 ;Our community-driven innovation accelerator.
 Ons gemeenskapsgedrewe innoveringversneller.
 
 
+# Labs
 # Labs
 ;New ways to explore, experiment and innovate.
 Nuwe maniere om te ontdek, eksperimenteer en innoveer.
 
 
 # Bugzilla
+# Bugzilla
 ;A bug tracking system to help manage software development.
 'n Foutspoorstelsel om te help met sagteware-ontwikkeling.
 
 
+# Firebug
 # Firebug
 ;Inspect, debug, analyze and more inside your browser.
 Inspekteer, ontfout en analiseer binne-in die blaaier.
 
 
 # Gecko
+# Gecko
 ;The layout engine that drives Firefox.
 Die uitleg-enjin wat Firefox aandryf.
 
 
+# XULRunner
 # XULRunner
 ;An environment for XUL-based applications.
 'n Omgewing vir XUL-gebaseerde toepassings.
