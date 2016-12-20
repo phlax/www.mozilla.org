@@ -1,20 +1,16 @@
-## active ##
-## android_reader_links ##
-## android_spring_updates ##
-## tracking_protection ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
-
-
+# Used in HTML as page title
 # Used in HTML as page title
 ;Firefox for Android — Mobile Web browser — More ways to customize and protect your privacy
 Firefox Android — Porwr Gwe Symudol — Rhagor o ffyrdd i gyfaddasu a diogelu eich preifatrwydd
 
 
 # Used in HTML as page description
+# Used in HTML as page description
 ;Only Firefox for Android offers so many ways to make your mobile browsing experience truly your own
 Dim ond Firefox Android sy'n cynnig gymaint o ffyrdd o wneud eich pori symudol yn unigryw i chi
 
 
+# alt text for image (hard-coded image needs to be fixed)
 # alt text for image (hard-coded image needs to be fixed)
 ;Firefox for Android
 Firefox ar gyfer Android
@@ -48,6 +44,7 @@ Llwythwch i lawr o Google Play
 Yn unigryw i chi
 
 
+# Line break below is for visual formatting only. Remove if it's not useful for your locale
 # Line break below is for visual formatting only. Remove if it's not useful for your locale
 ;Only Firefox for Android offers this many ways to make<br> your mobile browsing experience truly your own.
 Dim ond Firefox Android sy'n cynnig gymaint o ffyrdd o wneud<br> eich profiad o bori'r we yn unigryw i chi.
@@ -114,10 +111,12 @@ Cael mynediad i'ch erthyglau cadw hyd yn oed pan nad ydych ar-lein.
 
 
 # Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
+# Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
 ;Learn more about Reading List
 Dysgu rhagor am y Rhestr Ddarllen
 
 
+# Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 # Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 ;Learn more about Reader View
 Dysgu rhagor am y Golwg Darllen
@@ -220,35 +219,42 @@ Nodiadau rhyddhau
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do not track
 Dim tracio
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
 Mae galluogi'r arloesedd Firefox yma'n caniatáu i chi gadw rheolaeth ar sut mae eich gwybodaeth pori'n cael ei gasglu a'i ddefnyddio ar-lein.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 Dysgu rhagor am Dim Tracio
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private Browsing
 Pori Preifat
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
 Wedi ei alluogi, ni fydd Firefox Android yn derbyn cwcis, cofio cyfrineiriau na chofnodi unrhyw wefannau eraill i chi ymweld â nhw.
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Learn how to open a private window
 Dysgu sut i agor ffenestr breifat
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;See how Private Browsing works
 Gweld sut mae Pori Preifat yn gweithio
