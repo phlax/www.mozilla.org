@@ -1,7 +1,3 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/products/
-
-
 ;Mozilla Products — Built by us, for the Web
 Iimveliso zeMozilla — Yenziwe sithi, sisenzela iWebhu
 
@@ -23,10 +19,12 @@ Idesktopu
 
 
 # Firefox Desktop
+# Firefox Desktop
 ;The free, non-profit browser for your desktop.
 Ibhrawuza yasimahla, engenzi nzuzo kwidesktopu yakho.
 
 
+# Firefox for Android
 # Firefox for Android
 ;The fast, smart, safe choice for Android browsing.
 Ukubhrawuza nge-Andrioid ekhawulezayo, enobuchwepheshe, ekhuselekileyo.
@@ -37,60 +35,72 @@ OS {ok}
 
 
 # Firefox OS
+# Firefox OS
 ;An open operating system for mobile devices.
 Inkqubo yokusebenza evulekileyo yezixhobo zeefowuni eziphathwayo.
 
 
+# Open Badges
 # Open Badges
 ;A new standard to recognize and verify learning.
 Umgaqo omtsha wokuqonda nokuqinisekisa.
 
 
 # Marketplace
+# Marketplace
 ;A creation and distribution platform for apps.
 Iqonga lokuyila nokuhambisa ii-apps.
 
 
+# Persona
 # Persona
 ;A better way to sign in to websites.
 Indlela engcono yokungena kwiiwebhusayithi.
 
 
 # Thunderbird
+# Thunderbird
 ;Safe, fast and easy email.
 I-imeyili ekhuselekileyo, ekhawulezayo nelula.
 
 
+# Webmaker
 # Webmaker
 ;Make something amazing with the Web.
 Yenza into emangalisayo ngeWebhu.
 
 
 # WebFWD
+# WebFWD
 ;Our community-driven innovation accelerator.
 Isikhawulezisi sethu senkqubela ephenjelelwa luluntu.
 
 
+# Labs
 # Labs
 ;New ways to explore, experiment and innovate.
 Iindlela ezintsha zokuhlola, ukulinga nokuyila.
 
 
 # Bugzilla
+# Bugzilla
 ;A bug tracking system to help manage software development.
 Inkqubo yokulanda umkhondo weebhagi ukukunceda ulawule uphuhliso lwesoftwe.
 
 
+# Firebug
 # Firebug
 ;Inspect, debug, analyze and more inside your browser.
 Hlola, ukhuphe ibhagi, uhlalutye uze wenze izinto ezingakumbi phakathi kwebhrawuza yakho.
 
 
 # Gecko
+# Gecko
 ;The layout engine that drives Firefox.
 Injini yokucakaca ephembelela iFirefox.
 
 
+# XULRunner
 # XULRunner
 ;An environment for XUL-based applications.
 Imeko yezinto ezisekelwe kwi-XUL.
