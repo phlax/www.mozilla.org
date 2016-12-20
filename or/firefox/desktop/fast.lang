@@ -1,12 +1,10 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/fast/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — The "speed king" - The fastest browser on the Web
 Firefox — "ଗତିର ରାଜା" - ୱେବରେ ଉପଲବ୍ଧ ତୀବ୍ରତମ ବ୍ରାଉଜର
 
 
+# Main title
 # Main title
 ;Faster than ever
 ଆଗ ଅପେକ୍ଷା ଅଧିକ ତୀବ୍ର
@@ -17,6 +15,7 @@ Firefox — "ଗତିର ରାଜା" - ୱେବରେ ଉପଲବ୍ଧ ତ
 
 
 # L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 ;It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 ଏହା ଉଭୟ ଯାନ୍ତ୍ରିକ ମାନଦଣ୍ଡ <br class="wide-br">ଏବଂ ଆପଣଙ୍କର ଦୈନନ୍ଦିନର କାର୍ଯ୍ୟକୁ  ତ୍ୱରିତ କରିଥାଏ।
 
@@ -25,6 +24,7 @@ Firefox — "ଗତିର ରାଜା" - ୱେବରେ ଉପଲବ୍ଧ ତ
 “ଗତିର ରାଜା”
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
 Firefox ନିକଟରେ ସ୍ୱତନ୍ତ୍ର ପରୀକ୍ଷାରେ ଅନ୍ୟାନ୍ୟ ବ୍ରାଉଜରକୁ ପଛରେ ପକାଇ <br class="wide-br"> <a href="%(url1)s" data-interaction="outbound link">“ଗତିର ରାଜା”</a> ଉପାଧି ପାଇଛି।
@@ -58,6 +58,7 @@ Firefox ହେଉଛି ଅନଲାଇନ ଖେଳରେ ଆମର ପ୍ର�
 ଆପଣ ବ୍ୟବହାର କରୁଥିବା ୱେବ ଅନୁସାରେ ଆମେ Firefox କୁ ଉତ୍କୃଷ୍ଟ କରିଥାଉ।
 
 
+# L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 ;So things like opening or switching <br class="wide-br">between tabs and getting results from the Awesome Bar happen faster than ever.<br class="wide-br">
 ତେଣୁ ଟ୍ୟାବଗୁଡ଼ିକ ମଧ୍ଯରେ ଖୋଲିବା ଅଥବା ବଦଳାଇବା ପରି କାମ ପାଇଁ <br class="wide-br">ଏବଂ ଏହି ଅଦ୍ଭୁତ ପଟିରୁ ଫଳାଫଳ ପାଇବା ଆଗ ଅପେକ୍ଷା ଅଧିକ ତୀବ୍ର ହୋଇଥାଏ।<br class="wide-br">
