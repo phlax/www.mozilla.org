@@ -1,8 +1,3 @@
-## active ##
-## geolocation_faq_update ##
-## NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
-
-
 ;Geolocation in Firefox
 Firefox геолокация қызметі
 
@@ -195,6 +190,7 @@ Google-дың жекелік саясаты
 Өзімнің веб сайтыма геолокация қолдауын қалай қоса аламын?
 
 
+# Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
 Сіз өз қызметіңізге геолокация қолдауын <a href="%(url)s">Mozilla өндіруші орталығындағы</a> нұсқамаға сәйкес қоса аласыз.
