@@ -1,6 +1,3 @@
-## NOTE: Demo server available at https://www-dev.allizom.org/contribute/stories
-
-
 ;Meet Mozillians from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
 Meet Mozillians from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
 
@@ -17,6 +14,7 @@ Read their stories here and discover even more on Twitter with <a href="%(link_h
 Stories van Mozilla-mense
 
 
+# These <b>s are for formatting.
 # These <b>s are for formatting.
 ;Hi, I’m <b class="name">Rubén</b>, a Mozillian in <b class="country">Spain</b>
 Hi, I’m <b class="name">Rubén</b>, a Mozillian in <b class="country">Spain</b>
@@ -42,6 +40,7 @@ Mozilla Hispano mentorship program
 Community events
 
 
+# These <b>s are for formatting so we can style the name and country.
 # These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Faye</b>, a Mozillian in <b class="country">the Philippines</b>
 Hi, I’m <b class="name">Faye</b>, a Mozillian in <b class="country">the Philippines</b>
@@ -76,6 +75,7 @@ My favorite part of being a Mozillian is the global community. I like to think o
 
 
 # These <b>s are for formatting so we can style the name and country.
+# These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Shreyas</b>, a Mozillian in <b class="country">India</b>
 Hi, I’m <b class="name">Shreyas</b>, a Mozillian in <b class="country">India</b>
 
@@ -104,6 +104,7 @@ One thing I’m most proud of in my time as a Mozillian is “KidZilla,” a pro
 I’m also an avid writer — if you work in Communications or PR, feel free to get in touch with me. I would love to work on something. And if you ever want to talk about Webmaking and teaching, I’m always available.
 
 
+# These <b>s are for formatting so we can style the name and country.
 # These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Michael</b>, a Mozillian in <b class="country">Switzerland</b>
 Hi, I’m <b class="name">Michael</b>, a Mozillian in <b class="country">Switzerland</b>
