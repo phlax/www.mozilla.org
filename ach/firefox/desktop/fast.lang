@@ -1,9 +1,13 @@
 # <title> tag
 # <title> tag
+# <title> tag
+# <title> tag
 ;Firefox — The "speed king" - The fastest browser on the Web
 Firefox — The "speed king" - The fastest browser on the Web
 
 
+# Main title
+# Main title
 # Main title
 # Main title
 ;Faster than ever
@@ -16,6 +20,8 @@ This is the fastest Firefox yet.
 
 # L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 ;It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 
@@ -24,6 +30,8 @@ It excels at both technical benchmarks <br class="wide-br">and the everyday task
 The “speed king”
 
 
+# L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
@@ -58,6 +66,8 @@ Speed you can feel
 We optimize Firefox for the way you use the Web.
 
 
+# L10n: Line breaks below are for wide screen formatting only.
+# L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 ;So things like opening or switching <br class="wide-br">between tabs and getting results from the Awesome Bar happen faster than ever.<br class="wide-br">
