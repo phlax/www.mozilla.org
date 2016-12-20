@@ -1,8 +1,3 @@
-## active ##
-## geolocation_faq_update ##
-## NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
-
-
 ;Geolocation in Firefox
 Geolocalització en el Firefox
 
@@ -195,6 +190,7 @@ A partir d'aquell moment la geolocalització integrada estarà inhabilitada
 Com puc afegir suport de geolocalització al meu lloc web?
 
 
+# Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
 Podeu integrar suport de geolocalització al vostre servei seguint les instruccions del <a href="%(url)s">Mozilla Developer Center</a>.
