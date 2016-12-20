@@ -1,17 +1,16 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/firefox/whatsnew/ and https://www-dev.allizom.org/firefox/firstrun/
-
-
+# Headline in /firstrun page
 # Headline in /firstrun page
 ;Take a quick tour
 Pristatome „Firefox“ naujoves
 
 
 # Headline in /whatsnew page
+# Headline in /whatsnew page
 ;Welcome to Firefox
 Sveiki! Tai „Firefox“
 
 
+# Sub-headline in /firstrun page
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
 Pašvęsta jums, jūsų privatumui ir atvirajam saitynui.
@@ -34,6 +33,7 @@ Sugrupuotos greitai ir paprastai prieigai
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites are<br> closer than ever
 Mėgstamiausios svetainės<br> arčiau nei bet kada
 
@@ -46,6 +46,7 @@ Priedais naršyklei suteiksite naujų galimybių ar pakeisite jos išvaizdą
 Naudojatės „Firefox“ kitame įrenginyje?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Designed so you can<br> make it your own
 Sukurta, kad būtų<br> suasmeninama
@@ -68,10 +69,12 @@ Bus atvertas naujas langas
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
+# This is the text for a door-hanger menu that shows in the browser chrome
 ;It’s the fastest, most flexible Firefox ever.
 Ši „Firefox“ laida – sparčiausia ir lanksčiausia iš visų.
 
 
+# This is the label for a button that opens the tour modal dialog
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
 Atverti pristatymą
@@ -90,10 +93,12 @@ Dabar – geriausias „Firefox“ metas
 
 
 # This is the label for a button that closes the tour modal dialog
+# This is the label for a button that closes the tour modal dialog
 ;Close tour
 Užverti pristatymą
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
 Tūkstančiai būdų papildyti „Firefox“<br> naujomis galimybėmis
@@ -103,6 +108,7 @@ Tūkstančiai būdų papildyti „Firefox“<br> naujomis galimybėmis
 Dabar dar lengviau ieškoti, naudotis ir tvarkyti
 
 
+# This is the title for a door-hanger menu that shows in the browser chrome
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
 Susipažinkite su naujovėmis
@@ -129,6 +135,7 @@ Pildykite ir naudokitės adresynu iš naujosios vietos
 
 
 # This is the text for a call to action that appears in the web page
+# This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
 Susipažinkite su naujovėmis – pažiūrėkite jų pristatymą
 
@@ -150,30 +157,36 @@ Pasidalinkite savo vizija
 
 
 # This is the label for a button that delays starting the tour
+# This is the label for a button that delays starting the tour
 ;Not now
 Ne dabar
 
 
+# This is the label for a button that starts the tour
 # This is the label for a button that starts the tour
 ;Let’s go
 Pirmyn!
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 1/4 {ok}
 
 
+# This is the label that represents tour step three of four
 # This is the label that represents tour step three of four
 ;3/4
 3/4 {ok}
 
 
 # This is the label that represents tour step two of four
+# This is the label that represents tour step two of four
 ;2/4
 2/4 {ok}
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 4/4 {ok}
@@ -207,6 +220,7 @@ Pirmyn!
 Susipažinkite su naująja išvaizda
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 Viskas prasideda nauju,<br> intuityviu meniu
@@ -245,6 +259,7 @@ Pradėti naršymą
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 Mėgstamiausios svetainės<br> arčiau nei bet kada
 
@@ -261,6 +276,7 @@ Norite prijungti kitą įrenginį?
 Kokio saityno norėtumėte jūs?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the redesigned,<br> intuitive menu
 Viskas prasideda atnaujintu,<br> intuityviu meniu
