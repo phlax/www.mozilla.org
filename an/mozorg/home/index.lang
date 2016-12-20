@@ -1,14 +1,10 @@
-## active ##
-## ios_promo ##
-## teach_the_web_promo ##
-## NOTE: demo server at https://www-dev.allizom.org/
-
-
+# Used as page title in HTML meta tag
 # Used as page title in HTML meta tag
 ;We’re building a better Internet
 Somos fendo un internet millor
 
 
+# Used as page description in HTML meta tag
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Sabebas que? Mozilla — os creyadors d'o Firefox — luita ta mantenir Internet como un recurso publico global ubierto y accesible ta totz.
@@ -43,6 +39,7 @@ Preba a Navegación Privada
 
 
 # Small tile. Link points to https://advocacy.mozilla.org
+# Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 Descubre Mozilla Advocacy
 
@@ -63,6 +60,7 @@ Aduya a millons a <br>obtener o maximo d'o suyo <br>navegador favorito.
 Une-te a o nuestro equipo de soporte
 
 
+# Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 # Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 ;Get smart on Tracking
 Conoixe mas sobre o Seguimiento
@@ -89,10 +87,12 @@ Aconsigue o Firefox pa iOS
 
 
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Try Firefox Developer Edition
 Preba Firefox Developer Edition
 
 
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Introducing Firefox Developer Edition
 Presentando Firefox Developer Edition
@@ -119,30 +119,36 @@ Cilebra con nusatros
 
 
 # Used in Twitter feed
+# Used in Twitter feed
 ;Reply
 Responde
 
 
+# Used in Twitter feed
 # Used in Twitter feed
 ;Retweet
 Retweeta
 
 
 # <strong> tags below are for visual formatting only.
+# <strong> tags below are for visual formatting only.
 ;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
 Embrecaus con <strong>tu, con a tuya privacidat</strong> y con una <strong>Web ubierta</strong>
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians <br>worldwide
 Mozillians activos <br>por tot lo mundo
 
 
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events <br>around the globe
 eventos venients <br>arredol d'o globo
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;languages and counting, <br>on every continent
 luengas y creixendo, <br>en totz os continents
@@ -184,6 +190,7 @@ Obtiene respuestas a las tuyas qüestions sobre Firefox y totz os productos de M
 Descubre mas
 
 
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
 # This is used as a link to dismiss the video overlay and continue to mozilla.org website
 ;Continue to mozilla.org
 Contina enta mozilla.org
