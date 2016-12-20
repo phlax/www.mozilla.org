@@ -1,4 +1,6 @@
-## active ##
+# State of Mozilla 2011 annual report, main page
+# test server: https://www-dev.allizom.org/foundation/annualreport/2011/
+# tracking bug for L10N https://bugzilla.mozilla.org/show_bug.cgi?id=788871
 # State of Mozilla 2011 annual report, main page
 # test server: https://www-dev.allizom.org/foundation/annualreport/2011/
 # tracking bug for L10N https://bugzilla.mozilla.org/show_bug.cgi?id=788871
@@ -74,6 +76,7 @@ Firefox OS est la première plateforme pour mobile véritablement ouverte. Les d
 Les appareils sous Firefox OS seront lancés dès le début 2013 en partenariat avec <a href="%(telefonica_url)s" rel="external">Telefónica</a>, et imposeront le HTML5 comme une plateforme fiable dans l’industrie du mobile. Le Web en tant que plateforme rendra les développeurs plus libres de créer de nouvelles applications à couper le souffle qui fonctionneront sans soucis sur tous les appareils, et jettera les bases d’une nouvelle ère d’innovation et de créativité sur un Web désormais omniprésent.
 
 
+# Fast. Smart. Safe." is a slogan for Firefox for Android. It appears here as three separate strings for styling and layout purposes.
 # Fast. Smart. Safe." is a slogan for Firefox for Android. It appears here as three separate strings for styling and layout purposes.
 ;Fast.
 Rapide.
@@ -308,10 +311,12 @@ Formulaire 990, 2011
 
 
 # This is a button inciting the user to read the following section of content in a modal window.
+# This is a button inciting the user to read the following section of content in a modal window.
 ;Read
 Lire
 
 
+# This is a button inciting the user to read the following section of content in a modal window
 # This is a button inciting the user to read the following section of content in a modal window
 ;Done
 Terminé
@@ -325,6 +330,7 @@ Chez Mozilla, nous mesurons le succès aux améliorations que nous apportons à 
 Mozilla a annoncé un partenariat commercial pour Firefox OS avec Telefónica. Les détails de cet accord sont soumis aux traditionnelles exigences de confidentialité. Nous créons de nouveaux partenariats avec des <abbr title="Original Equipment Manufacturers">OEM</abbr> (fabricants d’équipements d’origine) et des opérateurs supplémentaires, lesquels seront annoncés fin 2012 et en 2013. Nous avons également de nombreux accords avec les éditeurs d’applications qui seront présentes sur le Firefox Marketplace.
 
 
+# This string is for the page <title> value
 # This string is for the page <title> value
 ;The State of Mozilla: 2011 Annual Report
 Rapport annuel de Mozilla : 2011
