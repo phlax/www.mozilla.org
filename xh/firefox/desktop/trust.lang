@@ -1,19 +1,16 @@
-## active ##
-## forget_button ##
-## tracking_protection ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — Designed to protect your privacy — The most trusted browser on the Web
 IFirefox - Yenzelwe ukukhusela ubungasese bakho - Eyona bhrawuza ithembekileyo kwiwebhu
 
 
 # main title
+# main title
 ;Trust isn’t made. It’s earned.
 Intembeko ayenziwa. Iyazuzwa.
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;We build Firefox with a mission to put you first, above all else.<br class="wide-br">
 Senze iFirefox ngenjongo yokubeka wena kuqala, kunayo yonke enye into.<br class="wide-br">
@@ -31,6 +28,7 @@ Siyenzela ukuba ube nakho ukubhrawuza ngaphandle kwenkathazo.<br class="wide-br"
 Kwaye siyenza kuba akukho namnye uya kuze ayenze.
 
 
+# The span tags are for presentational purpose
 # The span tags are for presentational purpose
 ;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
 <span id="trust-line1">Eyona nkampani</span> <span id="trust-line2">yeintanethi ithembekileyo</span> <span id="trust-line3">yobungasese</span>
@@ -60,6 +58,8 @@ Bhrawuza ngaphandle kokuba nembali yakho, ukhangelo okanye iikuki ezigciniweyo, 
 Funda ngakumbi ngoBhrawuzo Lwabucala
 
 
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 ;Forget Button
@@ -127,6 +127,7 @@ Bhrawuza ngaphandle kwenkathazo
 
 
 # L10n: Line break below is for visual formatting only.
+# L10n: Line break below is for visual formatting only.
 ;Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
 Funda ngakumbi ngesizathu sokuba ubungasese bakho nokhuselo lwakho zibaluleke kangaka <br class="wide-br">nokuba ungenza ntoni ukuzikhusela kwikhompyutha.
 
@@ -156,35 +157,42 @@ Ibhlogi yokhuseleko
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do Not Track
 Musa ukulanda umkhondo
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
 Uqambo lweFirefox, Musa ukulanda umkhondo, ikwenza ubonise okholwa kuko ngendlela ingcaciso yakho eqokelelwa ngayo nesetyenziswa ngayo kwikhompyutha.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 Funda ngakumbi ngoku; Musa ukulanda umkhondo
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private browsing
 Ukubhrawuza kwangasese
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Sometimes it’s nice to go undercover.
 Ngamanye amaxesha kuba mnandi ukuzimela.
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Turn this feature on to protect your browsing history from others.
 Layita olu phawu ukukhusela imbali yakho yokubhrawuza kwabanye.
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Learn how to open a private window
 Funda indlela yokuvula iwindow yangasese
