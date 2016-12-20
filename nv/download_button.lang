@@ -1,6 +1,3 @@
-## NOTE: Strings used in our download buttons. Test area: https://www-dev.allizom.org/styleguide/all-download-buttons/
-
-
 ;Download Firefox
 Firefox níłch’ih bee ’ééhoziní bits’ą́ą́dóó choideesht’eeł nisin.
 
@@ -53,6 +50,7 @@ Firefox Aurora {ok}
 T’áá jíík’ehgo níłch’ih bee ’ééhoziní bits’ą́ą́dóó choot’eehígíí ’át’é.
 
 
+# Displayed in the download button for users of old versions of Firefox (should be short)
 # Displayed in the download button for users of old versions of Firefox (should be short)
 ;Update your Firefox
 Firefox t’áá ’ániidí ’ánídeeshdlííł nisin.
