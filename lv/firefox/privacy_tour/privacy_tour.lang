@@ -1,52 +1,58 @@
-## active ##
-## NOTE: we don't have a demo server yet
-
-
+# This is the title for a door-hanger menu that shows in the browser chrome
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
 Uzzini, kas jauns
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
+# This is the text for a door-hanger menu that shows in the browser chrome
 ;You’re up to date with the latest features to help keep you in control.
 Jums ir visas jaunākās iespējas, kas palīdz saglabāt kontroli.
 
 
+# This is the label for a button that starts the tour
 # This is the label for a button that starts the tour
 ;Let’s go
 Lai iet!
 
 
 # This is the label for a button that delays starting the tour
+# This is the label for a button that delays starting the tour
 ;Not now
 Ne tagad
 
 
+# This is the label for a button that opens the tour modal dialog
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
 Atvērt ekskursiju
 
 
 # This is the label for a button that closes the tour modal dialog
+# This is the label for a button that closes the tour modal dialog
 ;Close tour
 Aizvērt ekskursiju
 
 
+# This is the text for a call to action that appears in the web page
 # This is the text for a call to action that appears in the web page
 ;See the newest ways you can take control of your digital life
 Uzziniet jaunākos veidus, kā kontrolēt savu digitālo dzīvi
 
 
 # This is the label that represents tour step one of three
+# This is the label that represents tour step one of three
 ;1/3
 1/3 {ok}
 
 
 # This is the label that represents tour step two of three
+# This is the label that represents tour step two of three
 ;2/3
 2/3 {ok}
 
 
+# This is the label that represents tour step three of three
 # This is the label that represents tour step three of three
 ;3/3
 3/3 {ok}
@@ -98,10 +104,15 @@ Aizvērt
 
 # STEP 1 of the tour (Forget button)
 # %s is a searchplugin name
+# STEP 1 of the tour (Forget button)
+# %s is a searchplugin name
 ;<span>Next:</span> %s
 <span>Nākamais:</span> %s
 
 
+# <br> tag below used for formatting only.
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 # <br> tag below used for formatting only.
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
@@ -146,6 +157,7 @@ Gribēsiet to pievienot vēlāk? Atveriet izvēlni un izvēlieties Pielāgot. Ta
 
 
 # STEP 2 of the tour (search engines)
+# STEP 2 of the tour (search engines)
 ;<span>Previous:</span> Forget
 <span>Iepriekšējā:</span> Aizmirst
 
@@ -154,6 +166,7 @@ Gribēsiet to pievienot vēlāk? Atveriet izvēlni un izvēlieties Pielāgot. Ta
 <span>Nākamā:</span> Privātā pārlūkošana
 
 
+# %s is a searchplugin name. <br> tag below used for formatting only.
 # %s is a searchplugin name. <br> tag below used for formatting only.
 ;%s lets you <br>search anonymously
 %s ļauj jums <br>meklēt anonīmi
@@ -172,10 +185,13 @@ Atrodiet meklēto saglabājot kontroli
 
 
 # %s is a searchplugin name
+# %s is a searchplugin name
 ;<span>Previous:</span> %s
 <span>Iepriekšējā:</span> %s
 
 
+# STEP 3 of the tour (Private Browsing)
+# <br> tag below used for formatting only.
 # STEP 3 of the tour (Private Browsing)
 # <br> tag below used for formatting only.
 ;Private Browsing: <br>Our original privacy tool
