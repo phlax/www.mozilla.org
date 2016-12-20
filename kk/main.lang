@@ -4,30 +4,37 @@
 
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
 Жұмыс үстелі <span>үшін</span>
 
 
+# Firefox family navigation menu. Main level item.
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
 Android <span>үшін</span>
 
 
 # Firefox family navigation menu. Main level item.
+# Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
 iOS <span>үшін</span>
 
 
+# Firefox family navigation menu. Main level item.
 # Firefox family navigation menu. Main level item.
 ;OS
 ОЖ
 
 
 # Used for the navigation menu only in Firefox OS pages
+# Used for the navigation menu only in Firefox OS pages
 ;TV
 Теледидар
 
 
+# Used for the navigation menu, points to /firefox/channel
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Шығарылымға дейінгі жүктеп алулар
@@ -35,60 +42,73 @@ iOS <span>үшін</span>
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
 Жұмыс үстелі және ноутбуктер үшін
 
 
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
 Телефондар және планшеттер үшін
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
+# Firefox family navigation menu. Second-level item shared across different menus.
 ;Overview
 Шолу
 
 
+# Firefox family navigation menu. Second-level item shared across different menus.
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
 Сенімді
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
+# Firefox family navigation menu. Second-level item shared across different menus.
 ;Flexible
 Икемді
 
 
+# Firefox family navigation menu. Second-level item shared across different menus.
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Fast
 Жылдам
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Біз туралы
 
 
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
 Құрылғылар
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
 Серіктестер үшін
 
 
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
 Қолданбалар
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Do Not Track {ok}
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
 Кіші көріністер
@@ -96,50 +116,61 @@ Do Not Track {ok}
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
 Interest Dashboard {ok}
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
 Өндіруші нұсқасы
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
 Жекелік шолу режимі
 
 
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
 Көмек керек пе?
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 Жаңалықтар
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
 Өндірушілер үшін
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
 Менің құрылғымды табу
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
 Өндірушілер
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
 Тәуелсіз браузерді таңдаңыз
 
 
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 Firefox коммерциялы емес, корпоративті емес және әшкереленген емес. Firefox-ты таңдау тек браузерді таңдау ғана емес. Ол жеке бостандық үшін дауыс беру.
@@ -206,10 +237,12 @@ Mozilla туралы
 
 
 # Will replace "Other languages" for the footer's language switcher
+# Will replace "Other languages" for the footer's language switcher
 ;Page language:
 Бет тілі:
 
 
+# Year / Month / Day, indicate your prefered date format for your language
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %d.%m.%Y
@@ -220,10 +253,12 @@ Mozilla туралы
 
 
 # Used as link in the footer
+# Used as link in the footer
 ;Cookies
 Cookies {ok}
 
 
+# Used as link in the footer
 # Used as link in the footer
 ;Firefox Affiliates
 Firefox көмекшілері
@@ -278,6 +313,7 @@ Firefox көмекшілері
 
 
 # MegaBytes abbreviation
+# MegaBytes abbreviation
 ;MB
 МБ
 
@@ -307,6 +343,7 @@ Firefox көмекшілері
 
 
 # social networks such as Facebook and Twitter
+# social networks such as Facebook and Twitter
 ;Follow us on:
 Біздің соңымыздан еріңіз:
 
@@ -320,10 +357,12 @@ Firefox көмекшілері
 
 
 # Same as previous above but with no capitalization on More
+# Same as previous above but with no capitalization on More
 ;Learn more
 Көбірек білу
 
 
+# Link used to play again an animation or a video
 # Link used to play again an animation or a video
 ;Replay
 Қайта ойнату
@@ -414,230 +453,276 @@ MPEG-4 пішімі
 
 
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
 Не жаңалық
 
 
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 ;Privacy
 Жекелік
 
 
 # Footer string
+# Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Құрама бөліктері ©1998–%(current_year)s жеке mozilla.org үлес қосушыларымен иеленуде. Құрама <a href="%(url)s">Creative Commons лицензиясы</a> аясында қолжетерлік.
 
 
+# Footer string (will replace "Contribute to this page")
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
 Бұл сайтқа үлес қосу
 
 
 # Footer string
+# Footer string
 ;Contribute to this page
 Бұл параққа үлес қосу
 
 
+# Top menu item
 # Top menu item
 ;Mission
 Мақсатымыз
 
 
 # Footer item on some pages to link to a tour of features
+# Footer item on some pages to link to a tour of features
 ;Tour
 Шолу
 
 
+# Footer item
 # Footer item
 ;Partner with Us
 Бізбен серіктес болу
 
 
 # Top menu item on pages like firefox/desktop/tips/
+# Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Синхрондау
 
 
+# Top menu item on pages like firefox/desktop/tips/
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
 Жұмыс үстел нұсқасының қосымшалары
 
 
 # Top menu item on pages like firefox/desktop/tips/
+# Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
 Android кеңейтулері
 
 
+# Top menu item on pages like firefox/desktop/tips/
 # Top menu item on pages like firefox/desktop/tips/
 ;Themes
 Темалар
 
 
 # Top menu item on pages like firefox/desktop/tips/
+# Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
 Жұмыс үстел нұсқасын қолдау
 
 
+# Top menu item on pages like firefox/desktop/tips/
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
 Android қолдауы
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Performance
 Өнімділік
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Technology
 Технология
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Privacy &amp; Security
 Жекелік және қауіпсіздік
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Releases
 Шығарылымдар
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Firefox
 Firefox {ok}
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Firefox for Organizations
 Ұйымдар үшін Firefox
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Mobile Add-ons
 Мобильді нұсқасының қосымшалары
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Mobile Support
 Мобильді нұсқасын қолдау
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Blog
 Блог
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;About Firefox
 Firefox туралы
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Join Mozilla
 Mozilla-ға кіру
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Participate
 Қатысу
 
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
 Еркін мүшелер
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Brand Toolkit
 Брендинг үшін жинақ
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Partnerships
 Серіктестіктер
 
 
+# Newsletter subscription form above footer on some pages
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
 Mozilla жаңартуларын алу
 
 
 # share button for social networks
+# share button for social networks
 ;Share
 Бөлісу
 
 
+# footer link
 # footer link
 ;Mozilla on Twitter
 Mozilla Twitter желісінде
 
 
 # footer link
+# footer link
 ;Firefox on Twitter
 Firefox Twitter желісінде
 
 
+# footer link
 # footer link
 ;Mozilla on Facebook
 Mozilla Facebook желісінде
 
 
 # footer link
+# footer link
 ;Firefox on Facebook
 Firefox Facebook желісінде
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
 Форумдар
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
 Патенттер
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
 Озаттық
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
 Басқару
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
 Тарихы
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
 Өнімдеріміз
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
 Мақсатымызды ілгері жылжыту үшін жасалған БҚ және басқа инновациялар.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
 Бірнеше әр түрлі аймақтарда волонтер үлес қосушы болыңыз.
 
 
+# This is a non-visible string for blind people to indicate where the menu is
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
 Мәзір
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Сіз, сіздің жекелігіңіз, және ашық Интернет үшін жасалған
 
 
+# Common title used in Fx 10 pages
 # Common title used in Fx 10 pages
 ;Choose Independent
 Тәуелсіз болғанын таңдау
@@ -645,20 +730,25 @@ Firefox Facebook желісінде
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
 Еркін және ашық интернет үшін қалауыңыздан ауытқымаңыз! #ChooseIndependent. Firefox-ты таңдаңыз:
 
 
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
 Бұл бетті дұрыс көрсету үшін JavaScript-ті іске қосыңыз.
 
 
 # Used as link to /firefox/desktop in footers on some pages
+# Used as link to /firefox/desktop in footers on some pages
 ;Firefox Features
 Firefox мүмкіндіктері
 
 
+# Used as link to SUMO in footers on some pages
 # Used as link to SUMO in footers on some pages
 ;Firefox Help
 Firefox көмегі
@@ -761,6 +851,7 @@ Firefox көмегі
 
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
 Firefox жақында iOS-ке келеді! <a href="{url}">Көбірек білу үшін кіріңіз</a>.
 
@@ -770,20 +861,24 @@ Firefox жақында iOS-ке келеді! <a href="{url}">Көбірек б�
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
 ;Format
 Пішім
 
 
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;Text
 Мәтін
 
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
 HTML {ok}
 
 
+# This is the error message displayed if you provide an invalid email address in a form
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 Дұрыс эл. пошта адресін енгізіңіз.
@@ -798,25 +893,30 @@ HTML {ok}
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
 Firefox туралы барлығын<br> біліп отырыңыз.
 
 
+# This string is used for a subscription field on other pages than /newsletter/
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Firefox жаңалықтарын алу
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
+# This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
 СІЗДІҢ ЭЛ.ПОШТА АДРЕСІҢІЗ
 
 
 # Newsletter subscription Button
+# Newsletter subscription Button
 ;Sign Up Now
 Қазір тіркелгіні жасау
 
 
+# Old newsletter subscription Button
 # Old newsletter subscription Button
 ;Sign me up
 Мені де жазыңыз
@@ -843,10 +943,12 @@ Mozilla-ға байланысты жаңалықтар таспасына жаз
 
 
 # Obsolete string. Do not remove.
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Рахмет! Енді кіріс пошта бумасын тексеріп, өз жазылғандығыңызды дәлелдеңіз.
 
 
+# Obsolete string. Do not remove.
 # Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 Сіздің жазылғаныңызды дәлелдеу үшін, сізге mozilla@e.mozilla.org хабарды жібереді. Егер сіз оны көрмесеңіз, спам-фильтрді тексеріңіз. Біздің жаңалықтардың таратылымын алу үшін, сіз оған жазылғандығыңызды дәлелдеуңіз керек.
@@ -868,6 +970,7 @@ Mozilla-ға байланысты жаңалықтар таспасына жаз
 Firefox жөнінде кеңестер, жаңалықтар және т.б. алу
 
 
+# This string will be used as a navigation label in home page, pointing to /technology
 # This string will be used as a navigation label in home page, pointing to /technology
 ;Web Innovations
 Web Innovations
