@@ -1,17 +1,16 @@
-## active ##
-## NOTE: page is https://www-dev.allizom.org/firefox/os/devices/
-
-
+# Page title
 # Page title
 ;Firefox OS - Devices &amp; Availability
 Firefox OS - Jinawey &amp; duuyan
 
 
 # Main title - <br> tag below used for formatting only.
+# Main title - <br> tag below used for formatting only.
 ;Find Firefox OS <br>near you
 Duu Firefox OS <br>war here
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Explore <br>Firefox OS devices
 <br>Firefox OS jinawey lawre
@@ -166,6 +165,7 @@ Uruguway
 
 
 # The following countries are not currently sold online. We'll keep them around in case they come back
+# The following countries are not currently sold online. We'll keep them around in case they come back
 ;Australia
 Osutarali
 
@@ -255,6 +255,7 @@ Barante
 
 
 # Alcatel One Touch slogan
+# Alcatel One Touch slogan
 ;Set your world on fire
 War gandaa guzuguzu
 
@@ -280,6 +281,7 @@ Haŋakaari
 
 
 # Features panel
+# Features panel
 ;Available in
 Ga bara ne
 
@@ -296,6 +298,7 @@ Bandahere biizaahaya
 Jišidogoo kaŋ ga bara goykaw gundekuna se ga waani dumoo bande nd'a ga barmay talfon goyjinaa taagandirey nda porogaramize goyyan bande.
 
 
+# Specifications panel
 # Specifications panel
 ;Screen
 Diji
@@ -374,6 +377,7 @@ Arajo
 
 
 # Storage/Memory
+# Storage/Memory
 ;128 MB
 MB 128
 
@@ -439,6 +443,7 @@ MicroSD hala GB 4
 
 
 # Weight/Dimensions
+# Weight/Dimensions
 ;70 x 139 x 10.5 mm
 mm 70 x 139 x 10.5
 
@@ -492,6 +497,7 @@ g 148
 
 
 # Processor
+# Processor
 ;Qualcomm Snapdragon MSM7227A, 1 GHz CPU
 Qualcomm Snapdragon MSM7227A, 1 GHz CPU {ok}
 
@@ -536,6 +542,7 @@ Spreadtrum SC6821 {ok}
 Spreadtrum 6821 1.0 GHz {ok}
 
 
+# Networks
 # Networks
 ;UMTS 900/2100 and 850/1900/2100 - 3G Data up to 7.2 Mbps DL and 384 Kbps UL
 UMTS 900/2100 and 850/1900/2100 - 3G bayhaya hala 7.2 Mbps DL nda 384 Kbps UL
@@ -602,6 +609,7 @@ GPRS/EDGE {ok}
 
 
 # Wireless/Ports
+# Wireless/Ports
 ;Wi-Fi
 Wi-Fi {ok}
 
@@ -626,6 +634,7 @@ Micro USB 2.0 cahãnte
 Stereo FM {ok}
 
 
+# Camera
 # Camera
 ;1.3 MP
 1.3 MP {ok}
@@ -708,6 +717,7 @@ VGA {ok}
 
 
 # Bluetooth
+# Bluetooth
 ;Bluetooth
 Bluetooth {ok}
 
@@ -732,6 +742,7 @@ Bluetooth v3.0 {ok}
 Bluetooth v3.0 A2DP {ok}
 
 
+# Battery
 # Battery
 ;1000 mAh
 1000 mAh {ok}
@@ -902,6 +913,7 @@ Hala guuru 720 (LTE), guuru 820 (3G)
 
 
 # Screen
+# Screen
 ;3.5"
 3.5" {ok}
 
@@ -971,6 +983,7 @@ Hala guuru 720 (LTE), guuru 820 (3G)
 
 
 # other screen strings
+# other screen strings
 ;320 x 480 pixels
 320 x 480 biitonbi
 
@@ -991,6 +1004,7 @@ TFT mooruyan sawandiyan
 TFT noone ceberi
 
 
+# Firefox OS TV
 # Firefox OS TV
 ;Picture Quality
 Bii hennari
@@ -1037,6 +1051,7 @@ DX timmante tenjiri
 
 
 # Footer
+# Footer
 ;More about Firefox OS
 Bay ka tonton Firefox OS ga
 
@@ -1058,6 +1073,7 @@ Faham Firefox OS porogaramizey se Firefox Marketplace ra
 
 
 # Popup after clicking on "Get a phone"
+# Popup after clicking on "Get a phone"
 ;We work with a number of providers to offer Firefox OS on a variety of devices.
 Ir ga goy nda konpaɲe boobo hala Firefox OS ma duwandi jinay dumi booboyaŋ ga.
 
@@ -1067,10 +1083,12 @@ Taare ir hãayan fillantey caw ka duu <a href="%(link)s">maašeede timmante talf
 
 
 # Case 1: There are several phone providers
+# Case 1: There are several phone providers
 ;Choose one from the list below to get a Firefox OS smartphone in your country.
 Suuba maašeedaa woo ra ka duu Firefox OS talfon carma foo war koyraa ra.
 
 
+# Case 2: There is only one provider in the country
 # Case 2: There is only one provider in the country
 ;Click on the provider below to get a Firefox OS smartphone in your country.
 Konpaɲe foo naagu ne ganda ka duu Firefox OS talfon carma foo war koyraa ra.
