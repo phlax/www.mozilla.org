@@ -1,11 +1,3 @@
-## active ##
-## firefox_sync_mobile_buttons_update ##
-## firefox_sync_non_fx ##
-## fx38_sync_updates ##
-## ios_announce ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
-
-
 ;Keep your Firefox in sync
 Mantingueu el Firefox sincronitzat
 
@@ -51,6 +43,7 @@ Sincronitzeu ara el Firefox amb els vostres dispositius iOS i Android.
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
+# This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
 El Sync és una de les grans característiques que només trobareu amb el Firefox.
 
@@ -77,20 +70,25 @@ Primers passos amb el Sync en quatre simples punts:
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
+# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
 Obriu el <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menú</a> al capdamunt a la dreta del Firefox i seleccioneu “<strong>Inicia una sessió al Sync.</strong>”
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
 Feu clic a «<strong>Primers passos</strong>» a la pestanya que s'obre.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
+# (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
 Introduïu un correu electrònic i una contrasenya per "<strong>crear un compte del Firefox.</strong>"
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
 Feu clic a «<strong>Següent</strong>» per obtenir una verificació al vostre correu electrònic.
@@ -109,10 +107,13 @@ Feu servir una versió anterior del Sync?
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
 Com configurar el Sync en 5 fàcils passos:
 
 
+# <strong> tags below used for font color formatting.
+# This string is displayed on Android devices
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
@@ -120,25 +121,30 @@ Toqueu el botó del <strong>Menú</strong> (o al capdavall de la pantalla o a la
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
 Seleccioneu <strong>Paràmetres</strong> (potser haureu de tocar <strong>Més</strong> abans).
 
 
+# This string is displayed on Android devices
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
 Toqueu <strong>Sync</strong> i, a continuació <strong>Primers passos</strong>.
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
 La pàgina <strong>Creeu un compte del Firefox</strong> s'obrirà en una pestanya nova.
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
 Empleneu el formulari i feu clic a <strong>Següent</strong>.
 
 
+# This string is displayed on Android devices
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
 Després de revisar el correu i fer clic a l'enllaç de verificació, ja estareu preparat! No oblideu connectar tots els altres vostres dispositius per aprofitar al màxim el Sync.
