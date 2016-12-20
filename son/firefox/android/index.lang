@@ -1,20 +1,16 @@
-## active ##
-## android_reader_links ##
-## android_spring_updates ##
-## tracking_protection ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
-
-
+# Used in HTML as page title
 # Used in HTML as page title
 ;Firefox for Android — Mobile Web browser — More ways to customize and protect your privacy
 Firefox Android se — kanbe interneti ceecika — fondo booboyaŋ ka war suturaa fasal nda k'a jejebu
 
 
 # Used in HTML as page description
+# Used in HTML as page description
 ;Only Firefox for Android offers so many ways to make your mobile browsing experience truly your own
 Firefox Android se hinne ma fondo booboyaŋ feeri kaŋ ga war kanbe ceeciyanoo tee war hundi ibaayoo.
 
 
+# alt text for image (hard-coded image needs to be fixed)
 # alt text for image (hard-coded image needs to be fixed)
 ;Firefox for Android
 Firefox Android se
@@ -48,6 +44,7 @@ A zumandi Google Play ga
 War folloku se
 
 
+# Line break below is for visual formatting only. Remove if it's not useful for your locale
 # Line break below is for visual formatting only. Remove if it's not useful for your locale
 ;Only Firefox for Android offers this many ways to make<br> your mobile browsing experience truly your own.
 Firefox kaŋ tee Android se hinne ma fondo boobey wey feeri ka too<br> war ma war boŋ kanbe interneti ceeciyanoo may nda cimi.
@@ -114,10 +111,12 @@ Ka duu war hantum jisantey wala nda war šii ma ciya.
 
 
 # Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
+# Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
 ;Learn more about Reading List
 Bay ka tonton caw maašeede ga
 
 
+# Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 # Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 ;Learn more about Reader View
 Bay ka tonton cawyan gunari ga
@@ -220,35 +219,42 @@ Kaatarayyan hantumey
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do not track
 Wa ši ay gana
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
 Ga Firefox tejandiyanoo woo noo fondo ka war gaa ka juwal takaa kaŋ nda war ceeciyan alhabarey ga margandi nda goyandi interneti ra.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 Bay ka tonton Ma ši ay gana ga
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private Browsing
 Sutura ceeciyan
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
 Nda woo n' ka tunandi, Firefox Android se ši aleewawey taa, honga šennikufaley wala nungey kul kaŋ war n'i guna jiši.
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Learn how to open a private window
 Bay taka kaŋ nda sutura zanfun ga feera
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;See how Private Browsing works
 Dii taka kaŋ nda sutura ceeciyan ga goy
