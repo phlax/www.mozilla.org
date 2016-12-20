@@ -1,19 +1,16 @@
-## active ##
-## firefox_updated ##
-## home_title_update ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop
-
-
+# This is the <title> tag
 # This is the <title> tag
 ;Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your privacy and an open Web
 Die Firefox-webblaaier — Vertroud, aanpasbaar, vinnig — Verbonde tot u, u privaatheid en 'n oop Web
 
 
 # Previous title (DO NOT REMOVE)
+# Previous title (DO NOT REMOVE)
 ;Firefox Web browser — Trusted, Flexible, Fast — There's never been a better time
 Die Firefox-webblaaier — Vertroud, aanpasbaar, vinnig — Dis die perfekte tyd
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;There’s never been a <br class="wide-br">better time for Firefox
 Dis nou die perfekte tyd <br class="wide-br">vir Firefox
@@ -24,10 +21,13 @@ Verbonde tot u, u privaatheid en 'n oop Web.
 
 
 # This string is displayed if the visitor is using an up-to-date version of Firefox
+# This string is displayed if the visitor is using an up-to-date version of Firefox
 ;Your Firefox is up to date.
 Firefox is op datum.
 
 
+# This string is displayed if the visitor is using an up-to-date version of Firefox
+# Active link to https://support.mozilla.org/products/firefox
 # This string is displayed if the visitor is using an up-to-date version of Firefox
 # Active link to https://support.mozilla.org/products/firefox
 ;Need help with anything?
