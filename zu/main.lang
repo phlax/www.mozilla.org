@@ -4,30 +4,37 @@ Ukuzula
 
 # Firefox family navigation menu. Main level item.
 # Example: https://www-dev.allizom.org/firefox/os
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
 ;<span>for</span> Desktop
 <span>for</span> Desktop
 
 
+# Firefox family navigation menu. Main level item.
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
 <span>for</span> Android
 
 
 # Firefox family navigation menu. Main level item.
+# Firefox family navigation menu. Main level item.
 ;<span>for</span> iOS
 <span>for</span> iOS
 
 
+# Firefox family navigation menu. Main level item.
 # Firefox family navigation menu. Main level item.
 ;OS
 OS
 
 
 # Used for the navigation menu only in Firefox OS pages
+# Used for the navigation menu only in Firefox OS pages
 ;TV
 TV
 
 
+# Used for the navigation menu, points to /firefox/channel
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
 Pre-release downloads
@@ -35,60 +42,73 @@ Pre-release downloads
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 ;For desktops &amp; laptops
 For desktops &amp; laptops
 
 
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 ;For phones &amp; tablets
 For phones &amp; tablets
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
+# Firefox family navigation menu. Second-level item shared across different menus.
 ;Overview
 Okufingqiwe
 
 
+# Firefox family navigation menu. Second-level item shared across different menus.
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
 Okwethenjiwe
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
+# Firefox family navigation menu. Second-level item shared across different menus.
 ;Flexible
 Okushintshekayo
 
 
+# Firefox family navigation menu. Second-level item shared across different menus.
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Fast
 Okusheshayo
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Mayelana
 
 
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Devices
 Devices
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;For partners
 For partners
 
 
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
 Apps
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
 Do Not Track
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Tiles
 Tiles
@@ -96,50 +116,61 @@ Tiles
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
 Interest Dashboard
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
 Developer Edition
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
 Private Browsing
 
 
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
 Udinga usizo?
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
 News
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;For developers
 For developers
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Find My Device
 Thola Idivayisi Yami
 
 
+# Firefox family navigation menu. Item displayed pressing the "…" button.
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developers
 Onjiniyela
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
 Choose the independent browser
 
 
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
 Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
@@ -206,10 +237,12 @@ Ezinye izilimi:
 
 
 # Will replace "Other languages" for the footer's language switcher
+# Will replace "Other languages" for the footer's language switcher
 ;Page language:
 Page language:
 
 
+# Year / Month / Day, indicate your prefered date format for your language
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
 %Y-%m-%d {ok}
@@ -220,10 +253,12 @@ Ezomthetho
 
 
 # Used as link in the footer
+# Used as link in the footer
 ;Cookies
 Uhide lokwaziswa
 
 
+# Used as link in the footer
 # Used as link in the footer
 ;Firefox Affiliates
 Abahlobene ne-Firefox
@@ -278,6 +313,7 @@ Okulandelayo
 
 
 # MegaBytes abbreviation
+# MegaBytes abbreviation
 ;MB
 MB {ok}
 
@@ -307,6 +343,7 @@ Ukuthuthukisa okumahhala
 
 
 # social networks such as Facebook and Twitter
+# social networks such as Facebook and Twitter
 ;Follow us on:
 Silandele ku:
 
@@ -320,10 +357,12 @@ Funda Kabanzi
 
 
 # Same as previous above but with no capitalization on More
+# Same as previous above but with no capitalization on More
 ;Learn more
 Funda kabanzi
 
 
+# Link used to play again an animation or a video
 # Link used to play again an animation or a video
 ;Replay
 Dlala futhi
@@ -414,230 +453,276 @@ Amdivayisi Esekiwe
 
 
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
 Yini entsha
 
 
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 ;Privacy
 Ukugcinwa kuyimfihlo
 
 
 # Footer string
+# Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Izingxenye zalokhu okuqukethwe ©1998–%(current_year)s kwenziwe ngabe-mozilla.org. Okuqukethwe kuyatholakala ngaphansi kwe<a href="%(url)s">Creative Commons license</a>.
 
 
+# Footer string (will replace "Contribute to this page")
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
 Contribute to this site
 
 
 # Footer string
+# Footer string
 ;Contribute to this page
 Letha okwakho kuleli khasi
 
 
+# Top menu item
 # Top menu item
 ;Mission
 Umgomo
 
 
 # Footer item on some pages to link to a tour of features
+# Footer item on some pages to link to a tour of features
 ;Tour
 Uhambo
 
 
+# Footer item
 # Footer item
 ;Partner with Us
 Bambisana nathi
 
 
 # Top menu item on pages like firefox/desktop/tips/
+# Top menu item on pages like firefox/desktop/tips/
 ;Sync
 Qondanisa
 
 
+# Top menu item on pages like firefox/desktop/tips/
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
 Okokwengeza kwaseskrinini sangaphambili
 
 
 # Top menu item on pages like firefox/desktop/tips/
+# Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
 Okokwengeza kwe-Android
 
 
+# Top menu item on pages like firefox/desktop/tips/
 # Top menu item on pages like firefox/desktop/tips/
 ;Themes
 Izindikimba
 
 
 # Top menu item on pages like firefox/desktop/tips/
+# Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
 Ukwesekwa kweskrini sangaphambili
 
 
+# Top menu item on pages like firefox/desktop/tips/
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
 Ukwesekwa kwe-Android
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Performance
 Ukusebenza
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Technology
 Ubuichwepheshe
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Privacy &amp; Security
 Ukugcinwa kuyimfihlo &amp; Ukuvikeleka
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Releases
 Okukhishiwe
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Firefox
 I-Firefox
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Firefox for Organizations
 I-Firefox Yezinkampani
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Mobile Add-ons
 Okwengeziwe Kwamaselula
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Mobile Support
 Ukwesekwa Kweselula
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Blog
 I-blog
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;About Firefox
 Mayelama ne-Firefox
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Join Mozilla
 Joyina i-Mozilla
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Participate
 Zibandakanye
 
 
 # Will be used for the navigation. Translate as a verb (call to action), not a noun.
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
 ;Volunteer
 Volontiya
 
 
+# Top menu item on firefox/update page
 # Top menu item on firefox/update page
 ;Brand Toolkit
 Amathuluzi Enkampani
 
 
 # Top menu item on firefox/update page
+# Top menu item on firefox/update page
 ;Partnerships
 Ubudlelwano
 
 
+# Newsletter subscription form above footer on some pages
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
 Thola imiyalezo ye-Mozilla
 
 
 # share button for social networks
+# share button for social networks
 ;Share
 Abelana
 
 
+# footer link
 # footer link
 ;Mozilla on Twitter
 I-Mozilla ku-Twitter
 
 
 # footer link
+# footer link
 ;Firefox on Twitter
 I-Firefox ku-Twitter
 
 
+# footer link
 # footer link
 ;Mozilla on Facebook
 I-Mozilla ku-Facebook
 
 
 # footer link
+# footer link
 ;Firefox on Facebook
 I-Firefox ku-Facebook
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
 Izithangami
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
 Patents
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
 Leadership
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
 Ukubusa
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
 Umlando
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
 Imikhiqizo Yethu
 
 
+# sidebar link in some /about pages (e.g. Manifesto)
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
 I-software kanye nezinye izinto eziqanjiwe ezakhelwe ukuphucula umgomo wethu.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
 Yiba yivolontiya elilekelela ezindaweni eziningi ezahlukene.
 
 
+# This is a non-visible string for blind people to indicate where the menu is
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
 Imenyu
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
 Izibophezele kuwena, ukuvikeleka kwemininingwane yakho kanye neWebhu evulelekile.
 
 
+# Common title used in Fx 10 pages
 # Common title used in Fx 10 pages
 ;Choose Independent
 Khetha okuzimele
@@ -645,20 +730,25 @@ Khetha okuzimele
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
 Gcina uthando lwe-inthanethi yamahhala nevulelekile luvutha bhe! #ChooseIndependent. Khetha i-Firefox:
 
 
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
 Uyacelwa ukuba uvule i-JavaScript ukuze uveze leli khasi ngokuyikho.
 
 
 # Used as link to /firefox/desktop in footers on some pages
+# Used as link to /firefox/desktop in footers on some pages
 ;Firefox Features
 Amafisha e-Firefox
 
 
+# Used as link to SUMO in footers on some pages
 # Used as link to SUMO in footers on some pages
 ;Firefox Help
 Usizo lwe-Firefox
@@ -761,6 +851,7 @@ Uzibandlela
 
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
 Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
 
@@ -770,20 +861,24 @@ Congrats. You’re up to date!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
 ;Format
 Format
 
 
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;Text
 Text
 
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
 HTML
 
 
+# This is the error message displayed if you provide an invalid email address in a form
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
 Yhoo! Qinisekisa ukufaka ikheli le-imeyili elivumelekile.
@@ -798,25 +893,30 @@ I’m okay with Mozilla handling my info as explained in <a href="%s">this Priva
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
+# This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
 Keep up with<br> all things Firefox.
 
 
+# This string is used for a subscription field on other pages than /newsletter/
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
 Get Firefox news
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
+# This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
 YOUR EMAIL HERE
 
 
 # Newsletter subscription Button
+# Newsletter subscription Button
 ;Sign Up Now
 Sign Up Now
 
 
+# Old newsletter subscription Button
 # Old newsletter subscription Button
 ;Sign me up
 Sign me up
@@ -843,10 +943,12 @@ If you haven’t previously confirmed a subscription to a Mozilla-related newsle
 
 
 # Obsolete string. Do not remove.
+# Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
 Thanks! Please check your inbox to confirm your subscription.
 
 
+# Obsolete string. Do not remove.
 # Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
 You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
@@ -868,6 +970,7 @@ Subscribe to monthly updates and keep current with Mozilla news, including the l
 Get Firefox tips, tricks, news and more
 
 
+# This string will be used as a navigation label in home page, pointing to /technology
 # This string will be used as a navigation label in home page, pointing to /technology
 ;Web Innovations
 Web Innovations
