@@ -1,7 +1,3 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/products/
-
-
 ;Mozilla Products — Built by us, for the Web
 Продукты Mozilla — Созданы нами, для Интернета
 
@@ -23,10 +19,12 @@
 
 
 # Firefox Desktop
+# Firefox Desktop
 ;The free, non-profit browser for your desktop.
 Бесплатный некоммерческий браузер для вашего компьютера.
 
 
+# Firefox for Android
 # Firefox for Android
 ;The fast, smart, safe choice for Android browsing.
 Быстрый, умный, безопасный выбор для веб-серфинга на Android.
@@ -37,60 +35,72 @@
 
 
 # Firefox OS
+# Firefox OS
 ;An open operating system for mobile devices.
 Открытая операционная система для мобильных устройств.
 
 
+# Open Badges
 # Open Badges
 ;A new standard to recognize and verify learning.
 Новый стандарт по признанию и проверке полученных знаний.
 
 
 # Marketplace
+# Marketplace
 ;A creation and distribution platform for apps.
 Платформа для создания и распространения приложений.
 
 
+# Persona
 # Persona
 ;A better way to sign in to websites.
 Лучший способ регистрации на веб-сайтах.
 
 
 # Thunderbird
+# Thunderbird
 ;Safe, fast and easy email.
 Быстрая, безопасная и удобная почта.
 
 
+# Webmaker
 # Webmaker
 ;Make something amazing with the Web.
 Создайте в Интернете что-нибудь удивительное.
 
 
 # WebFWD
+# WebFWD
 ;Our community-driven innovation accelerator.
 Ведомый нашим сообществом ускоритель инноваций.
 
 
+# Labs
 # Labs
 ;New ways to explore, experiment and innovate.
 Новые способы исследований, экспериментов и инноваций.
 
 
 # Bugzilla
+# Bugzilla
 ;A bug tracking system to help manage software development.
 Система отслеживания ошибок, помогающая управлять разработкой программ.
 
 
+# Firebug
 # Firebug
 ;Inspect, debug, analyze and more inside your browser.
 Исследование, отладка, анализ и многое другое прямо из вашего браузера.
 
 
 # Gecko
+# Gecko
 ;The layout engine that drives Firefox.
 Браузерный движок приводящий в действие Firefox.
 
 
+# XULRunner
 # XULRunner
 ;An environment for XUL-based applications.
 Окружение для основанных на XUL приложений.
