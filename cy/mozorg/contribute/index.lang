@@ -1,28 +1,28 @@
-## active ##
-## contribute_cta_updates ##
-## NOTE: Demo server available at https://www-dev.allizom.org/contribute
-
-
+# Used for HTML title attribute
 # Used for HTML title attribute
 ;Volunteer Opportunities at Mozilla
 Cyfleoedd i Wirfoddoli gyda Mozilla
 
 
 # this string is used for accessibility reasons, it's not visible in the page
+# this string is used for accessibility reasons, it's not visible in the page
 ;Menu
 Dewislen
 
 
+# this br is for formatting, omit or reposition as needed
 # this br is for formatting, omit or reposition as needed
 ;Why<br> volunteer
 Pam <br> gwirfoddoli
 
 
 # this br is for formatting, omit or reposition as needed
+# this br is for formatting, omit or reposition as needed
 ;Find<br> an event
 Canfod <br> digwyddiad
 
 
+# this br is for formatting, omit or reposition as needed
 # this br is for formatting, omit or reposition as needed
 ;Meet<br> Mozillians
 Cyfarfod â<br> Mozilliaid
@@ -37,6 +37,7 @@ Eich gwlad
 
 
 # This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
+# This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
 ;I live in&hellip;
 Rwy'n byw yn&hellip;
 
@@ -46,15 +47,18 @@ Gwirfoddoli gyda Mozilla!
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians worldwide
 Mozilliaid gweithgar ar draws y byd
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events around the globe
 digwyddiadau i ddod o amgylch y byd
 
 
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 ;languages and counting, on every continent
 cynnydd nifer yr ieithoedd, ar bob cyfandir
@@ -65,10 +69,12 @@ Ymuno â chymuned byd eang sy'n creu newid.
 
 
 # this br is for formatting, omit or reposition as needed
+# this br is for formatting, omit or reposition as needed
 ;Volunteer as much as you like. Or as little.<br> It’s totally up to you.
 Gwirfoddoli am faint fynnwch chi. Neu gyn lleied.<br> Mae i fyny i chi.
 
 
+# this br is for formatting, omit or reposition as needed
 # this br is for formatting, omit or reposition as needed
 ;Share your skills and pick up<br> a few new ones along the way.
 Rhannwch eich sgiliau a chasglu<br> rhai newydd ar y daith.
@@ -78,6 +84,7 @@ Rhannwch eich sgiliau a chasglu<br> rhai newydd ar y daith.
 Gwirfoddoli gyda Mozilla&hellip;
 
 
+# This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 ;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
 mae'n fwy na chynnig help llaw. Mae'n cynnwys dysgu, cydweithio a rhannu sgiliau gyda chymuned fyd eang o Fozilliaid — codwyr, trefnwyr, gweithredwyr ac ati — sy'n helpu i siapio'r We, bob dydd.
@@ -92,20 +99,24 @@ Sut mae Mozilliaid yn helpu pob dydd
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Spain &middot; Activism
 Sbaen &middot; Gweithredu
 
 
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Philippines &middot; Activism
 Philipinau &middot; Gweithredu
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Switzerland &middot; Coding
 Y Swistir &middot; Codio
 
 
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;India &middot; Teaching
 India &middot; Addysgu
@@ -212,15 +223,18 @@ Derbyn diweddariadau gan y gymuned
 
 
 # Used as title of the /stories sub-page
+# Used as title of the /stories sub-page
 ;Mozillian Stories
 Straeon Mozilliaid
 
 
 # Used as a toggle to display more content.
+# Used as a toggle to display more content.
 ;More
 Rhagor
 
 
+# Used as a toggle to display less content.
 # Used as a toggle to display less content.
 ;Less
 Llai
@@ -239,6 +253,7 @@ Rhagor yn dod yn fuan
 
 
 # Used as title of the /signup sub-page
+# Used as title of the /signup sub-page
 ;Get Involved: Volunteer Opportunities at Mozilla
 Cyfrannu: Cyfleoedd Gwirfoddoli gyda Mozilla
 
@@ -251,6 +266,7 @@ I gychwyn, dywedwch wrthym beth sy'n eich diddori.
 Dewiswch un am nawr. Mae modd i chi gyfrannu i feysydd eraill yn nes ymlaen.
 
 
+# This text is used for accessibility reasons, it's not visible
 # This text is used for accessibility reasons, it's not visible
 ;Where would you like to get started?
 Lle hoffech chi gychwyn arni?
@@ -545,6 +561,7 @@ Digwyddiadau
 
 
 # Used as title of the thank you page displayed after users send the form
+# Used as title of the thank you page displayed after users send the form
 ;Thank you!
 Diolch yn fawr!
 
@@ -602,20 +619,24 @@ Yn y cyfamser&hellip;
 
 
 # Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
+# Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 ;You can help by picking an easy task that only takes a few minutes &mdash; or take on a bigger challenge.
 Gallwch gynorthwyo drwy ddewis tasg hawdd fydd y cymryd ychydig funudau &mdash; neu gymryd her fwy.
 
 
+# Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 # Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 ;Choose a Task Now
 Dewis Tasg Nawr
 
 
 # Displayed in the "Thank You!" page after the email is sent for other categories.
+# Displayed in the "Thank You!" page after the email is sent for other categories.
 ;Help us tell the world how awesome Firefox is and about all the important work Mozilla does every day.
 Ymunwch â ni i ddweud wrth bawb pa mor dda yw Firefox ac am y gwaith pwysig mae Mozilla'n ei wneud bob dydd.
 
 
+# Displayed in the "Thank You!" page after the email is sent for other categories.
 # Displayed in the "Thank You!" page after the email is sent for other categories.
 ;Join Now
 Ymunwch Nawr
@@ -637,6 +658,8 @@ Bydd gofyn i chi fewngofnodi cyn mynd ymhellach
 Dim diolch, mi wna i aros am yr e-bost
 
 
+# The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+# Strings have been copied from the old template (mozorg/contribute.lang)
 # The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
 # Strings have been copied from the old template (mozorg/contribute.lang)
 ;Area of interest?
