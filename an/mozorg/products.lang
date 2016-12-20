@@ -1,7 +1,3 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/products/
-
-
 ;Mozilla Products — Built by us, for the Web
 Productos Mozilla  — Feitos por nusatros, ta la Web
 
@@ -23,10 +19,12 @@ Escritorio
 
 
 # Firefox Desktop
+# Firefox Desktop
 ;The free, non-profit browser for your desktop.
 O navegador libre y sin animo de lucro ta o tuyo escritorio.
 
 
+# Firefox for Android
 # Firefox for Android
 ;The fast, smart, safe choice for Android browsing.
 A triga rapida, intelichent y segura ta navegar en Android.
@@ -37,60 +35,72 @@ SO
 
 
 # Firefox OS
+# Firefox OS
 ;An open operating system for mobile devices.
 Un sistema operativo ubierto a dispositivos mobils.
 
 
+# Open Badges
 # Open Badges
 ;A new standard to recognize and verify learning.
 Un nuevo standard ta reconoixer y verificar l'aprendizache.
 
 
 # Marketplace
+# Marketplace
 ;A creation and distribution platform for apps.
 Una plataforma ta creyar y distribuir aplicacions.
 
 
+# Persona
 # Persona
 ;A better way to sign in to websites.
 Una millor traza d'identificar-se en os puestos web.
 
 
 # Thunderbird
+# Thunderbird
 ;Safe, fast and easy email.
 Correu seguro, rapido y facil.
 
 
+# Webmaker
 # Webmaker
 ;Make something amazing with the Web.
 Fe qualcosa alucinant con a web.
 
 
 # WebFWD
+# WebFWD
 ;Our community-driven innovation accelerator.
 L'accelerador d'innovación empentau por a nuestra comunidat.
 
 
+# Labs
 # Labs
 ;New ways to explore, experiment and innovate.
 Nuevas trazas d'explorar, experimentar y innovar.
 
 
 # Bugzilla
+# Bugzilla
 ;A bug tracking system to help manage software development.
 Un sistema de seguimiento d'errors ta aduyar a chestionar o desembolicamiento de software.
 
 
+# Firebug
 # Firebug
 ;Inspect, debug, analyze and more inside your browser.
 Inspecciona, depura, analiza y mas dende o tuyo navegador.
 
 
 # Gecko
+# Gecko
 ;The layout engine that drives Firefox.
 O motor de disenyo que empenta Firefox.
 
 
+# XULRunner
 # XULRunner
 ;An environment for XUL-based applications.
 Un entorno ta aplicacions basadas en XUL-based.
