@@ -1,17 +1,16 @@
-## active ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/private-browsing
-
-
+# HTML Title attribute
 # HTML Title attribute
 ;Firefox Web browser — Private Browsing with Tracking Protection — Mozilla
 Ibhrawza yeWebhu yeFirefox — Ukubhrawza kwaBucala okunoKhuseleko lokuTreka — iMozilla
 
 
 # Meta tag (description)
+# Meta tag (description)
 ;Get more protection and the most privacy, only from Firefox. No other browser gives you so much control over your digital footprint.
 Fumana ukhuseleko olungakumbi nobungasese obungakumbi, kuphela kuFirefox. Ayikho enye ibhrawza ekunika ulawulo olungaka kwimizila yakho yedijithali.
 
 
+# the <br> tags below are for visual formatting only.
 # the <br> tags below are for visual formatting only.
 ;More protection. <br>The most privacy. <br>Only from Firefox.
 Ukhuseleko olungakumbi. <br> Olona khuseleko lungakumbi <br> Kuphela lufumaneka kuFirefox.
@@ -22,10 +21,12 @@ Zama Ukubhrawuza kwaNgasese
 
 
 # Displayed to non Firefox users
+# Displayed to non Firefox users
 ;To give the new Private Browsing a try, download Firefox.
 Ukuze uzame ukuBhrawuza kwaBucala okutsha, dawnlowuda iFirefox.
 
 
+# Displayed to Firefox users on old versions
 # Displayed to Firefox users on old versions
 ;Your Firefox is not up to date. Download the latest version to use the new Private Browsing.
 IFirefox yakho ayikho sexesheni. Dawnlowuda uhlobo lwamvanje usebenzisa uBhrawuzo lwaBucala.
