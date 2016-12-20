@@ -1,17 +1,16 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/firefox/whatsnew/ and https://www-dev.allizom.org/firefox/firstrun/
-
-
+# Headline in /firstrun page
 # Headline in /firstrun page
 ;Take a quick tour
 Començatz la visita guidada
 
 
 # Headline in /whatsnew page
+# Headline in /whatsnew page
 ;Welcome to Firefox
 Benvenguda dins Firefox
 
 
+# Sub-headline in /firstrun page
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
 Engatjat per vos, vòstra vida privada e lo Web dobèrt.
@@ -34,6 +33,7 @@ Regropats per un accès simple e rapid
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites are<br> closer than ever
 Vòstres sites preferits<br> a portada de man
 
@@ -46,6 +46,7 @@ Apondètz foncionalitats e estils gràcias als moduls
 Utilizatz Firefox sus un autre aparelh&nbsp;?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Designed so you can<br> make it your own
 Concebut per èsser faiçonat<br> a vòstre grat
@@ -68,10 +69,12 @@ Dobrís una novèla fenèstra
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
+# This is the text for a door-hanger menu that shows in the browser chrome
 ;It’s the fastest, most flexible Firefox ever.
 Firefox, mai rapid e flexible que jamai.
 
 
+# This is the label for a button that opens the tour modal dialog
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
 Aviar la visita
@@ -90,10 +93,12 @@ Es lo moment ideal per Firefox
 
 
 # This is the label for a button that closes the tour modal dialog
+# This is the label for a button that closes the tour modal dialog
 ;Close tour
 Acabar la visita
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
 De milierats de biaisses de<br> far mai amb Firefox
@@ -103,6 +108,7 @@ De milierats de biaisses de<br> far mai amb Firefox
 Ara, de melhor trobar, utilizar e contrarotlar
 
 
+# This is the title for a door-hanger menu that shows in the browser chrome
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
 Descobrissètz las novetats
@@ -129,6 +135,7 @@ Apondètz e consultatz vòstres marcapaginas dempuèi un endrech novèl
 
 
 # This is the text for a call to action that appears in the web page
+# This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
 Començatz la visita guidada e descobrissètz las novetats
 
@@ -150,30 +157,36 @@ Partejatz vòstra vision
 
 
 # This is the label for a button that delays starting the tour
+# This is the label for a button that delays starting the tour
 ;Not now
 Mai tard
 
 
+# This is the label for a button that starts the tour
 # This is the label for a button that starts the tour
 ;Let’s go
 Es partit
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 1/4 {ok}
 
 
+# This is the label that represents tour step three of four
 # This is the label that represents tour step three of four
 ;3/4
 3/4 {ok}
 
 
 # This is the label that represents tour step two of four
+# This is the label that represents tour step two of four
 ;2/4
 2/4 {ok}
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 4/4 {ok}
@@ -207,6 +220,7 @@ Es partit
 Descobrissètz la novèla interfàcia
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 Tot comença amb<br> lo novèl menú intuitiu
@@ -245,6 +259,7 @@ Començatz de navegar
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 Vòstres sites preferits<br> a portada de man
 
@@ -261,6 +276,7 @@ Volètz connectar un autre aparelh&nbsp;?
 Quina mena de Web volètz&nbsp;?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the redesigned,<br> intuitive menu
 Tot comença amb<br> lo novèl menú intuitiu
