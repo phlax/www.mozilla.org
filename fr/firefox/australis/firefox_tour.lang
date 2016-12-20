@@ -1,17 +1,16 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/firefox/whatsnew/ and https://www-dev.allizom.org/firefox/firstrun/
-
-
+# Headline in /firstrun page
 # Headline in /firstrun page
 ;Take a quick tour
 Commencez la visite guidée
 
 
 # Headline in /whatsnew page
+# Headline in /whatsnew page
 ;Welcome to Firefox
 Bienvenue dans Firefox
 
 
+# Sub-headline in /firstrun page
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
 Engagé pour vous, votre vie privée et le Web ouvert.
@@ -34,6 +33,7 @@ Rassemblées pour un accès simple et rapide
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites are<br> closer than ever
 Vos sites préférés<br> à portée de main
 
@@ -46,6 +46,7 @@ Ajoutez fonctionnalités et styles grâce aux modules
 Vous utilisez Firefox sur un autre appareil&nbsp;?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Designed so you can<br> make it your own
 Conçu pour être façonné<br> à votre gré
@@ -68,10 +69,12 @@ Ouvre une nouvelle fenêtre
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
+# This is the text for a door-hanger menu that shows in the browser chrome
 ;It’s the fastest, most flexible Firefox ever.
 Firefox, plus rapide et flexible que jamais.
 
 
+# This is the label for a button that opens the tour modal dialog
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
 Démarrez la visite
@@ -90,10 +93,12 @@ C’est le moment idéal pour Firefox
 
 
 # This is the label for a button that closes the tour modal dialog
+# This is the label for a button that closes the tour modal dialog
 ;Close tour
 Arrêtez la visite
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
 Des milliers de façons de<br> faire plus avec Firefox
@@ -103,6 +108,7 @@ Des milliers de façons de<br> faire plus avec Firefox
 Désormais plus facile à trouver, utiliser et contrôler
 
 
+# This is the title for a door-hanger menu that shows in the browser chrome
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
 Découvrez les nouveautés
@@ -129,6 +135,7 @@ Ajoutez et consultez vos marque-pages depuis un nouvel endroit
 
 
 # This is the text for a call to action that appears in the web page
+# This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
 Commencez la visite guidée et découvrez les nouveautés
 
@@ -150,30 +157,36 @@ Partagez votre vision
 
 
 # This is the label for a button that delays starting the tour
+# This is the label for a button that delays starting the tour
 ;Not now
 Plus tard
 
 
+# This is the label for a button that starts the tour
 # This is the label for a button that starts the tour
 ;Let’s go
 C’est parti
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 1/4 {ok}
 
 
+# This is the label that represents tour step three of four
 # This is the label that represents tour step three of four
 ;3/4
 3/4 {ok}
 
 
 # This is the label that represents tour step two of four
+# This is the label that represents tour step two of four
 ;2/4
 2/4 {ok}
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 4/4 {ok}
@@ -207,6 +220,7 @@ C’est parti
 Découvrez la nouvelle interface
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 Tout commence avec<br> le nouveau menu intuitif
@@ -245,6 +259,7 @@ Commencez la navigation
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 Vos sites préférés<br> à portée de main
 
@@ -261,6 +276,7 @@ Vous souhaitez connecter un autre appareil&nbsp;?
 Quel genre de Web voulez-vous&nbsp;?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the redesigned,<br> intuitive menu
 Tout commence avec<br> le nouveau menu intuitif
