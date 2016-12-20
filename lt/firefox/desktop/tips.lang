@@ -1,8 +1,4 @@
-## active ##
-## sync_device_note ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/tips/
-
-
+# main title
 # main title
 ;The best of the latest Firefox
 Naudingiausios „Firefox“ savybės
@@ -57,6 +53,7 @@ toliau
 
 
 # Tip 1
+# Tip 1
 ;Click the star
 Spustelėkite žvaigždutę
 
@@ -78,6 +75,7 @@ Spustelėkite žvaigždutę, adresyno įrašų pridėjimui ir tvarkymui iš vien
 
 
 # Tip 2
+# Tip 2
 ;Simplify your life
 Paprastinkite savo gyvenimą
 
@@ -91,10 +89,12 @@ Pašalinkite nereikalingus mygtukus, kad lengviau rastumėte tuos, kuriais naudo
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Open the menu, select “<strong>Customize</strong>” and drag any button out of the toolbar.
 Atverkite meniu, spustelėkite punktą „<strong>Tvarkyti</strong>“ ir neškite nenorimus matyti mygtukus iš priemonių juostos.
 
 
+# Tip 3
 # Tip 3
 ;Add your faves
 Iškelkite favoritus
@@ -105,30 +105,36 @@ Dažniau naudojamus mygtukus galite sudėlioti tiesiai į priemonių juostą gre
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Open the menu, select “<strong>Customize</strong>” and drag any button into the toolbar or menu.
 Atverkite meniu, spustelėkite punktą „<strong>Tvarkyti</strong>“ ir neškite norimus mygtukus į priemonių juostą ar meniu.
 
 
+# Tip 4
 # Tip 4
 ;Stay in Sync
 Sinchronizuokitės
 
 
 # New string
+# New string
 ;Use Sync to magically access your open tabs, passwords and more wherever you use Firefox.
 Įjunkite „Sync“ ir visuomet pasiekite savo atvertas korteles, slaptažodžius ir kitką, kur besinaudotumėte „Firefox“.
 
 
+# Old string, will be removed once the new string is activated
 # Old string, will be removed once the new string is activated
 ;Use Sync to magically access your open tabs, passwords and more from any device.
 Įjunkite „Sync“ ir pasiekite savo atvertas korteles, slaptažodžius ir kitką iš bet kurio įrenginio.
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Choose “<strong>Sign in to Sync</strong>” from the menu and make Firefox your own wherever you use it.
 Atvėrę meniu, pasirinkite punktą „<strong>Jungtis prie „Sync“</strong>“. Taip paversite „Firefox“ sava – kur ja besinaudotumėte.
 
 
+# Tip 5
 # Tip 5
 ;Free your add-ons
 Išlaisvinkite naršyklės priedus
@@ -138,6 +144,7 @@ Išlaisvinkite naršyklės priedus
 Mėgstamiausius priedus pasidėkite į meniu, kad visada galėtumėte juos pasiekti.
 
 
+# The strong tags are for presentational purpose
 # The strong tags are for presentational purpose
 ;Select “<strong>Customize</strong>” from the menu and drag in the add-ons you want.
 Atvėrę meniu, pasirinkite punktą „<strong>Tvarkyti</strong>“ ir tempkite norimus priedus į meniu arba priemonių juostą.
@@ -160,20 +167,24 @@ Dabar pasidalinkite savo žiniomis su draugais.
 
 
 # Accessibility string for link
+# Accessibility string for link
 ;Learn more about bookmarks
 Išsamiau apie adresyną
 
 
+# Accessibility string for link
 # Accessibility string for link
 ;Learn more about customizing
 Išsamiau apie individualizavimą
 
 
 # Accessibility string for link
+# Accessibility string for link
 ;Learn more about Sync
 Sužinokite apie „Sync“ daugiau
 
 
+# Accessibility string for link
 # Accessibility string for link
 ;Learn more about add-ons
 Išsamiau apie naršyklės priedus
