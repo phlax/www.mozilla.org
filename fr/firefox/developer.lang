@@ -1,14 +1,68 @@
-## active ##
-## firefox_dev_fall ##
-## NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
-## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated. It also won't be localizable inside the product, like "Beta" or "Nightly"
+;Introducing the only browser made for developers like you.
+Voici le tout premier navigateur conçu pour les développeurs.
 
 
+;WebVR
+WebVR {ok}
+
+
+;Build immersive multi-platform, cross-device Web VR experiences using the technologies that you know &mdash; JavaScript, WebGL, Three.js and more.
+Créez des applications web de réalité virtuelle, multiplateformes, pour tous les appareils qui utilisent les technologies que vous connaissez &mdash; JavaScript, WebGL, Three.js entre autres.
+
+
+;Learn more about WebVR
+En savoir plus sur WebVR
+
+
+;WebIDE
+WebIDE {ok}
+
+
+;Develop, deploy and debug Firefox OS apps directly in your browser, or on a Firefox OS device, with this tool that replaces App Manager.
+Développez, déployez et déboguez des applications Firefox&nbsp;OS directement depuis votre navigateur ou un appareil Firefox&nbsp;OS, grâce cet outil qui remplace le gestionnaire d’applications.
+
+
+;Learn more about WebIDE
+En savoir plus sur WebIDE
+
+
+# UI Tour: don't add HTML tags in this string
+;Next: WebIDE
+Suivant&nbsp;: WebIDE
+
+
+# UI Tour: don't add HTML tags in this string
+;Try WebIDE
+Essayez WebIDE
+
+
+# UI Tour: don't add HTML tags in this string
+;Develop, deploy and debug Firefox OS apps directly in your browser or on a Firefox OS device.
+Développez, déployez et déboguez des applications Firefox&nbsp;OS directement depuis votre navigateur ou un appareil Firefox&nbsp;OS.
+
+
+# UI Tour: don't add HTML tags in this string
+;Keep your browser in Sync
+Synchronisez votre navigateur
+
+
+# UI Tour: don't add HTML tags in this string
+;Sync your Firefox desktop and mobile browsers to get instant access to your bookmarks, open tabs, passwords and more.
+Synchronisez vos navigateurs Firefox pour ordinateurs et Firefox pour mobiles afin d’accéder instantanément à vos marque-pages, onglets ouverts, mots de passe et bien plus.
+
+
+# UI Tour: don't add HTML tags in this string
+;Sync my Firefox
+Synchroniser Firefox
+
+
+# Used as page description (HTML meta tag)
 # Used as page description (HTML meta tag)
 ;Built for those who build the Web. Introducing the only browser made for developers.
 Créé pour vous qui créez le Web. Voici le tout premier navigateur conçu pour les développeurs.
 
 
+# Used as page description from June 2nd (HTML meta tag)
 # Used as page description from June 2nd (HTML meta tag)
 ;Built for those who build the Web. The only browser made for developers like you.
 Créé pour vous qui créez le Web. Le seul navigateur conçu pour les développeurs comme vous.
@@ -26,6 +80,7 @@ Créé pour vous qui créez le Web
 Le seul navigateur conçu pour les développeurs comme vous.
 
 
+# This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Design, build and debug the Web without ever leaving your browser with the new Firefox Developer Edition!
 Concevez, développez et déboguez le Web sans avoir à quitter votre navigateur grâce à Firefox Developer Edition !
@@ -209,55 +264,67 @@ Choisissez Firefox
 
 # The following strings are used for the tour displayed on /firstrun
 # https://www.mozilla.org/firefox/35.0a2/firstrun/
+# The following strings are used for the tour displayed on /firstrun
+# https://www.mozilla.org/firefox/35.0a2/firstrun/
 ;Welcome to Firefox Developer Edition
 Bienvenue dans Firefox Developer Edition
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;Developer Tools
 Outils de développement
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;The most complete browser made just for developers, Firefox Developer Edition has every dev tool you’ll need built right in.
 Le navigateur le plus complet pour les développeurs. Firefox Developer Edition possède tous les outils de développement dont vous avez besoin.
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;Next: Sync
 Suivant&nbsp;: Sync
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;Important
 Important {ok}
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;Sync your new Developer Edition profile to your Firefox Account to access bookmarks, browsing history, passwords and more from your existing Firefox profile.
 Synchronisez le nouveau profil de Firefox Developer Edition avec votre compte Firefox pour accéder à vos marque-pages, votre historique de navigation, vos mots de passe et d’autres informations stockées sur le profil existant de Firefox.
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;Sync now
 Synchroniser maintenant
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;No thanks
 Non merci
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;Before you go&hellip;
 Une dernière chose&hellip;
 
 
 # UI Tour: don't add HTML tags in this string
+# UI Tour: don't add HTML tags in this string
 ;If you continue without syncing your new Developer Edition profile, you could lose access to important browsing data from your existing Firefox profile.
 Si vous poursuivez sans synchroniser le nouveau profil de Firefox Developer Edition, vous pourriez perdre l’accès à certaines données de navigation importantes contenues dans le profil existant de Firefox.
 
 
+# UI Tour: don't add HTML tags in this string
 # UI Tour: don't add HTML tags in this string
 ;To sync now, choose the Sync option from this menu.
 Pour le synchroniser, sélectionnez l’option Synchroniser depuis ce menu.
