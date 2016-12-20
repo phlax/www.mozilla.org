@@ -1,11 +1,3 @@
-## active ##
-## firefox_sync_mobile_buttons_update ##
-## firefox_sync_non_fx ##
-## fx38_sync_updates ##
-## ios_announce ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
-
-
 ;Keep your Firefox in sync
 Junelïk tixime' ri Firefox awichin
 
@@ -51,6 +43,7 @@ Wakami taxima' Firefox kik'in ri taq awokisaxel Android chuqa' iOS.
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
+# This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
 Ximojri'ïl xa xe jun chi ke ri nimaläj taq b'anikil xtak'ül pa Firefox ke'awila' konojel.
 
@@ -77,20 +70,25 @@ Tatikirisaj rik'in Sync xa xe rik'in 4 taq rucholajil:
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
+# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
 Tijaq ri<a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">k'utsamaj</a> pa ruwi' rajkiq'a' Firefox tacha' “<strong>tok pa Ximojri'ïl.</strong>”
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
 Tapitz'a' pa “<strong>Titikirisäx</strong>” pa ri ruwi' nijaq.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
+# (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
 Tanima' jun rochochib'al taqoya'l chuqa' jun ewan tzij pa “<strong>Titz'uk jun rub'i' taqoya'l pa Firefox.</strong>”
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
 Tapitz'a' pa “<strong>Jun chik</strong>” richin nak'ül jun jikib'axïk chupam ataqoya'l.
@@ -109,10 +107,13 @@ Ke'ak'ulu' cholotäl taq rucholajil.
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
 Achike rub'eyal nib'an runuk'ulem ri Sync pa wo'o' rucholajil:
 
 
+# <strong> tags below used for font color formatting.
+# This string is displayed on Android devices
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
@@ -120,25 +121,30 @@ Tapitz'a' ri pitz'b'äl <strong>K'utüy samaj</strong> (rik'in jub'a' chuxe' ri 
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
 Ke'acha' ri taq <strong>ch'akulal</strong> (rik'in jub'a' rajowaxik nab'ey napïtz <strong>Ch'aqa' chik</strong>).
 
 
+# This string is displayed on Android devices
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
 Tapitz'a' <strong>Sync</strong> k'a ri' <strong>Titikirisäx</strong>.
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
 Ri <strong>ruxaq richin nitz'uk jun rub'i' taqoya'l pa Firefox</strong> xtijaq pa jun k'ak'a' ruwi'.
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
 Tanojisaj ri nojwuj chuqa' tapitz'a' pa <strong>Jun chik</strong>.
 
 
+# This string is displayed on Android devices
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
 Chi rij nanik'öx ri ataqoya'l chuqa' napïtz' pa ri ruximonel jikib'anïk, at ütz chik richin natikirisaj. Man tamestaj ye'awokisaj konojel ri taq owokisaxel richin nawïl ri jeb'ël rutzil Sync.
