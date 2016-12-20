@@ -1,17 +1,16 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/firefox/whatsnew/ and https://www-dev.allizom.org/firefox/firstrun/
-
-
+# Headline in /firstrun page
 # Headline in /firstrun page
 ;Take a quick tour
 Khawuthi tshe utyelele
 
 
 # Headline in /whatsnew page
+# Headline in /whatsnew page
 ;Welcome to Firefox
 Wamkelekile kwiFirefox
 
 
+# Sub-headline in /firstrun page
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
 Sizinikezele kuwe, kubungasese bakho nakwiwebhu evulelekileyo.
@@ -34,6 +33,7 @@ Zidityanisiwe ukulungiselela ufikelelo olukhawulezayo nolulula
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites are<br> closer than ever
 Iisayithi okholwa zizo<br> zikufutshane kunangaphambili
 
@@ -46,6 +46,7 @@ Yongeza iimpawu nezimbo ezinezongezelelo
 Unayo iFirefox kwenye idivayisi?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Designed so you can<br> make it your own
 Yenziwe ukuze ube nakho<br> ukuyenza eyakho
@@ -68,10 +69,12 @@ Ivula iwindow entsha
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
+# This is the text for a door-hanger menu that shows in the browser chrome
 ;It’s the fastest, most flexible Firefox ever.
 Yeyona Firefox ikhawulezayo neyona ilungele yonke imeko.
 
 
+# This is the label for a button that opens the tour modal dialog
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
 Vula utyelelo
@@ -90,10 +93,12 @@ Akuzange kubekho ixesha elingcono leFirefox
 
 
 # This is the label for a button that closes the tour modal dialog
+# This is the label for a button that closes the tour modal dialog
 ;Close tour
 Vala utyelelo
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
 Iindlela ezingamawaka<br> zokwenza iFirefox yenze okuninzi
@@ -103,6 +108,7 @@ Iindlela ezingamawaka<br> zokwenza iFirefox yenze okuninzi
 Ngoku kulula ukulufumana, ukulusebenzisa nokululawula
 
 
+# This is the title for a door-hanger menu that shows in the browser chrome
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
 Jonga ukuba yintoni na entsha
@@ -129,6 +135,7 @@ Yongeza uze ubone iibhukhmakhi kwindawo entsha
 
 
 # This is the text for a call to action that appears in the web page
+# This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
 Tyelela uze ubone ukuba yintoni na entsha
 
@@ -150,30 +157,36 @@ Balisa ngombono wakho
 
 
 # This is the label for a button that delays starting the tour
+# This is the label for a button that delays starting the tour
 ;Not now
 Hayi ngoku
 
 
+# This is the label for a button that starts the tour
 # This is the label for a button that starts the tour
 ;Let’s go
 Masiye
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 1/4 {ok}
 
 
+# This is the label that represents tour step three of four
 # This is the label that represents tour step three of four
 ;3/4
 3/4 {ok}
 
 
 # This is the label that represents tour step two of four
+# This is the label that represents tour step two of four
 ;2/4
 2/4 {ok}
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 4/4 {ok}
@@ -207,6 +220,7 @@ Masiye
 Funda ngoyilo olutsha
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 Iqala ngemenyu <br> yolwazi entsha
@@ -245,6 +259,7 @@ Qalisa ukubhrawuza
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 Iisayithi zakho okholwa zizo<br> zikufutshane kunangaphambili
 
@@ -261,6 +276,7 @@ Ingaba ufuna ukunxibelelanisa nenye idivayisi?
 Ufuna uhlobo olunjani lwewebhu?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the redesigned,<br> intuitive menu
 Iqala ngemenyu yolwazi<br> eyenziwe ngokutsha
