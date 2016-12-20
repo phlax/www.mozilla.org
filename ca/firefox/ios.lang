@@ -1,8 +1,4 @@
-## active ##
-## tracking_protection ##
-## NOTE: Demo page available at https://www-dev.allizom.org/firefox/ios/
-
-
+# Title of the page (HTML meta)
 # Title of the page (HTML meta)
 ;Mobile Web browser for your iPhone, iPad and iPod touch
 Navegador web mòbil per a l'iPhone, l'iPad i l'iPod Touch
@@ -25,20 +21,24 @@ Obteniu-lo ara
 
 
 # Newsletter section
+# Newsletter section
 ;Sign up below for updates and to be notified when it launches.
 Registreu-vos per a rebre actualitzacions i saber quan és el llançament.
 
 
+# Newsletter section
 # Newsletter section
 ;* You’ll only receive updates and announcements about the iOS version of Firefox.
 Només rebreu actualitzacions de la versió del Firefox per a l'iOS.
 
 
 # Newsletter section
+# Newsletter section
 ;Thanks for your interest in Firefox for iOS.
 Gràcies pel vostre interès en el Firefox per a l'iOS.
 
 
+# Newsletter section
 # Newsletter section
 ;Don’t forget to check your inbox to confirm your request to get updates.
 No oblideu comprovar la vostra safata d'entrada per confirmar la vostra petició per a rebre actualitzacions.
@@ -96,6 +96,7 @@ Envieu el Firefox al vostre dispositiu iOS
 Sincronitzeu el vostre historial de navegació  del Firefox a l'iOS
 
 
+# The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
 # The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
 ;First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start using Sync.
 Toqueu el botó de <b>pestanya</b>. Després toqueu la icona de %(gear_icon)s per començar a usar el Sync.
