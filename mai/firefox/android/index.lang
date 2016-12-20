@@ -1,20 +1,16 @@
-## active ##
-## android_reader_links ##
-## android_spring_updates ##
-## tracking_protection ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
-
-
+# Used in HTML as page title
 # Used in HTML as page title
 ;Firefox for Android — Mobile Web browser — More ways to customize and protect your privacy
 Firefox Android कलेल — मोबाइल वेब ब्राउज़र — अहाँक गोपनीयताक रक्षा कलेल आओर मनपसिन्न बदलाव कलेल तैयार अछि
 
 
 # Used in HTML as page description
+# Used in HTML as page description
 ;Only Firefox for Android offers so many ways to make your mobile browsing experience truly your own
 Android कलेल Firefox मोबाइल ब्राउज़िंग केर तजुर्बा सही मायना मे ख़ास बनाबै केर अनेक विकल्प देत अछि.
 
 
+# alt text for image (hard-coded image needs to be fixed)
 # alt text for image (hard-coded image needs to be fixed)
 ;Firefox for Android
 एंड्रायडक लेल फायरफाक्स
@@ -48,6 +44,7 @@ Android कलेल Firefox मोबाइल ब्राउज़िंग �
 अहाँक लेल खास
 
 
+# Line break below is for visual formatting only. Remove if it's not useful for your locale
 # Line break below is for visual formatting only. Remove if it's not useful for your locale
 ;Only Firefox for Android offers this many ways to make<br> your mobile browsing experience truly your own.
 Android कलेल Firefox मोबाइल <br> ब्राउज़िंग केर तजुर्बा सही मायना मे विशेष बनाबैत अछि.
@@ -114,10 +111,12 @@ Android कलेल Firefox मोबाइल <br> ब्राउज़िं
 
 
 # Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
+# Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
 ;Learn more about Reading List
 पठन सूची केर संबंध मे बेसी जानू
 
 
+# Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 # Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 ;Learn more about Reader View
 पठन दृश्य केर बारे मे अधिक जानू
@@ -220,35 +219,42 @@ Android कलेल Firefox एहन सुविधा सँ लैस अ�
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do not track
 ट्रैक नहि करू
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
 ई फ़ायरफ़ॉक्स नवाचार केर ज़रिये अहाँ अपन ब्राउज़िंग केर दौरान देल गेल सूचना केर इस्तेमाल केँ नियंत्रित कए सकैत अछि.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 डू नॉट ट्रैक केर बारे मे बेसी सीखू
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private Browsing
 निजी ब्राउज़िंग
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
 सक्रिय कएल जाए केर बाद Android कलेल Firefox कुकीज़ स्वीकार नहि करत, कूटशब्द याद नहि राखत या अहाँक द्वारा देखल कोनो साइट केँ रिकॉर्ड नहि करताह.
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Learn how to open a private window
 निजी विंडो खोलबाक तरीका जानू
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;See how Private Browsing works
 जानू कि निजी ब्राउज़िंग कोन करहेँ काज करैत अछि
