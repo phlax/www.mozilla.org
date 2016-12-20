@@ -1,14 +1,10 @@
-## active ##
-## ios_promo ##
-## teach_the_web_promo ##
-## NOTE: demo server at https://www-dev.allizom.org/
-
-
+# Used as page title in HTML meta tag
 # Used as page title in HTML meta tag
 ;We’re building a better Internet
 Mes kuriame geresnį internetą
 
 
+# Used as page description in HTML meta tag
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Ar žinojote? „Mozilla“ – organizacija, kurianti „Firefox“ – kovoja, kad internetas išliktų pasauliniu viešu ištekliumi, atviru ir prieinamu kiekvienam.
@@ -43,6 +39,7 @@ Išbandykite privatųjį naršymą
 
 
 # Small tile. Link points to https://advocacy.mozilla.org
+# Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 Sužinokite apie „Mozillos“ vertybių propagavimą
 
@@ -63,6 +60,7 @@ Padėkite milijonams geriau išnaudoti jų mėgstamas programas.
 Prisijunkite prie mūsų pagalbos komandos
 
 
+# Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 # Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 ;Get smart on Tracking
 Apsišvieskite apie stebėjimą internete
@@ -89,10 +87,12 @@ Parsisiųskite „Firefox“ „iOS“ įrenginiams
 
 
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Try Firefox Developer Edition
 Išbandykite „Firefox Developer Edition“
 
 
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Introducing Firefox Developer Edition
 Pristatome „Firefox Developer Edition“
@@ -119,30 +119,36 @@ Jau 10 metų dokumentuojame saityną.
 
 
 # Used in Twitter feed
+# Used in Twitter feed
 ;Reply
 Atsakyti
 
 
+# Used in Twitter feed
 # Used in Twitter feed
 ;Retweet
 Atkartoti
 
 
 # <strong> tags below are for visual formatting only.
+# <strong> tags below are for visual formatting only.
 ;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
 Pašvęsta <strong>jums, jūsų privatumui</strong> ir <strong>atvirajam saitynui</strong>
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians <br>worldwide
 – tiek pasaulyje yra<br> aktyvių moziliečių
 
 
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events <br>around the globe
 – tiek renginių<br> vyks netrukus
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;languages and counting, <br>on every continent
 – tai augantis skaičius kalbų,<br> kuriomis mes bendraujame
@@ -184,6 +190,7 @@ Turite klausimų apie „Firefox“ ir kitus „Mozillos“ produktus? Mūsų pa
 Atraskite dar daugiau
 
 
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
 # This is used as a link to dismiss the video overlay and continue to mozilla.org website
 ;Continue to mozilla.org
 Eiti į mozilla.org
