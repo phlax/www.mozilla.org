@@ -1,9 +1,13 @@
 # Title of the page (HTML meta tag)
 # Title of the page (HTML meta tag)
+# Title of the page (HTML meta tag)
+# Title of the page (HTML meta tag)
 ;Firefox – Desktop browser, Android, iOS, Sync, Private Browsing
 Firefox – Desktop browser, Android, iOS, Sync, Private Browsing
 
 
+# Obsolete title of the page (do not remove)
+# Obsolete title of the page (do not remove)
 # Obsolete title of the page (do not remove)
 # Obsolete title of the page (do not remove)
 ;Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing
@@ -12,10 +16,14 @@ Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing
 
 # Obsolete title of the page (do not remove)
 # Obsolete title of the page (do not remove)
+# Obsolete title of the page (do not remove)
+# Obsolete title of the page (do not remove)
 ;Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace
 Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace
 
 
+# Description of the page (HTML meta tag)
+# Description of the page (HTML meta tag)
 # Description of the page (HTML meta tag)
 # Description of the page (HTML meta tag)
 ;Learn more about our complete lineup of products for desktop and mobile browsing (and more) that help keep you in control online. Free yourself with Firefox.
@@ -40,10 +48,14 @@ Yer Firefox.
 
 # %s will be replaced by an image (Firefox wordmark)
 # %s will be replaced by an image (Firefox wordmark)
+# %s will be replaced by an image (Firefox wordmark)
+# %s will be replaced by an image (Firefox wordmark)
 ;Free yourself with %s
 Free yourself with %s
 
 
+# <span> tag below adds visual style to "for" text
+# <span> tag below adds visual style to "for" text
 # <span> tag below adds visual style to "for" text
 # <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> desktop
@@ -54,6 +66,8 @@ Firefox <span>for</span> desktop
 Trusted. Flexible. Fast.
 
 
+# <span> tag below adds visual style to "for" text
+# <span> tag below adds visual style to "for" text
 # <span> tag below adds visual style to "for" text
 # <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> Android
@@ -70,6 +84,8 @@ Nong i Google Play
 
 # <span> tag below adds visual style to "for" text
 # <span> tag below adds visual style to "for" text
+# <span> tag below adds visual style to "for" text
+# <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> iOS
 Firefox <span>for</span> iOS
 
@@ -78,6 +94,8 @@ Firefox <span>for</span> iOS
 Fast. Smart. Yours.
 
 
+# Obsolete title, do not remove
+# Obsolete title, do not remove
 # Obsolete title, do not remove
 # Obsolete title, do not remove
 ;Get it on iPhones and iPads
