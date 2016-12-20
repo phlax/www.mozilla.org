@@ -1,17 +1,16 @@
-## active ##
-## NOTE: Demo server available at url: https://www-dev.allizom.org/plugincheck/
-
-
+# Page title (HTML attribute)
 # Page title (HTML attribute)
 ;Keep your Firefox healthy with a quick checkup
 Manteniu el Firefox en forma amb una ràpida verificació
 
 
 # Page description (HTML attribute)
+# Page description (HTML attribute)
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
 Utilitzeu Flash, QuickTime o Java? Si els utilitzeu per a fer la vostra experiència amb el Firefox més impressionant, reviseu els vostres connectors! Podrien necessitar una actualització.
 
 
+# Main title
 # Main title
 ;Check Your Plugins
 Comproveu els connectors
@@ -166,30 +165,36 @@ Torna a dalt
 
 
 # This is a button telling the user to update their plugin
+# This is a button telling the user to update their plugin
 ;Update Now
 Actualitza
 
 
+# This is alt text used on plugin icon images
 # This is alt text used on plugin icon images
 ;Plugin icon
 Icona del connector
 
 
 # This is the string used to indicate that the plugin is up to date
+# This is the string used to indicate that the plugin is up to date
 ;up to date
 actualitzat
 
 
+# This is the string used to indicate that the plugin is unknown
 # This is the string used to indicate that the plugin is unknown
 ;unknown
 desconegut
 
 
 # This is the string used to indicate that the plugin is outdated
+# This is the string used to indicate that the plugin is outdated
 ;outdated
 obsolet
 
 
+# This is the string used to indicate that the plugin is vulnerable
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
 amb risc
