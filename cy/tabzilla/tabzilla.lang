@@ -1,5 +1,3 @@
-## active ##
-## gear_store ##
 ;Mozilla links
 Cysylltiadau Mozilla
 
@@ -45,6 +43,7 @@ Arloesi
 
 
 # Noun, links to https://www.mozilla.org/research
+# Noun, links to https://www.mozilla.org/research
 ;Research
 Ymchwil
 
@@ -82,35 +81,42 @@ Chwilio
 
 
 # This is a verb, in the 'Get involved' column. Goes to partnership page.
+# This is a verb, in the 'Get involved' column. Goes to partnership page.
 ;Partner
 Partner {ok}
 
 
+# Slogan for Firefox OS promo
 # Slogan for Firefox OS promo
 ;Look ahead
 Edrych ymlaen
 
 
 # Link for slogan
+# Link for slogan
 ;Learn all about Firefox OS
 Dysgu am Firefox OS
 
 
+# You can replace 'in your language' in this string by the name of your language if you want.
 # You can replace 'in your language' in this string by the name of your language if you want.
 ;Would you like to see this page in your language?
 Hoffech chi weld y dudalen hon yn eich iaith chi?
 
 
 # Translation bar: Your translation can just say Yes
+# Translation bar: Your translation can just say Yes
 ;Yes, please!
 Iawn!
 
 
 # Translation bar: Your translation can just say No
+# Translation bar: Your translation can just say No
 ;No, thanks.
 Na, dim diolch.
 
 
+# Fundraising campaign in Tabzilla
 # Fundraising campaign in Tabzilla
 ;Support Mozilla
 Cefnogi Mozilla
@@ -118,20 +124,25 @@ Cefnogi Mozilla
 
 # Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 # Screenshot: https://bug935719.bugzilla.mozilla.org/attachment.cgi?id=8499330
+# Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
+# Screenshot: https://bug935719.bugzilla.mozilla.org/attachment.cgi?id=8499330
 ;Looks like you’re using an older version of Firefox.
 Mae'n edrych fel eich bod yn defnyddio hen fersiwn o Firefox.
 
 
+# Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 # Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 ;Update to stay fast and safe.
 Diweddarwch i gadw'n gyflym a diogel.
 
 
 # Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
+# Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 ;Later
 Yn hwyrach
 
 
+# Used in promo box
 # Used in promo box
 ;Official Mozilla gear is here
 Stwff swyddogol Mozilla
