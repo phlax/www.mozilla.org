@@ -1,25 +1,22 @@
-## active ##
-## fx49_remove_hello ##
-## ios_product_tagline ##
-## tracking_protection ##
-## NOTE: demo page available at https://www-dev.allizom.org/firefox/products/
-
-
+# Title of the page (HTML meta tag)
 # Title of the page (HTML meta tag)
 ;Firefox – Desktop browser, Android, iOS, Sync, Private Browsing
 Firefox – Ceecikaw ordinater, Android, iOS, Sync, sutura ceeciyan se
 
 
 # Obsolete title of the page (do not remove)
+# Obsolete title of the page (do not remove)
 ;Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing
 Firefox – Ceecikaw ordinater, Android, iOS, OS, Hello, Sync, sutura ceeciyan se
 
 
 # Obsolete title of the page (do not remove)
+# Obsolete title of the page (do not remove)
 ;Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace
 Firefox — Ceecikaw ordinater, Android, OS, Hello, Sync, Marketplace se
 
 
+# Description of the page (HTML meta tag)
 # Description of the page (HTML meta tag)
 ;Learn more about our complete lineup of products for desktop and mobile browsing (and more) that help keep you in control online. Free yourself with Firefox.
 Bay ka tonton ir jinay dumey kul ga ordinater nda kanbejinay ceeciyan se (nda bešere) kaŋ ga war gaa ka interneti juwal. Firefox ga war noo nda war boŋ.
@@ -42,10 +39,12 @@ Firefox suuba.
 
 
 # %s will be replaced by an image (Firefox wordmark)
+# %s will be replaced by an image (Firefox wordmark)
 ;Free yourself with %s
 War duu war boŋ nda %s
 
 
+# <span> tag below adds visual style to "for" text
 # <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> desktop
 Firefox ordinater <span>se</span>
@@ -55,6 +54,7 @@ Firefox ordinater <span>se</span>
 Naanante. Ibaana. Cahãnte.
 
 
+# <span> tag below adds visual style to "for" text
 # <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> Android
 Firefox Android <span>se</span>
@@ -69,6 +69,7 @@ A zumandi Google Play ga
 
 
 # <span> tag below adds visual style to "for" text
+# <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> iOS
 Firefox iOS <span>se</span>
 
@@ -77,6 +78,7 @@ Firefox iOS <span>se</span>
 Cahãnte. Carmay. War wanoo.
 
 
+# Obsolete title, do not remove
 # Obsolete title, do not remove
 ;Get it on iPhones and iPads
 W'a zaa iPhone nda iPad ga
