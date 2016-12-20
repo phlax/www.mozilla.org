@@ -1,18 +1,16 @@
-## active ##
-## forget_button ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — Designed to protect your privacy — The most trusted browser on the Web
 Firefox — Concebut per protegir vòstra vida privada — Lo navigador lo mai fisable sul Web
 
 
 # main title
+# main title
 ;Trust isn’t made. It’s earned.
 La fisança se crompa pas.<br class="wide-br"> Se ganha.
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;We build Firefox with a mission to put you first, above all else.<br class="wide-br">
 Concebèm Firefox amb per mission de defendre vòstres interèsses, abans res mai.<br class="wide-br">
@@ -30,6 +28,7 @@ O fasèm per que naviguetz sens crencha.<br class="wide-br">
 E o fasèm perque degun mai o farà pas.
 
 
+# The span tags are for presentational purpose
 # The span tags are for presentational purpose
 ;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
 <span id="trust-line1">Entrepresa Internet</span> <span id="trust-line2">la mai fisabla</span> <span id="trust-line3">per la confidencialitat</span>
@@ -59,6 +58,8 @@ Browse without having your history, searches or cookies saved, and block hidden 
 Learn more about Private Browsing
 
 
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 ;Forget Button
@@ -126,6 +127,7 @@ Navigatz sens crencha
 
 
 # L10n: Line break below is for visual formatting only.
+# L10n: Line break below is for visual formatting only.
 ;Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
 Descobrissètz perqué vòstra vida privada e vòstra seguretat son tant importantas <br class="wide-br">e çò que podètz far per vos protegir sus Internet.
 
@@ -155,35 +157,42 @@ Blog sus la seguretat
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do Not Track
 Me pistar pas
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
 Me pistar pas es une innovacion de Firefox que vos permet d’indicar vòstra preferéncia sul biais que vòstras donadas personalas son collectadas e utilizadas en linha.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 Ne saber mai sus Me pistar pas
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private browsing
 Navigacion privada
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Sometimes it’s nice to go undercover.
 De còps, es plan de demorar discret.
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Turn this feature on to protect your browsing history from others.
 Activatz aquesta foncionalitat per protegir vòstre istoric de navigacion dels autres.
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Learn how to open a private window
 Descobrir cossí dobrir una fenèstra de navigacion privada
