@@ -1,11 +1,10 @@
-## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
-
-
+# HTML Description
 # HTML Description
 ;Download and test future releases of Firefox for desktop, Android and iOS.
 Download and test future releases of Firefox for desktop, Android and iOS.
 
 
+# Main page heading. In case the text is too hard to translate, here's an alternative text: "Take the future for a test run."
 # Main page heading. In case the text is too hard to translate, here's an alternative text: "Take the future for a test run."
 ;Take a browse on the wild side.
 Take a browse on the wild side.
@@ -16,15 +15,18 @@ Be among the first to explore future releases of Firefox for desktop, Android an
 
 
 # Used in the navigation menu
+# Used in the navigation menu
 ;Desktop
 Kompiuteriams
 
 
 # Used in the navigation menu
+# Used in the navigation menu
 ;Android
 Android {ok}
 
 
+# Used in the navigation menu
 # Used in the navigation menu
 ;iOS
 iOS {ok}
@@ -111,10 +113,12 @@ Nightly Blog
 
 
 # Don't translate TestFlight
+# Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
 Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
 
 
+# Don't translate TestFlight
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program.
 Test beta versions of Firefox for iOS via Apple’s TestFlight program.
