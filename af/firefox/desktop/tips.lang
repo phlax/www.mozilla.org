@@ -1,8 +1,4 @@
-## active ##
-## sync_device_note ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/tips/
-
-
+# main title
 # main title
 ;The best of the latest Firefox
 Die beste van die jongste Firefox
@@ -57,6 +53,7 @@ volgende
 
 
 # Tip 1
+# Tip 1
 ;Click the star
 Klik die sterretjie
 
@@ -78,6 +75,7 @@ Klik die sterretjie om boekmerke by te voeg en bestuur hulle ook van daar af.
 
 
 # Tip 2
+# Tip 2
 ;Simplify your life
 Vereenvoudig dinge
 
@@ -91,10 +89,12 @@ Verwyder die ongebruikte knoppe — dan kry mens die ander sommer maklik.
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Open the menu, select “<strong>Customize</strong>” and drag any button out of the toolbar.
 Open die kieslys, kies “<strong>Doelmaak</strong>” en sleep enige knoppie uit die gereedskapbalk uit.
 
 
+# Tip 3
 # Tip 3
 ;Add your faves
 Voeg gunstelinge by
@@ -105,30 +105,36 @@ Kies die gunstelingfunksies en rangskik hulle vir vinnige, maklike toegang.
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Open the menu, select “<strong>Customize</strong>” and drag any button into the toolbar or menu.
 Open die kieslys, kies “<strong>Doelmaak</strong>” en sleep enige knoppie na die gereedskapbalk of kieslys.
 
 
+# Tip 4
 # Tip 4
 ;Stay in Sync
 Bly gesinkroniseerd
 
 
 # New string
+# New string
 ;Use Sync to magically access your open tabs, passwords and more wherever you use Firefox.
 Gebruik Sync vir maklike toegang tot oop oortjies, wagwoorde en nog wat waar mens ook al Firefox gebruik.
 
 
+# Old string, will be removed once the new string is activated
 # Old string, will be removed once the new string is activated
 ;Use Sync to magically access your open tabs, passwords and more from any device.
 Gebruik Sync vir maklike toegang tot oop oortjies, wagwoorde en nog wat vanaf enige toestel.
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Choose “<strong>Sign in to Sync</strong>” from the menu and make Firefox your own wherever you use it.
 Kies “<strong>Meld aan by Sync</strong>” op die kieslys en maak Firefox jou eie net waar dit gebruik word.
 
 
+# Tip 5
 # Tip 5
 ;Free your add-ons
 Ontsluit die byvoegings
@@ -138,6 +144,7 @@ Ontsluit die byvoegings
 Hou spesiale, gunstelingbyvoegings in die kieslys sodat hulle sigbaar en binne bereik is.
 
 
+# The strong tags are for presentational purpose
 # The strong tags are for presentational purpose
 ;Select “<strong>Customize</strong>” from the menu and drag in the add-ons you want.
 Kies “<strong>Doelmaak</strong>” op die kieslys en kies die verlangde byvoegings.
@@ -160,20 +167,24 @@ Help nou vriende oom ook Firefox te bemeester.
 
 
 # Accessibility string for link
+# Accessibility string for link
 ;Learn more about bookmarks
 Meer inligting oor boekmerke
 
 
+# Accessibility string for link
 # Accessibility string for link
 ;Learn more about customizing
 Meer inligting oor aanpasbaarheid
 
 
 # Accessibility string for link
+# Accessibility string for link
 ;Learn more about Sync
 Meer inligting oor Sync
 
 
+# Accessibility string for link
 # Accessibility string for link
 ;Learn more about add-ons
 Meer inligting toor byvoegings
