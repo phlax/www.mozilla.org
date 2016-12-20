@@ -1,6 +1,4 @@
-## NOTE: http://www-dev.allizom.org/lightbeam
-
-
+# Navigation
 # Navigation
 ;Menu
 Meniu
@@ -14,6 +12,7 @@ Pradžia
 Apie
 
 
+# Main page title
 # Main page title
 ;Lightbeam for Firefox
 „Lightbeam“ priedas „Firefox“ naršyklei
@@ -136,6 +135,7 @@ Išsamiau
 
 
 # About page
+# About page
 ;About Lightbeam
 About Lightbeam
 
@@ -149,10 +149,12 @@ How the add-on works
 
 
 # New string (May 15) to reflect features that have been removed from the add-on.
+# New string (May 15) to reflect features that have been removed from the add-on.
 ;Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
 Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
 Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
@@ -235,10 +237,12 @@ Data formats in Lightbeam
 
 
 # New string (May 15) to reflect features that have been removed from the add-on.
+# New string (May 15) to reflect features that have been removed from the add-on.
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
 Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
 Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
