@@ -1,28 +1,36 @@
-## active ##
-## contribute_cta_updates ##
-## NOTE: Demo server available at https://www-dev.allizom.org/contribute
+;Firefox OS
+Firefox&nbsp;OS
 
 
+;Firefox and Firefox OS
+Firefox et Firefox&nbsp;OS
+
+
+# Used for HTML title attribute
 # Used for HTML title attribute
 ;Volunteer Opportunities at Mozilla
 Les différentes façons de participer à Mozilla
 
 
 # this string is used for accessibility reasons, it's not visible in the page
+# this string is used for accessibility reasons, it's not visible in the page
 ;Menu
 Menu {ok}
 
 
+# this br is for formatting, omit or reposition as needed
 # this br is for formatting, omit or reposition as needed
 ;Why<br> volunteer
 Pourquoi<br> contribuer
 
 
 # this br is for formatting, omit or reposition as needed
+# this br is for formatting, omit or reposition as needed
 ;Find<br> an event
 Trouver<br> un évènement
 
 
+# this br is for formatting, omit or reposition as needed
 # this br is for formatting, omit or reposition as needed
 ;Meet<br> Mozillians
 Rencontrer<br> des Mozilliens
@@ -37,6 +45,7 @@ Votre pays
 
 
 # This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
+# This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
 ;I live in&hellip;
 Je vis ici&hellip;
 
@@ -46,15 +55,18 @@ Contribuez à Mozilla&nbsp;!
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians worldwide
 Mozilliens actifs <br>sur la planète&nbsp;!
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events around the globe
 évènements à venir <br>dans le monde
 
 
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 ;languages and counting, on every continent
 langues et bientôt davantage,<br>sur tous les continents
@@ -65,10 +77,12 @@ Rejoignez une communauté <br>qui change la donne.
 
 
 # this br is for formatting, omit or reposition as needed
+# this br is for formatting, omit or reposition as needed
 ;Volunteer as much as you like. Or as little.<br> It’s totally up to you.
 Contribuez selon vos envies&nbsp;: un peu, beaucoup&hellip; Vous êtes totalement libre.
 
 
+# this br is for formatting, omit or reposition as needed
 # this br is for formatting, omit or reposition as needed
 ;Share your skills and pick up<br> a few new ones along the way.
 Partagez vos connaissances et apprenez de nouvelles choses au passage.
@@ -78,6 +92,7 @@ Partagez vos connaissances et apprenez de nouvelles choses au passage.
 Participer à Mozilla&hellip;
 
 
+# This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 ;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
 &hellip;c’est un peu plus que d’apporter son aide, cela veut aussi dire apprendre, collaborer, partager des connaissances avec la communauté de Mozilliens (codeurs, organisateurs, activistes&hellip;) qui contribuent à façonner le Web jour&nbsp;après&nbsp;jour.
@@ -92,20 +107,24 @@ Comment les Mozilliens aident au quotidien
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Spain &middot; Activism
 Activiste &middot; Espagne
 
 
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Philippines &middot; Activism
 Activiste &middot; Philippines
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Switzerland &middot; Coding
 Développeur &middot; Suisse
 
 
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;India &middot; Teaching
 Enseignant &middot; Inde
@@ -212,15 +231,18 @@ Recevoir l’actualité de la communauté
 
 
 # Used as title of the /stories sub-page
+# Used as title of the /stories sub-page
 ;Mozillian Stories
 Témoignages de Mozilliens
 
 
 # Used as a toggle to display more content.
+# Used as a toggle to display more content.
 ;More
 Plus
 
 
+# Used as a toggle to display less content.
 # Used as a toggle to display less content.
 ;Less
 Moins
@@ -239,6 +261,7 @@ Plus à venir
 
 
 # Used as title of the /signup sub-page
+# Used as title of the /signup sub-page
 ;Get Involved: Volunteer Opportunities at Mozilla
 Impliquez-vous&nbsp;: découvrez les possibilités de bénévolat chez Mozilla
 
@@ -251,6 +274,7 @@ Dites-nous d’abord <br>ce qui vous intéresse.
 Commencez par choisir un domaine, vous pourrez toujours en aborder d’autres par la suite.
 
 
+# This text is used for accessibility reasons, it's not visible
 # This text is used for accessibility reasons, it's not visible
 ;Where would you like to get started?
 Par où voudriez-vous commencer&nbsp;?
@@ -545,6 +569,7 @@ Ville
 
 
 # Used as title of the thank you page displayed after users send the form
+# Used as title of the thank you page displayed after users send the form
 ;Thank you!
 Merci !
 
@@ -602,20 +627,24 @@ Pendant ce temps&hellip;
 
 
 # Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
+# Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 ;You can help by picking an easy task that only takes a few minutes &mdash; or take on a bigger challenge.
 Vous pouvez nous aider en réalisant une petite tâche ne nécessitant que quelques minutes, ou vous lancer un défi plus important.
 
 
+# Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 # Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 ;Choose a Task Now
 Choisir une tâche
 
 
 # Displayed in the "Thank You!" page after the email is sent for other categories.
+# Displayed in the "Thank You!" page after the email is sent for other categories.
 ;Help us tell the world how awesome Firefox is and about all the important work Mozilla does every day.
 Aidez-nous à faire connaître Firefox et à mettre en valeur le travail accompli par Mozilla quotidiennement.
 
 
+# Displayed in the "Thank You!" page after the email is sent for other categories.
 # Displayed in the "Thank You!" page after the email is sent for other categories.
 ;Join Now
 Nous rejoindre
@@ -637,6 +666,8 @@ Vous devrez vous connecter avant de continuer
 Non merci, je vais attendre le courriel
 
 
+# The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+# Strings have been copied from the old template (mozorg/contribute.lang)
 # The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
 # Strings have been copied from the old template (mozorg/contribute.lang)
 ;Area of interest?
