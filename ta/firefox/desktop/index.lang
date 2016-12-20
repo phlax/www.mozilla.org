@@ -1,18 +1,16 @@
-## active ##
-## home_title_update ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop
-
-
+# This is the <title> tag
 # This is the <title> tag
 ;Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your privacy and an open Web
 Firefox உலாவி — நம்பகமானது, நெகிழ்வானது, விரைவானது — உங்களுக்காகவும், உங்களின் தனியுரிமைக்காகவும், திறந்த இனையத்திற்காகவும் அர்பணிக்கப்பட்டது
 
 
 # Previous title (DO NOT REMOVE)
+# Previous title (DO NOT REMOVE)
 ;Firefox Web browser — Trusted, Flexible, Fast — There's never been a better time
 பயர்பாக்ஸ் இணைய உலாவி — நம்பகமானது, இணக்கமானது, வேகமானது — இதைவிட நல்ல நேரம் இருந்ததே இல்லை
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;There’s never been a <br class="wide-br">better time for Firefox
 இதற்கு முன் இப்படி ஒரு <br class="wide-br"> நல்ல நேரம் பயர்பாக்ஸிற்கு இருந்ததே இல்லை
@@ -23,10 +21,13 @@ Firefox உலாவி — நம்பகமானது, நெகிழ்�
 
 
 # This string is displayed if the visitor is using an up-to-date version of Firefox
+# This string is displayed if the visitor is using an up-to-date version of Firefox
 ;Your Firefox is up to date.
 உங்கள் பயர்பாக்ஸ் புத்தம் புதுசா இருக்கு.
 
 
+# This string is displayed if the visitor is using an up-to-date version of Firefox
+# Active link to https://support.mozilla.org/products/firefox
 # This string is displayed if the visitor is using an up-to-date version of Firefox
 # Active link to https://support.mozilla.org/products/firefox
 ;Need help with anything?
