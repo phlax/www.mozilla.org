@@ -1,17 +1,16 @@
-## active ##
-## NOTE: demo server at https://bedrock-demo-agibson.us-west.moz.works/
-
-
+# HTML title tag of the page
 # HTML title tag of the page
 ;Internet for people, not profit
 Табыс үшін емес, адамдар үшін интернет
 
 
 # HTML description tag
+# HTML description tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource, open and accessible to all.
 Сіз білдіңіз бе? Mozilla — Firefox жасаушысы — Интернетті әркім үшін ашық және қолжетерлік публикалық ресурс болғанын сақтау үшін күреседі.
 
 
+# Line break below for visual formatting only
 # Line break below for visual formatting only
 ;Internet for people, <br>not profit.
 Табыс үшін емес, <br>адамдар үшін интернет.
