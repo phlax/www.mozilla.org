@@ -1,8 +1,3 @@
-## active ##
-## thunderbird_startpage_donate_2016_06 ##
-## NOTE: Thunderbird start page,  url is https://www-dev.allizom.org/thunderbird/release/start/
-
-
 ;Welcome to <span>Thunderbird</span>
 Croeso i <span>Thunderbird</span>
 
@@ -84,15 +79,19 @@ Os nad ydych yn gallu dod o hyd i ateb, yna <a href="%s">gofynnwch yn ein fforwm
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Most Thunderbird support questions are answered on the <a href="%s">Knowledge Base</a>.
 Mae'r rhan fwyaf o gwestiynau cefnogaeth Thunderbird yn cael eu hateb yn y <a href="%s">Knowledge Base</a>.
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;If you can’t find an answer, <a href="%s">ask your question on our support forum</a>.
 Os nad ydych yn gallu dod o hyd i ateb, yna <a href="%s">gofynnwch yn ein fforwm cefnogaeth</a>.
 
 
+# If your locale has a dedicated Thunderbird support forum, you can localize the URL
+# used in the previous string to point there. Otherwise simply mark the string as {ok}
 # If your locale has a dedicated Thunderbird support forum, you can localize the URL
 # used in the previous string to point there. Otherwise simply mark the string as {ok}
 ;https://support.mozilla.org/questions/new/thunderbird
