@@ -1,8 +1,4 @@
-## active ##
-## sync_device_note ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/tips/
-
-
+# main title
 # main title
 ;The best of the latest Firefox
 Le meilleur du nouveau Firefox
@@ -57,6 +53,7 @@ suivant
 
 
 # Tip 1
+# Tip 1
 ;Click the star
 Cliquez sur l’étoile
 
@@ -78,6 +75,7 @@ Cliquez sur l’étoile pour ajouter des marque-pages et les gérer depuis le m�
 
 
 # Tip 2
+# Tip 2
 ;Simplify your life
 Simplifiez-vous la vie
 
@@ -91,10 +89,12 @@ Supprimez les boutons que vous n’utilisez pas pour trouver plus facilement ceu
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Open the menu, select “<strong>Customize</strong>” and drag any button out of the toolbar.
 Ouvrez le menu, sélectionnez &laquo;&nbsp;<strong>Personnaliser</strong>&nbsp;&raquo; puis faites glisser n’importe quel bouton depuis la barre d’outils.
 
 
+# Tip 3
 # Tip 3
 ;Add your faves
 Ajoutez vos favoris
@@ -105,30 +105,36 @@ Organisez votre espace de travail avec vos outils favoris, vous y accèderez vit
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Open the menu, select “<strong>Customize</strong>” and drag any button into the toolbar or menu.
 Ouvrez le menu, sélectionnez &laquo;&nbsp;<strong>Personnaliser</strong>&nbsp;&raquo; puis faites glisser n’importe quel bouton vers la barre d’outils ou le menu.
 
 
+# Tip 4
 # Tip 4
 ;Stay in Sync
 Restez synchronisé avec Sync
 
 
 # New string
+# New string
 ;Use Sync to magically access your open tabs, passwords and more wherever you use Firefox.
 Depuis tous vos appareils, vous pouvez accéder à vos onglets ouverts, mots de passe et bien davantage. C’est magique&nbsp;? —&nbsp;Non, c’est Sync&nbsp;!
 
 
+# Old string, will be removed once the new string is activated
 # Old string, will be removed once the new string is activated
 ;Use Sync to magically access your open tabs, passwords and more from any device.
 Depuis tous vos appareils, vous pouvez accéder à vos onglets ouverts, mots de passe et bien davantage. C’est magique&nbsp;? —&nbsp;Non, c’est Sync&nbsp;!
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Choose “<strong>Sign in to Sync</strong>” from the menu and make Firefox your own wherever you use it.
 Sélectionnez &laquo;&nbsp;<strong>Se connecter à Sync</strong>&nbsp;&raquo; dans le menu et utilisez le Firefox qui vous ressemble sur tous vos appareils.
 
 
+# Tip 5
 # Tip 5
 ;Free your add-ons
 Libérez vos modules
@@ -138,6 +144,7 @@ Libérez vos modules
 Gardez vos modules favoris en vue et à portée de clic, en les plaçant dans le menu.
 
 
+# The strong tags are for presentational purpose
 # The strong tags are for presentational purpose
 ;Select “<strong>Customize</strong>” from the menu and drag in the add-ons you want.
 Sélectionnez &laquo;&nbsp;<strong>Personnaliser</strong>&nbsp;&raquo; dans le menu et faites glisser les modules que vous désirez.
@@ -160,20 +167,24 @@ Lancez-vous et aidez vos amis à tirer le meilleur de Firefox.
 
 
 # Accessibility string for link
+# Accessibility string for link
 ;Learn more about bookmarks
 En savoir plus sur les marque-pages
 
 
+# Accessibility string for link
 # Accessibility string for link
 ;Learn more about customizing
 En savoir plus sur la personnalisation
 
 
 # Accessibility string for link
+# Accessibility string for link
 ;Learn more about Sync
 En savoir plus sur la synchronisation
 
 
+# Accessibility string for link
 # Accessibility string for link
 ;Learn more about add-ons
 En savoir plus sur les modules complémentaires
