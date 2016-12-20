@@ -1,20 +1,16 @@
-## active ##
-## android_reader_links ##
-## android_spring_updates ##
-## tracking_protection ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
-
-
+# Used in HTML as page title
 # Used in HTML as page title
 ;Firefox for Android — Mobile Web browser — More ways to customize and protect your privacy
 Firefox pour Android — le navigateur pour mobile — encore plus de moyens de l’adapter à votre gré et de protéger votre vie privée
 
 
 # Used in HTML as page description
+# Used in HTML as page description
 ;Only Firefox for Android offers so many ways to make your mobile browsing experience truly your own
 Seul Firefox pour Android offre autant de possibilités de vous approprier vraiment votre navigation mobile
 
 
+# alt text for image (hard-coded image needs to be fixed)
 # alt text for image (hard-coded image needs to be fixed)
 ;Firefox for Android
 Firefox pour Android
@@ -48,6 +44,7 @@ Télécharger sur Google Play
 Rien que pour vous
 
 
+# Line break below is for visual formatting only. Remove if it's not useful for your locale
 # Line break below is for visual formatting only. Remove if it's not useful for your locale
 ;Only Firefox for Android offers this many ways to make<br> your mobile browsing experience truly your own.
 Firefox pour Android vous offre encore plus de possibilités de personnaliser votre navigation.
@@ -114,10 +111,12 @@ Accédez à vos articles enregistrés même quand vous n’êtes pas en ligne.
 
 
 # Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
+# Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
 ;Learn more about Reading List
 Apprenez-en davantage à propos de la liste de lecture
 
 
+# Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 # Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 ;Learn more about Reader View
 Apprenez-en davantage à propos du mode lecture
@@ -220,35 +219,42 @@ Notes de mise à jour
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do not track
 Ne pas me pister
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
 Activez ce paramètre de Firefox pour garder le contrôle sur la collecte et l’utilisation en ligne de vos données de navigation.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 Apprenez-en davantage à propos de <i>Ne pas me pister</i>
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private Browsing
 Navigation privée
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
 Une fois celle-ci activée, Firefox pour Android n’acceptera pas les cookies et ne se souviendra d’aucun mot de passe ou site que vous avez visité.
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Learn how to open a private window
 Découvrez comment ouvrir une fenêtre de navigation privée
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;See how Private Browsing works
 Apprenez-en davantage sur la navigation privée
