@@ -1,12 +1,10 @@
-## active ##
-## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
-
-
+# HTML Description
 # HTML Description
 ;Download and test future releases of Firefox for desktop, Android and iOS.
 Llwythwch i lawr a phrofi fersiynau'r dyfodol o Firefox bwrdd gwaith, Android ac iOS.
 
 
+# Main page heading. In case the text is too hard to translate, here's an alternative text: "Take the future for a test run."
 # Main page heading. In case the text is too hard to translate, here's an alternative text: "Take the future for a test run."
 ;Take a browse on the wild side.
 Rhoi prawf ar y dyfodol.
@@ -17,15 +15,18 @@ Byddwch ymhlith y cyntaf i archwilio fersiynau'r dyfodol o Firefox bwrdd gwaith,
 
 
 # Used in the navigation menu
+# Used in the navigation menu
 ;Desktop
 Bwrdd Gwaith
 
 
 # Used in the navigation menu
+# Used in the navigation menu
 ;Android
 Android {ok}
 
 
+# Used in the navigation menu
 # Used in the navigation menu
 ;iOS
 iOS {ok}
@@ -112,10 +113,12 @@ Blog Nosweithiol
 
 
 # Don't translate TestFlight
+# Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
 Profwch fersiynau Beta o Firefox iOS drwy raglen Test Flight Apple a chynorthwyo i wneud ein porwr symudol ar gyfer yr iPhone, iPad a iPod Touch hyd yn oed yn well.
 
 
+# Don't translate TestFlight
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program.
 Profi'r fersiwn beta o Firefox ar gyfer iOS drwy rhaglen TestFlight Apple .
