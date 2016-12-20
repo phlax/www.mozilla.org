@@ -1,5 +1,3 @@
-## active ##
-## gear_store ##
 ;Mozilla links
 Mozilla сілтемелері
 
@@ -45,6 +43,7 @@ Firefox OS <span>Mobile World Congress</span> көрмесінде жарық к
 
 
 # Noun, links to https://www.mozilla.org/research
+# Noun, links to https://www.mozilla.org/research
 ;Research
 Зерттеу
 
@@ -82,35 +81,42 @@ Mozilla сайттарынан іздеу
 
 
 # This is a verb, in the 'Get involved' column. Goes to partnership page.
+# This is a verb, in the 'Get involved' column. Goes to partnership page.
 ;Partner
 Серіктес
 
 
+# Slogan for Firefox OS promo
 # Slogan for Firefox OS promo
 ;Look ahead
 Болашаққа көз тігу
 
 
 # Link for slogan
+# Link for slogan
 ;Learn all about Firefox OS
 Firefox OS туралы барлығын біліңіз
 
 
+# You can replace 'in your language' in this string by the name of your language if you want.
 # You can replace 'in your language' in this string by the name of your language if you want.
 ;Would you like to see this page in your language?
 Бұл парақты өз тіліңізде көргіңіз келе ме?
 
 
 # Translation bar: Your translation can just say Yes
+# Translation bar: Your translation can just say Yes
 ;Yes, please!
 Иә!
 
 
 # Translation bar: Your translation can just say No
+# Translation bar: Your translation can just say No
 ;No, thanks.
 Жоқ, рахмет.
 
 
+# Fundraising campaign in Tabzilla
 # Fundraising campaign in Tabzilla
 ;Support Mozilla
 Mozilla-ны қолдау
@@ -118,20 +124,25 @@ Mozilla-ны қолдау
 
 # Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 # Screenshot: https://bug935719.bugzilla.mozilla.org/attachment.cgi?id=8499330
+# Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
+# Screenshot: https://bug935719.bugzilla.mozilla.org/attachment.cgi?id=8499330
 ;Looks like you’re using an older version of Firefox.
 Сіз Firefox ескілеу нұсқасын қолданатын сияқтысыз.
 
 
+# Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 # Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 ;Update to stay fast and safe.
 Жылдам әрі қауіпсіз қалу үшін жаңартыңыз.
 
 
 # Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
+# Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 ;Later
 Кейінірек
 
 
+# Used in promo box
 # Used in promo box
 ;Official Mozilla gear is here
 Mozilla атрибутикасының ресми дүкені осында
