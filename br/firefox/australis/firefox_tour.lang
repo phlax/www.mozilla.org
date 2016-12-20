@@ -1,17 +1,16 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/firefox/whatsnew/ and https://www-dev.allizom.org/firefox/firstrun/
-
-
+# Headline in /firstrun page
 # Headline in /firstrun page
 ;Take a quick tour
 Ober ur weladenn
 
 
 # Headline in /whatsnew page
+# Headline in /whatsnew page
 ;Welcome to Firefox
 Donemat e Firefox
 
 
+# Sub-headline in /firstrun page
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
 Gouestlet deoc'h, d'ho puhez prevez ha d'ar Web digor.
@@ -34,6 +33,7 @@ Lakaet a-gevred evit un haeziñ herrek hag aes
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites are<br> closer than ever
 Tostoc'h eget biskoazh emañ<br> ho lec'hiennoù muiañ plijet
 
@@ -46,6 +46,7 @@ Ouzhpennañ keweriusterioù ha stiloù gant an askouezhioù
 Kaout Firefox war un trevnad disheñvel ?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Designed so you can<br> make it your own
 Ergrafet evit ma vefe<br> ho hini deoc'h-c'hwi
@@ -68,10 +69,12 @@ Digeriñ a ra prenestroù nevez
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
+# This is the text for a door-hanger menu that shows in the browser chrome
 ;It’s the fastest, most flexible Firefox ever.
 Handelv Firefox herrekañ hag azasausañ a-viskoazh.
 
 
+# This is the label for a button that opens the tour modal dialog
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
 Digor an dro
@@ -90,10 +93,12 @@ Biskoazh ne oa ket bet ur mare gwell evit Firefox
 
 
 # This is the label for a button that closes the tour modal dialog
+# This is the label for a button that closes the tour modal dialog
 ;Close tour
 Serriñ an dro
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
 Miliadoù a zoareoù da <br>lakaat Firefox d'ober muioc'h a draoù
@@ -103,6 +108,7 @@ Miliadoù a zoareoù da <br>lakaat Firefox d'ober muioc'h a draoù
 Aesoc'h da gavout, d'ober gantañ ha da ardeiñ
 
 
+# This is the title for a door-hanger menu that shows in the browser chrome
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
 Gwelout pezh a zo nevez
@@ -129,6 +135,7 @@ Ouzhpennañ ha gwelout sinedoù diouzh ul lec'h nevez
 
 
 # This is the text for a call to action that appears in the web page
+# This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
 Grit un dro da welout pezh a zo nevez
 
@@ -150,30 +157,36 @@ Rannit ho toare da welout an traoù
 
 
 # This is the label for a button that delays starting the tour
+# This is the label for a button that delays starting the tour
 ;Not now
 Ket bremañ
 
 
+# This is the label for a button that starts the tour
 # This is the label for a button that starts the tour
 ;Let’s go
 Bec'h dezhi
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 1/4 {ok}
 
 
+# This is the label that represents tour step three of four
 # This is the label that represents tour step three of four
 ;3/4
 3/4 {ok}
 
 
 # This is the label that represents tour step two of four
+# This is the label that represents tour step two of four
 ;2/4
 2/4 {ok}
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 4/4 {ok}
@@ -207,6 +220,7 @@ Bec'h dezhi
 Deskiñ traoù a-zivout an neuz nevez
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 Gant ul lañser nadek<br> nevez e krog
@@ -245,6 +259,7 @@ Krogit gant ho merdeiñ
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 Tostoc'h eget biskoazh emañ<br> ho lec'hiennoù a blij deoc'h kalz
 
@@ -261,6 +276,7 @@ Kennaskañ un trevnad all a fell deoc'h ?
 Peseurt web a fell deoc'h kaout ?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the redesigned,<br> intuitive menu
 Gant al lañser nadek<br> bet adtreset e krog
