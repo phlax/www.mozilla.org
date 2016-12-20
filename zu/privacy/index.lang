@@ -1,6 +1,3 @@
-## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
-
-
 ;Mozilla Privacy
 Mozilla Privacy
 
@@ -54,15 +51,18 @@ Outdated Policies
 
 
 # Used at the top of the page for navigation (breadcrumbs)
+# Used at the top of the page for navigation (breadcrumbs)
 ;Home
 Home
 
 
 # Used in legal docs to collapse (hide) a paragraph
+# Used in legal docs to collapse (hide) a paragraph
 ;Show Less
 Show Less
 
 
+# Used in sub-pages to return to the main index https://www.mozilla.org/privacy
 # Used in sub-pages to return to the main index https://www.mozilla.org/privacy
 ;Back to Mozilla Privacy Policy
 Back to Mozilla Privacy Policy
