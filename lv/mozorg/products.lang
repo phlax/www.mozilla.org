@@ -1,7 +1,3 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/products/
-
-
 ;Mozilla Products — Built by us, for the Web
 Mozilla Produkti — Mūs izveidoti, tīmeklim
 
@@ -23,10 +19,12 @@ Datoriem
 
 
 # Firefox Desktop
+# Firefox Desktop
 ;The free, non-profit browser for your desktop.
 Brīvais, bezpeļņas pārlūks jūsu datoram.
 
 
+# Firefox for Android
 # Firefox for Android
 ;The fast, smart, safe choice for Android browsing.
 Ātrā, vienkāršā, un drošā izvēle pārlūkošanai uz Android ierīcēm.
@@ -37,60 +35,72 @@ OS {ok}
 
 
 # Firefox OS
+# Firefox OS
 ;An open operating system for mobile devices.
 Atvērta operētājsistēma mobilām ierīcēm.
 
 
+# Open Badges
 # Open Badges
 ;A new standard to recognize and verify learning.
 Jauns standarts kā atpazīt un novērtēt mācīšanos.
 
 
 # Marketplace
+# Marketplace
 ;A creation and distribution platform for apps.
 Izveidošanas un izplatīšanas platforma aplikācijām.
 
 
+# Persona
 # Persona
 ;A better way to sign in to websites.
 Labāks veids lai pieslēgtos mājaslapās.
 
 
 # Thunderbird
+# Thunderbird
 ;Safe, fast and easy email.
 Epasti. Droši, vienkārši un ātri.
 
 
+# Webmaker
 # Webmaker
 ;Make something amazing with the Web.
 Radiet kaut ko brīnišķīgu internetā.
 
 
 # WebFWD
+# WebFWD
 ;Our community-driven innovation accelerator.
 Mūsu kopienas virzītais inovāciju akselerators.
 
 
+# Labs
 # Labs
 ;New ways to explore, experiment and innovate.
 Jauni veidi kā pētīt, eksperimentēt un inovēt.
 
 
 # Bugzilla
+# Bugzilla
 ;A bug tracking system to help manage software development.
 Kļūdu sekošanas sistēma lai palīdzēt programmu izstrādāšanai.
 
 
+# Firebug
 # Firebug
 ;Inspect, debug, analyze and more inside your browser.
 Pārskatiet, atkļūdojiet un analizējiet no pārlūka.
 
 
 # Gecko
+# Gecko
 ;The layout engine that drives Firefox.
 Izkārtojuma dzinējs, kas darbina Firefox.
 
 
+# XULRunner
 # XULRunner
 ;An environment for XUL-based applications.
 XUL bāzētu lietotņu vide.
