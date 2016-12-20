@@ -1,19 +1,16 @@
-## active ##
-## firefox_updated ##
-## home_title_update ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop
-
-
+# This is the <title> tag
 # This is the <title> tag
 ;Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your privacy and an open Web
 Merdeer Web Firefox — Fizius, Azasaus, Herrek — Gouestlet deoc'h, d'ho puhez prevez ha d'ar Web digor
 
 
 # Previous title (DO NOT REMOVE)
+# Previous title (DO NOT REMOVE)
 ;Firefox Web browser — Trusted, Flexible, Fast — There's never been a better time
 Merdeer Firefox — Fizius, azasaus, herrek — Gwelloc'h eget biskoazh
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;There’s never been a <br class="wide-br">better time for Firefox
 Emañ deuet ar mare<br class="wide-br">evit Firefox
@@ -24,10 +21,13 @@ Gouestlet deoc'h, d'ho puhez prevez ha d'ar Web digor.
 
 
 # This string is displayed if the visitor is using an up-to-date version of Firefox
+# This string is displayed if the visitor is using an up-to-date version of Firefox
 ;Your Firefox is up to date.
 Hizivaet eo ho Firefox.
 
 
+# This string is displayed if the visitor is using an up-to-date version of Firefox
+# Active link to https://support.mozilla.org/products/firefox
 # This string is displayed if the visitor is using an up-to-date version of Firefox
 # Active link to https://support.mozilla.org/products/firefox
 ;Need help with anything?
