@@ -1,17 +1,16 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/firefox/whatsnew/ and https://www-dev.allizom.org/firefox/firstrun/
-
-
+# Headline in /firstrun page
 # Headline in /firstrun page
 ;Take a quick tour
 Izejiet nelielu ekskursiju
 
 
 # Headline in /whatsnew page
+# Headline in /whatsnew page
 ;Welcome to Firefox
 Laipni lūgti Firefox
 
 
+# Sub-headline in /firstrun page
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
 Noskaņots uz Jums, Jūsu privātumu un Interneta atvērtību.
@@ -34,6 +33,7 @@ Sagrupēti, ērtākai piekļuvei
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites are<br> closer than ever
 Jūsu iemīļotās lapas<br> tuvāk kā jebkad
 
@@ -46,6 +46,7 @@ Pievienojiet jaunas iespējas un stilus ar papildinājumiem
 Lietojat Firefox kādā citā ierīcē?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Designed so you can<br> make it your own
 Radīts, lai to varētu<br> pielāgot savām vēlmēm
@@ -68,10 +69,12 @@ Atver jaunu logu
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
+# This is the text for a door-hanger menu that shows in the browser chrome
 ;It’s the fastest, most flexible Firefox ever.
 Visu laiku ātrākā un elastīgākā Firefox versija.
 
 
+# This is the label for a button that opens the tour modal dialog
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
 Atver ekskursiju
@@ -90,10 +93,12 @@ Visu laiku labākais laiks, lai izmantotu Firefox
 
 
 # This is the label for a button that closes the tour modal dialog
+# This is the label for a button that closes the tour modal dialog
 ;Close tour
 Aizvērt ekskursiju
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
 Tūkstošiem veidu kā<br> pielāgot Firefox lielākiem darbiem
@@ -103,6 +108,7 @@ Tūkstošiem veidu kā<br> pielāgot Firefox lielākiem darbiem
 Vienkāršāk atrast, izmantot un pārvaldīt
 
 
+# This is the title for a door-hanger menu that shows in the browser chrome
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
 Uzziniet, kas jauns
@@ -129,6 +135,7 @@ Pielieciet vai apskatiet grāmatzīmes no jebkuras vietas
 
 
 # This is the text for a call to action that appears in the web page
+# This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
 Izejiet ekskursijā, lai uzzinātu, kas jauns
 
@@ -150,30 +157,36 @@ Dalīties ar savu vīziju
 
 
 # This is the label for a button that delays starting the tour
+# This is the label for a button that delays starting the tour
 ;Not now
 Ne tagad
 
 
+# This is the label for a button that starts the tour
 # This is the label for a button that starts the tour
 ;Let’s go
 Lai iet!
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 1/4 {ok}
 
 
+# This is the label that represents tour step three of four
 # This is the label that represents tour step three of four
 ;3/4
 3/4 {ok}
 
 
 # This is the label that represents tour step two of four
+# This is the label that represents tour step two of four
 ;2/4
 2/4 {ok}
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 4/4 {ok}
@@ -207,6 +220,7 @@ Lai iet!
 Uzziniet par jauno dizainu
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 Tā galvenais jaunums ir jauna,<br> intuitīva izvēlne
@@ -245,6 +259,7 @@ Sākt pārlūkošanu
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 Jūsu iecienītākās lapas<br> tuvāk kā jebkad
 
@@ -261,6 +276,7 @@ Vēlaties pievienot vēl kādu ierīci?
 Kādu Internetu Jūs vēlētos?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the redesigned,<br> intuitive menu
 Visa sākums ir jauna, pārveidota<br> un intuitīva izvēlne
