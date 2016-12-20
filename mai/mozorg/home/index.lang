@@ -1,11 +1,10 @@
-## NOTE: demo server at https://www-dev.allizom.org/
-
-
+# Used as page title in HTML meta tag
 # Used as page title in HTML meta tag
 ;We’re building a better Internet
 We’re building a better Internet
 
 
+# Used as page description in HTML meta tag
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
@@ -40,6 +39,7 @@ Try Private Browsing
 
 
 # Small tile. Link points to https://advocacy.mozilla.org
+# Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 Learn about Mozilla Advocacy
 
@@ -60,6 +60,7 @@ Help millions <br>get the most from their <br>favorite browser.
 Join our support team
 
 
+# Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 # Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 ;Get smart on Tracking
 Get smart on Tracking
@@ -86,10 +87,12 @@ iOS कलेल फ़ायरफ़ॉक्स पाउ
 
 
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Try Firefox Developer Edition
 Try Firefox Developer Edition
 
 
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Introducing Firefox Developer Edition
 Introducing Firefox Developer Edition
@@ -116,30 +119,36 @@ Celebrate with us
 
 
 # Used in Twitter feed
+# Used in Twitter feed
 ;Reply
 Reply
 
 
+# Used in Twitter feed
 # Used in Twitter feed
 ;Retweet
 Retweet
 
 
 # <strong> tags below are for visual formatting only.
+# <strong> tags below are for visual formatting only.
 ;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
 Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians <br>worldwide
 active Mozillians <br>worldwide
 
 
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events <br>around the globe
 upcoming events <br>around the globe
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;languages and counting, <br>on every continent
 languages and counting, <br>on every continent
@@ -181,6 +190,7 @@ Get answers to your questions about Firefox and all Mozilla products from our su
 Discover more
 
 
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
 # This is used as a link to dismiss the video overlay and continue to mozilla.org website
 ;Continue to mozilla.org
 Continue to mozilla.org
