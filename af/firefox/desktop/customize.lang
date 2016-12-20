@@ -1,7 +1,3 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/customize/
-
-
 ;Firefox — Customize and make it your own — The most flexible browser on the Web
 Firefox — Pas hom aan en maak dit jou eie — Die mees aanpasbare blaaier op die Web
 
@@ -22,6 +18,7 @@ Geen ander blaaier gee soveel keuse en aanpasbaarheid nie.
 Pas Firefox aan
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Designed to <br class="wide-br">be redesigned
 Ontwerp om <br class="wide-br">herontwerp te word
