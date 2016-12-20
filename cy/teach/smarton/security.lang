@@ -1,12 +1,10 @@
-## active ##
-## NOTE: demo server available at https://www-dev.allizom.org/teach/smarton/security/
-
-
+# HTML Title
 # HTML Title
 ;Get smart on cybersecurity
 Deall yn well diogelwch ar-lein
 
 
+# HTML Meta (description). First part of the string is also available in the landing page file (smarton(index.lang). This is also used to share the whole page on Twitter.
 # HTML Meta (description). First part of the string is also available in the landing page file (smarton(index.lang). This is also used to share the whole page on Twitter.
 ;Look both ways, stay updated, and make sure your passwords are as buff as you are. Get smart on cybersecurity.
 Edrychwch bob ffordd, cadwch yn gyfredol a gwnewch yn siŵr fod eich cyfrineiriau yn gwbl ddieithr.
@@ -61,15 +59,18 @@ Gwyliwch Rhag y Tri Yma
 
 
 # Link points to https://shapeoftheweb.mozilla.org/trust/security
+# Link points to https://shapeoftheweb.mozilla.org/trust/security
 ;Visit our cybersecurity glossary on <a href="{url}">Shape of the Web</a> to nerd out on security terms and techniques.
 Ewch i'n rhestr termau diogelwch ar-lein yn <a href="{url}">Shape of the Web</a> i ddysgu rhagor am dermau a thechnegau diogelwch.
 
 
 # This fragment follows the number '77%'. If this doesn't work for your locale, you can start the sentence with "Percentage of Internet users who…"
+# This fragment follows the number '77%'. If this doesn't work for your locale, you can start the sentence with "Percentage of Internet users who…"
 ;of Internet users are concerned about someone hacking into their online accounts and stealing personal information like photos and private messages.
 o ddefnyddwyr Rhyngrwyd yn poeni am rywun yn hacio i'w cyfrifon ar-lein ac yn dwyn gwybodaeth bersonol fel lluniau a negeseuon preifat.
 
 
+# "CIGI IPSOS" is an acronym and should not be translated. Link to https://www.cigionline.org/sites/default/files/survey/slides.pdf
 # "CIGI IPSOS" is an acronym and should not be translated. Link to https://www.cigionline.org/sites/default/files/survey/slides.pdf
 ;(CIGI IPSOS, November 2014)
 (CIGI IPSOS, Tachwedd 2014)
@@ -95,6 +96,7 @@ Fel gwe-rwydo (e.e. e-bost ffug o'r banc yn gofyn am eich manylion personol), sb
 Amheuaeth iach yw eich ffrind gorau.
 
 
+# Link to http://cbsphishingquiz.mcafee.com/
 # Link to http://cbsphishingquiz.mcafee.com/
 ;Test your phishing knowledge
 Profwch eich gwybodaeth gwe-rwydo
@@ -181,6 +183,7 @@ Dewis PINau a cyfrineiriau cryf
 
 
 # Link points to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
+# Link points to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
 ;Here are some Mozilla <a href="{url}">tips for creating a strong password for every device and account</a>.
 Dyma awgrymiadau gan Mozilla <a href="{url}">ar greu cyfrinair cryf ar gyfer pob dyfais a chyfrif</a>.
 
@@ -189,6 +192,7 @@ Dyma awgrymiadau gan Mozilla <a href="{url}">ar greu cyfrinair cryf ar gyfer pob
 Ewch i'r arfer o newid eich cyfrineiriau unwaith y flwyddyn.
 
 
+# Link points to https://support.mozilla.org/kb/password-manager-remember-delete-change-passwords
 # Link points to https://support.mozilla.org/kb/password-manager-remember-delete-change-passwords
 ;Don’t use a single password everywhere
 Peidiwch â defnyddio yr un cyfrinair ym mhobman
@@ -211,6 +215,7 @@ Er mwyn yr diogelwch gorau, cymrwch fantais o'r dilysiad 2-gam lle bynnag y caif
 
 
 # Link points to http://stopthinkconnect.org/2stepsahead/resources
+# Link points to http://stopthinkconnect.org/2stepsahead/resources
 ;Find out more.
 Dysgu rhagor.
 
@@ -219,6 +224,7 @@ Dysgu rhagor.
 Mewn argyfwng
 
 
+# Link points to https://www.staysafeonline.org/stay-safe-online/keep-a-clean-machine/hacked-accounts
 # Link points to https://www.staysafeonline.org/stay-safe-online/keep-a-clean-machine/hacked-accounts
 ;Here’s what to do <a href="{url}">if you think your account has been compromised</a>.
 Dyma yw beth i'w wneud <a href="{url}">os credwch fod eich cyfrif wedi ei gyfaddawdu</a>.
@@ -309,10 +315,12 @@ Bydd yr ychwanegion hyn eich helpu i weld beth rydych yn clicio arnyn nhw cyn cl
 
 
 # Link points to https://addons.mozilla.org/firefox/addon/long-url-please/
+# Link points to https://addons.mozilla.org/firefox/addon/long-url-please/
 ;<a href="{url}">Long URL please</a> — replaces most shortened URLs with the originals so you know the destination
 <a href="{url}">Long URL please</a> — yn newid y rhan fwyaf o URLau byr gyda'r gwreiddiol i chi gael gwybod lle rydych yn mynd
 
 
+# Link points to https://addons.mozilla.org/firefox/addon/url-tooltip/
 # Link points to https://addons.mozilla.org/firefox/addon/url-tooltip/
 ;<a href="{url}">URL Tooltip</a> — displays the destination of a link when hovering over it
 <a href="{url}">URL Tooltip</a> — dangos cyrchfan dolen wrth hofran drosti
@@ -331,25 +339,30 @@ Cadwch i drafod o fewn eich cymuned, ar gyfryngau cymdeithasol, yn y cartref - e
 
 
 # Link points to https://teach.mozilla.org/activities/
+# Link points to https://teach.mozilla.org/activities/
 ;Are you a teacher? Give your students a <a href="{url}">simple lesson in cybersecurity</a>.
 Ydych chi'n athro? Dyma <a href="{url}">wers syml mewn diogelwch ar-lein</a> i'ch myfyrwyr.
 
 
+# Will be used as a tweet. Keep it as short as possible.
 # Will be used as a tweet. Keep it as short as possible.
 ;How many online passwords do you have?
 Sawl cyfrinair ar-lein sydd gennych chi?
 
 
 # Will be used as a tweet. Keep it as short as possible.
+# Will be used as a tweet. Keep it as short as possible.
 ;What kind of security tips and tricks do you use online?
 Pa fath o dechnegau a thriciau diogelwch fyddwch chi'n eu defnyddio ar-lein?
 
 
 # Displayes as tweet description
+# Displayes as tweet description
 ;On a scale from 1 to 10, how safe do you feel online? Is it always clear to you whether or not your activities are secure?
 Ar raddfa o 1 i 10, pa mor ddiogel ydych chi'n teimlo ar-lein? A yw'n amlwg i chi bob amser fod eich gweithgareddau'n ddiogel?
 
 
+# Will be used as a tweet. Keep it as short as possible.
 # Will be used as a tweet. Keep it as short as possible.
 ;On a scale from 1 to 10, how safe do you feel online?
 Ar raddfa o 1 i 10, pa mor ddiogel ydych chi'n teimlo ar-lein?
