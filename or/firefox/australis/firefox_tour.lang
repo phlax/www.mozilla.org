@@ -1,17 +1,16 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/firefox/whatsnew/ and https://www-dev.allizom.org/firefox/firstrun/
-
-
+# Headline in /firstrun page
 # Headline in /firstrun page
 ;Take a quick tour
 ଟିକେ ବୁଲି ଦେଖନ୍ତୁ
 
 
 # Headline in /whatsnew page
+# Headline in /whatsnew page
 ;Welcome to Firefox
 Firefox ରେ ଆପଣଙ୍କୁ ସ୍ୱାଗତ କରୁଅଛୁ
 
 
+# Sub-headline in /firstrun page
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
 ଆପଣ, ଆପଣଙ୍କ ଗୋପନୀୟତା ଓ ଖୋଲା ୱେବ ପାଇଁ ସମର୍ପିତ ।
@@ -34,6 +33,7 @@ Firefox ରେ ଆପଣଙ୍କୁ ସ୍ୱାଗତ କରୁଅଛୁ
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites are<br> closer than ever
 ଆପଣଙ୍କ ପ୍ରିୟ ସାଇଟସବୁ<br> ସବୁଠୁ ପାଖରେ
 
@@ -46,6 +46,7 @@ Firefox ରେ ଆପଣଙ୍କୁ ସ୍ୱାଗତ କରୁଅଛୁ
 Firefox ଆଉ ଏକ ଉପକରଣରେ ରଖିଛନ୍ତି କି?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Designed so you can<br> make it your own
 ଏମିତି ଡିଜା ଇନ କରାଯାଇଛି ଯେ<br> ଆପଣ ନିଜ ପସନ୍ଦରେ ଗଢ଼ିପାରିବେ
@@ -68,10 +69,12 @@ Firefox ପାଇଁ କେବେ ଏଭଳି ଭଲ ସମୟ ଆସିନଥ�
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
+# This is the text for a door-hanger menu that shows in the browser chrome
 ;It’s the fastest, most flexible Firefox ever.
 ଏହା ଆଜିଯାଏ ଆସିଥିବା ଚଞ୍ଚଳତମ ଓ ସବୁଠୁ ସୁବିଧାରେ ବ୍ୟବହାର କରାଯାଇପାରୁଥିବା Firefox ।
 
 
+# This is the label for a button that opens the tour modal dialog
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
 ଓପନ ଟୁର
@@ -90,10 +93,12 @@ Firefox ପାଇଁ କେବେ ଏଭଳି ଭଲ ସମୟ ଆସିନଥ�
 
 
 # This is the label for a button that closes the tour modal dialog
+# This is the label for a button that closes the tour modal dialog
 ;Close tour
 ବୁଲିବା ସାରିବେ
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
 Firefoxକୁ ଅଧିକ କାମରେ ଲଗାଇବା<br> ଆଉ ହଜାରେ ବାଟ
@@ -103,6 +108,7 @@ Firefoxକୁ ଅଧିକ କାମରେ ଲଗାଇବା<br> ଆଉ ହଜ�
 ଏବେ ଖୋଜା, ବ୍ୟବହାର ଓ ପରିଚାଳନା ଆହୁରି ସହଜ
 
 
+# This is the title for a door-hanger menu that shows in the browser chrome
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
 ନୂଆ କଣସବୁ ରହିଛି ଜାଣନ୍ତୁ
@@ -129,6 +135,7 @@ Sync ହୋଇଥିବା ବ୍ରାଉଜରଗୁଡ଼ିକରେ ଅସ�
 
 
 # This is the text for a call to action that appears in the web page
+# This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
 କେଉଁଠି କଣ ଅଛି ବୁଲାବୁଲି କରି ଦେଖନ୍ତୁ
 
@@ -150,30 +157,36 @@ Sync ହୋଇଥିବା ବ୍ରାଉଜରଗୁଡ଼ିକରେ ଅସ�
 
 
 # This is the label for a button that delays starting the tour
+# This is the label for a button that delays starting the tour
 ;Not now
 ଏବେ ନୁହେଁ
 
 
+# This is the label for a button that starts the tour
 # This is the label for a button that starts the tour
 ;Let’s go
 ଆସନ୍ତୁ ଆରମ୍ଭ କରିବା
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 ୧/୪
 
 
+# This is the label that represents tour step three of four
 # This is the label that represents tour step three of four
 ;3/4
 ୩/୪
 
 
 # This is the label that represents tour step two of four
+# This is the label that represents tour step two of four
 ;2/4
 ୨/୪
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 ୪/୪
@@ -207,6 +220,7 @@ Sync ହୋଇଥିବା ବ୍ରାଉଜରଗୁଡ଼ିକରେ ଅସ�
 ନୂଆ ଡିଜାଇନ ବାବଦରେ ଜାଣନ୍ତୁ
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 ଏହା ଏକ ନୂଆ ବୁଦ୍ଧିଆ ସୂଚୀରୁ<br> ଆରମ୍ଭ ହୁଏ
@@ -245,6 +259,7 @@ Sync ସହ ଆରମ୍ଭ କରନ୍ତୁ
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 ଆପଣଙ୍କ ସାଇଟସବୁ<br>ଆଗଠୁ ବହୁ ପାଖେ
 
@@ -261,6 +276,7 @@ Sync ସହ ଆରମ୍ଭ କରନ୍ତୁ
 ଆପଣ କିପରି ୱେବ ଚାହାଁନ୍ତି?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the redesigned,<br> intuitive menu
 ଏହା ଏକ ନୂଆ ତିଆରି<br>ବୁଦ୍ଧିଆ ସୂଚୀରୁ ଆରମ୍ଭ
