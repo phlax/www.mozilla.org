@@ -1,6 +1,3 @@
-## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
-
-
 ;Get Involved with Mozilla Today
 Get Involved with Mozilla Today
 
@@ -90,6 +87,7 @@ The Mozilla newsletter is currently available in English only.
 
 
 # Page: task/follow-mozilla
+# Page: task/follow-mozilla
 ;Tweet to @StartMozilla and see how your technical skills can contribute
 Tweet to @StartMozilla and see how your technical skills can contribute
 
@@ -102,6 +100,7 @@ There are so many ways to get involved with Mozilla and support the browser. If 
 Tweet This
 
 
+# This is a tweet, try to keep it within the 140 characters limit
 # This is a tweet, try to keep it within the 140 characters limit
 ;I’m raising my hand to contribute to Mozilla! @startmozilla tell me how I can join you to help protect the open web.
 I’m raising my hand to contribute to Mozilla! @startmozilla tell me how I can join you to help protect the open web.
@@ -123,6 +122,7 @@ Follow @startmozilla
 Thanks for following
 
 
+# Page: task/follow-mobile
 # Page: task/follow-mobile
 ;Install Firefox for iOS or Android
 Install Firefox for iOS or Android
@@ -148,6 +148,7 @@ Parsisiųskite iš „App Store“
 Thanks for installing Firefox
 
 
+# Page: task/encryptiopn
 # Page: task/encryptiopn
 ;Learn About Encryption
 Learn About Encryption
@@ -177,6 +178,7 @@ Take the pledge
 Thank you for taking the pledge
 
 
+# Page: task/joy-of-coding
 # Page: task/joy-of-coding
 ;Get involved
 Get involved
@@ -219,6 +221,7 @@ Thanks for getting involved
 
 
 # Page: task/devtools-challenger
+# Page: task/devtools-challenger
 ;Go to Dev Tools Challenger Page
 Go to Dev Tools Challenger Page
 
@@ -255,6 +258,7 @@ Visit Dev Tools Challenger
 Thanks for taking the challenge
 
 
+# Page: task/stumbler
 # Page: task/stumbler
 ;Get it on Google Play
 Parsisiųskite iš „Google Play“
