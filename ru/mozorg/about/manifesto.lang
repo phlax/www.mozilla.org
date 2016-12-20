@@ -1,9 +1,3 @@
-## active ##
-## join-us ##
-## manifesto_landing ##
-## NOTE: Page is available at https://www-dev.allizom.org/about/manifesto/
-
-
 ;The Mozilla Manifesto
 Манифест Mozilla
 
@@ -16,6 +10,7 @@
 Поделитесь этим
 
 
+# <strong> and </strong> tags are used for presentation purposes, do not translate them
 # <strong> and </strong> tags are used for presentation purposes, do not translate them
 ;<strong>Our 10</strong> Principles
 <strong>Наши 10</strong> Принципов
@@ -89,6 +84,7 @@
 Вам не нужно приводить аргументы в пользу открытости. Вам приходится приводить аргументы в пользу закрытости.
 
 
+# VP stands for Vice President - do not translate <span> and </span> tags
 # VP stands for Vice President - do not translate <span> and </span> tags
 ;<span>Johnathan Nightingale,</span> <span>VP Firefox</span>
 <span>Джонатан Найтингейл,</span> <span>Вице-президент Firefox</span>
@@ -231,6 +227,7 @@
 
 
 # Obsolete string replaced by separate strings (do not remove)
+# Obsolete string replaced by separate strings (do not remove)
 ;Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
 Присоединяйтесь к нам в качестве <a href="%(volunteer)s">волонтера</a> или <a href="%(ambassador)s">студента-посла</a>
 
@@ -296,6 +293,7 @@ Lightbeam для Firefox
 
 
 # This string will be included in a tweet
+# This string will be included in a tweet
 ;I support Mozilla because… #mozmanifesto
 Я поддерживаю Mozilla потому что… #mozmanifesto
 
@@ -320,6 +318,7 @@ Lightbeam для Firefox
 Наша миссия
 
 
+# Strings for mozilla.org/about/manifesto/details/
 # Strings for mozilla.org/about/manifesto/details/
 ;Introduction
 Введение
