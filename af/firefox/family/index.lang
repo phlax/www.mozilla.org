@@ -1,25 +1,22 @@
-## active ##
-## fx49_remove_hello ##
-## ios_product_tagline ##
-## tracking_protection ##
-## NOTE: demo page available at https://www-dev.allizom.org/firefox/products/
-
-
+# Title of the page (HTML meta tag)
 # Title of the page (HTML meta tag)
 ;Firefox – Desktop browser, Android, iOS, Sync, Private Browsing
 Firefox — Blaaier vir rekenaars, Android, iOS, Sync, privaat blaaiery
 
 
 # Obsolete title of the page (do not remove)
+# Obsolete title of the page (do not remove)
 ;Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing
 Firefox — Blaaier vir rekenaars, Android, iOS, OS, Hello, Sync, privaat blaaiery
 
 
 # Obsolete title of the page (do not remove)
+# Obsolete title of the page (do not remove)
 ;Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace
 Firefox — Blaaier vir rekenaars, Android, OS, Hello, Sync, Marketplace
 
 
+# Description of the page (HTML meta tag)
 # Description of the page (HTML meta tag)
 ;Learn more about our complete lineup of products for desktop and mobile browsing (and more) that help keep you in control online. Free yourself with Firefox.
 Meer inligting oor ons volledige produkportefeulje vir webblaaiery (en meer) op rekenaars en selfone wat help om elkeen in beheer te hou aanlyn. Bevry jouself met Firefox.
@@ -42,10 +39,12 @@ Kies Firefox.
 
 
 # %s will be replaced by an image (Firefox wordmark)
+# %s will be replaced by an image (Firefox wordmark)
 ;Free yourself with %s
 Bevry jouself met %s
 
 
+# <span> tag below adds visual style to "for" text
 # <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> desktop
 Firefox <span>vir</span> rekenaars
@@ -55,6 +54,7 @@ Firefox <span>vir</span> rekenaars
 Betroubaar. Aanpasbaar. Blitsvinnig.
 
 
+# <span> tag below adds visual style to "for" text
 # <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> Android
 Firefox <span>vir</span> Android
@@ -69,6 +69,7 @@ Kry dit op Google Play
 
 
 # <span> tag below adds visual style to "for" text
+# <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> iOS
 Firefox <span>vir</span> iOS
 
@@ -77,6 +78,7 @@ Firefox <span>vir</span> iOS
 Vinnig. Vernuftig. Joune.
 
 
+# Obsolete title, do not remove
 # Obsolete title, do not remove
 ;Get it on iPhones and iPads
 Kry dit vir die iPhone en iPad
