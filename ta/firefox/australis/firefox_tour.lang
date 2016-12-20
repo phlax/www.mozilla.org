@@ -1,17 +1,16 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/firefox/whatsnew/ and https://www-dev.allizom.org/firefox/firstrun/
-
-
+# Headline in /firstrun page
 # Headline in /firstrun page
 ;Take a quick tour
 விரைவாக ஒரு சுற்றுலாவை காணவும்
 
 
 # Headline in /whatsnew page
+# Headline in /whatsnew page
 ;Welcome to Firefox
 Firefox க்கு வருக
 
 
+# Sub-headline in /firstrun page
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
 உங்களுடைய தனியுரிமைக்கும் உங்களுக்கும் ஒரு திறந்த இணையம் கிடைக்க உறுதியேற்றுள்ளோம்.
@@ -34,6 +33,7 @@ Firefox க்கு வருக
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites are<br> closer than ever
 உங்களுக்கு பிடித்தமான தளங்கள் <br> முன்பைவிட மிகவும் அருகில்
 
@@ -46,6 +46,7 @@ Firefox க்கு வருக
 பயர்பாக்ஸை மற்றொரு சாதனத்தில் வைத்துள்ளீகளா?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Designed so you can<br> make it your own
 இதை வடிவமைத்ததே<br> உங்களுக்கு பிடித்தவாறு உருவாக்கிக் கொள்ளதான்
@@ -68,10 +69,12 @@ Firefox க்கு வருக
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
+# This is the text for a door-hanger menu that shows in the browser chrome
 ;It’s the fastest, most flexible Firefox ever.
 முன்பை விட இந்த பயர்பாக்ஸ்தான் மிக வேகமானது, நெகிழ்வானதாகும்.
 
 
+# This is the label for a button that opens the tour modal dialog
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
 சுற்றுலாவை திறக்கவும்
@@ -90,10 +93,12 @@ Firefox க்கு வருக
 
 
 # This is the label for a button that closes the tour modal dialog
+# This is the label for a button that closes the tour modal dialog
 ;Close tour
 சுற்றலாவை மூடவும்
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
 ஆயிரக்கணக்கான வழிகளில் <br> பயர்பாக்ஸ் பல காரியங்களை உருவாக்க
@@ -103,6 +108,7 @@ Firefox க்கு வருக
 தற்போது சுலபமாக கண்டுபிடிக்க பயன்படுத்த நிர்வகிக்க
 
 
+# This is the title for a door-hanger menu that shows in the browser chrome
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
 என்ன புதியது என பாருங்கள்
@@ -129,6 +135,7 @@ Firefox க்கு வருக
 
 
 # This is the text for a call to action that appears in the web page
+# This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
 புதிதாக என்ன இருக்கிறது என்பதை பார்க்க சுற்றுலாவை பார்க்கவும்
 
@@ -150,30 +157,36 @@ Firefox க்கு வருக
 
 
 # This is the label for a button that delays starting the tour
+# This is the label for a button that delays starting the tour
 ;Not now
 இப்போது இல்லை
 
 
+# This is the label for a button that starts the tour
 # This is the label for a button that starts the tour
 ;Let’s go
 உடனே செல்லவும்
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 1/4 {ok}
 
 
+# This is the label that represents tour step three of four
 # This is the label that represents tour step three of four
 ;3/4
 3/4 {ok}
 
 
 # This is the label that represents tour step two of four
+# This is the label that represents tour step two of four
 ;2/4
 2/4 {ok}
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 4/4 {ok}
@@ -207,6 +220,7 @@ Firefox க்கு வருக
 புதிய வடிவமைப்பை பற்றி மேலும் அறியவும்
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 இது ஒரு புதிய ,<br> உணரும் பட்டியுடன் துவங்குகிறது
@@ -245,6 +259,7 @@ Firefox க்கு வருக
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 உங்களுக்கு பிடித்தமான தளங்கள் <br> முன்பைவிட மிகவும் அருகில்
 
@@ -261,6 +276,7 @@ Firefox க்கு வருக
 உங்களுக்கு எப்படிப்பட்ட இணையம் வேண்டும்?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the redesigned,<br> intuitive menu
 இது மறுவடிவமைப்புடனும்<br> உணரும் பட்டியுடனும் தொடங்குகிறது
