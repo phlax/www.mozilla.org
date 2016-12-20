@@ -1,15 +1,10 @@
-## active ##
-## firefox_accounts_promo ##
-## ios_promo ##
-## teach_the_web_promo ##
-## NOTE: demo server at https://www-dev.allizom.org/
-
-
+# Used as page title in HTML meta tag
 # Used as page title in HTML meta tag
 ;We’re building a better Internet
 Mēs veidojam labāku Internetu
 
 
+# Used as page description in HTML meta tag
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Vai jūs to zinājāt? Mozilla — Firefox veidotājs — cīnās lai Internets paliek atvērts un visiem pieejams.
@@ -44,6 +39,7 @@ Izmēģiniet Privāto pārlūkošanu
 
 
 # Small tile. Link points to https://advocacy.mozilla.org
+# Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 Uzziniet par Mozilla iniziatīvu
 
@@ -64,6 +60,7 @@ Palīdziet miljoniem <br>iegūt vairāk no viņu <br>iecienītā pārlūka.
 Pievienojieties mūsu atbalsta komandai
 
 
+# Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 # Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 ;Get smart on Tracking
 Uzziniet visu par datu izsekošanu
@@ -90,10 +87,12 @@ Iegūstiet Firefox iOS
 
 
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Try Firefox Developer Edition
 Izmēģiniet Firefox Developer Edition
 
 
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Introducing Firefox Developer Edition
 Piedāvājam Firefox Developer Edition
@@ -120,30 +119,36 @@ Sviniet ar mums
 
 
 # Used in Twitter feed
+# Used in Twitter feed
 ;Reply
 Atbildēt
 
 
+# Used in Twitter feed
 # Used in Twitter feed
 ;Retweet
 Retvītot
 
 
 # <strong> tags below are for visual formatting only.
+# <strong> tags below are for visual formatting only.
 ;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
 Veltīts <strong>jums, jūsu privātumam</strong> un <strong>atvērtam tīmeklim</strong>
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians <br>worldwide
 aktīvie Mozilieši <br>visā pasaulē
 
 
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events <br>around the globe
 gaidāmie notikumi <br>visās pasaules malās
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;languages and counting, <br>on every continent
 valodas un drīz vairāk, <br>uz katru kontinentu
@@ -185,6 +190,7 @@ Iegūstiet atbildes saviem jautājumiem no mūsu atbalsta komandas par Firefox u
 Atklājiet vairāk
 
 
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
 # This is used as a link to dismiss the video overlay and continue to mozilla.org website
 ;Continue to mozilla.org
 Turpināt uz mozilla.org
