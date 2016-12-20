@@ -1,17 +1,16 @@
-## active ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
-
-
+# Used in HTML as page title
 # Used in HTML as page title
 ;Firefox for Android — Mobile Web browser — More ways to customize and protect your privacy
 ஆண்ட்ராய்டு பயர்பாக்ஸ் — கைப்பேசி இணைய உலாவி — உங்களின் தனிமையையும் தனிபயனாக்கத்தையும் பல வழிகளில் செய்ய
 
 
 # Used in HTML as page description
+# Used in HTML as page description
 ;Only Firefox for Android offers so many ways to make your mobile browsing experience truly your own
 பல்வேறு வழிகளில் ஆண்ட்ராய்டு பயர்பாக்ஸ் கைப்பேசி உலாவல் அனுபவம் உங்களுடையதாக்குகிறது
 
 
+# alt text for image (hard-coded image needs to be fixed)
 # alt text for image (hard-coded image needs to be fixed)
 ;Firefox for Android
 ஆண்ட்ராய்டு பயர்பாக்ஸ்
@@ -45,6 +44,7 @@ Google Play வில் பதிவிறக்கவும்
 தனித்துவமாக உங்களுடையது
 
 
+# Line break below is for visual formatting only. Remove if it's not useful for your locale
 # Line break below is for visual formatting only. Remove if it's not useful for your locale
 ;Only Firefox for Android offers this many ways to make<br> your mobile browsing experience truly your own.
 பல வழிகளில் உங்கள் உலாவல் அனுபவத்தை<br> உங்களுடையாக்குவது ஆண்ட்ராய்டு பயர்பாக்ஸ் மட்டுமே.
@@ -111,10 +111,12 @@ Access your saved articles even when you’re not online.
 
 
 # Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
+# Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
 ;Learn more about Reading List
 Learn more about Reading List
 
 
+# Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 # Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 ;Learn more about Reader View
 Learn more about Reader View
@@ -217,35 +219,42 @@ URLகளை பற்றிக் கவளை படாமல் ஒத்த�
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do not track
 தடமறிய வேண்டாம்
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
 பயர்பாக்ஸின் இக்கண்டுபிடிப்பைச் செயல்படுத்தி இணையத்தில் உங்கள் உலாவல் தகவல் சேகரிக்கப்படுவதையும் பயன்படுத்துவதையும் கட்டுப்பாட்டில் இருக்க உதவுகிறது.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 தடமறிய வேண்டாம் பற்றி மேலும் அறியவும்
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private Browsing
 தனிப்பட்ட உலாவல்
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
 இதைச் செயல்படுத்தும்போது ஆண்ட்ராய்டு பயர்பாக்ஸ் நினைவிகளை ஏற்காது, கடவுச்சொற்களை நினைவில் கொள்ளாது அல்லது நீங்கள் பாரத்த தளங்களை மறந்துவிடும்.
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Learn how to open a private window
 Learn how to open a private window
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;See how Private Browsing works
 தனிப்பட்ட உலாவல் எப்படி வேலைச் செய்கிறது எனப் பார்க்கவும்
