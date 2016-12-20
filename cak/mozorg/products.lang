@@ -1,7 +1,3 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/products/
-
-
 ;Mozilla Products — Built by us, for the Web
 Ri taq ruk'ayij Mozilla — xeqanük' richin ri K'amaya'l
 
@@ -23,10 +19,12 @@ Ajch'atal
 
 
 # Firefox Desktop
+# Firefox Desktop
 ;The free, non-profit browser for your desktop.
 Ri sipan chuqa' majun ch'akoj chi rij okik'amaya'l richin ri akematz'ib'.
 
 
+# Firefox for Android
 # Firefox for Android
 ;The fast, smart, safe choice for Android browsing.
 Ri aninäq, na'owinäq chuqa' ütz richin ri okik'amaya'l pa Android.
@@ -37,60 +35,72 @@ OS {ok}
 
 
 # Firefox OS
+# Firefox OS
 ;An open operating system for mobile devices.
 Jun samajel q'inoj okel kichin ri taq asamajib'al richin oyonib'äl.
 
 
+# Open Badges
 # Open Badges
 ;A new standard to recognize and verify learning.
 Jun k'ak'a' rub'eyal richin nino' chuwäch chuqa' ninik'öx ri etamab'äl.
 
 
 # Marketplace
+# Marketplace
 ;A creation and distribution platform for apps.
 Jun nuk'uche'el richin kitz'ukik chuqa' kitaluxik taq chokoy.
 
 
+# Persona
 # Persona
 ;A better way to sign in to websites.
 Jun utziläj chi rub'anikil richin nitikirisäx samaj pa taq ruxaq k'amaya'l.
 
 
 # Thunderbird
+# Thunderbird
 ;Safe, fast and easy email.
 Ri ütz, aninäq chuqa' man k'ayew ta rokisaxik chi taqoya'l.
 
 
+# Webmaker
 # Webmaker
 ;Make something amazing with the Web.
 Tatz'uku' jun janila jeb'ël rik'in ri K'amaya'l.
 
 
 # WebFWD
+# WebFWD
 ;Our community-driven innovation accelerator.
 Ri qapararenel richin tz'ukuj b'anon ruma ri molaj winaqi'.
 
 
+# Labs
 # Labs
 ;New ways to explore, experiment and innovate.
 K'ak'a' taq rub'anikil richin rukanoxik, runa'onik chuqa' rujalnuk'ik.
 
 
 # Bugzilla
+# Bugzilla
 ;A bug tracking system to help manage software development.
 Jun q'inoj richin kikanoxik taq sachoj, ri nito'on chi ninuk' rub'anikil ri kema'.
 
 
+# Firebug
 # Firebug
 ;Inspect, debug, analyze and more inside your browser.
 Nutz'ët, nuchojmirisaj, nunik'oj chuqa' juley chik chupam ri awokik'amaya'l.
 
 
 # Gecko
+# Gecko
 ;The layout engine that drives Firefox.
 Ri rusamajinel nuk'wachinïk ri nuq'alajisaj Firefox.
 
 
+# XULRunner
 # XULRunner
 ;An environment for XUL-based applications.
 Jun kik'ojlemal ri taq chokoy, ri k'o kixe'el pa XUL.
