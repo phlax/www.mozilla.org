@@ -1,7 +1,3 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/customize/
-
-
 ;Firefox — Customize and make it your own — The most flexible browser on the Web
 Firefox — Personaliza-lo y fe-lo tuyo — O navegador mas flexibla en a Web
 
@@ -22,6 +18,7 @@ Garra atro navegador no te dará tanta triga y flexibilidat.
 Personaliza o Firefox
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Designed to <br class="wide-br">be redesigned
 Disenyau ta <br class="wide-br">que lo redisenyes
