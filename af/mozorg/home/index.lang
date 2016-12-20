@@ -1,15 +1,10 @@
-## active ##
-## firefox_accounts_promo ##
-## ios_promo ##
-## teach_the_web_promo ##
-## NOTE: demo server at https://www-dev.allizom.org/
-
-
+# Used as page title in HTML meta tag
 # Used as page title in HTML meta tag
 ;We’re building a better Internet
 Ons bou 'n beter Internet
 
 
+# Used as page description in HTML meta tag
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Het u geweet? Mozilla — die maker van Firefox — werp alles in die stryd om die Internet 'n wêreldwye openbare hulpbron te hou wat oop en toeganklik vir almal is.
@@ -44,6 +39,7 @@ Probeer private blaaiery
 
 
 # Small tile. Link points to https://advocacy.mozilla.org
+# Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 Leer meer oor Mozilla-bevordering
 
@@ -64,6 +60,7 @@ Help miljoene om <br>die beste te kry uit hul <br>gunsteling-blaaier.
 Sluit aan by ons steunspan
 
 
+# Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 # Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 ;Get smart on Tracking
 Word slim oor agtervolging
@@ -90,10 +87,12 @@ Kry Firefox vir iOS
 
 
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Try Firefox Developer Edition
 Kry Firefox-ontwikkelaar­weergawe
 
 
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Introducing Firefox Developer Edition
 Ons stel Firefox-ontwikkelaar­weergawe bekend
@@ -120,30 +119,36 @@ Vier dit saam met ons
 
 
 # Used in Twitter feed
+# Used in Twitter feed
 ;Reply
 Antwoord
 
 
+# Used in Twitter feed
 # Used in Twitter feed
 ;Retweet
 Hertwiet
 
 
 # <strong> tags below are for visual formatting only.
+# <strong> tags below are for visual formatting only.
 ;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
 Verbonde tot <strong>jou, jou privaatheid</strong> en 'n <strong>ope web</strong>
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians <br>worldwide
 aktiewe bydraers tot <br>Mozilla, wêreldwyd
 
 
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events <br>around the globe
 komende geleenthede <br>wêreldwyd
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;languages and counting, <br>on every continent
 tale op elke kontinent, <br>en dit word steeds meer
@@ -185,6 +190,7 @@ Antwoorde van ons steunspan op vrae oor Firefox en alle Mozilla-produkte.
 Ontdek meer
 
 
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
 # This is used as a link to dismiss the video overlay and continue to mozilla.org website
 ;Continue to mozilla.org
 Gaan voort na mozilla.org
