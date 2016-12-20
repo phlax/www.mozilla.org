@@ -1,7 +1,3 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/products/
-
-
 ;Mozilla Products — Built by us, for the Web
 Topirɗe Mozilla — Min tafanta ko Geese
 
@@ -23,10 +19,12 @@ Ordinateer
 
 
 # Firefox Desktop
+# Firefox Desktop
 ;The free, non-profit browser for your desktop.
 Wanngo maa biro dokkal, nde ɗaɓɓaani dañal.
 
 
+# Firefox for Android
 # Firefox for Android
 ;The fast, smart, safe choice for Android browsing.
 Banngagol Android jaawngol, jooɗngol, kisngol.
@@ -37,60 +35,72 @@ OS {ok}
 
 
 # Firefox OS
+# Firefox OS
 ;An open operating system for mobile devices.
 Yuɓɓo huuɓnungo udditiingo ngo kaɓirɗi beelni.
 
 
+# Open Badges
 # Open Badges
 ;A new standard to recognize and verify learning.
 Gaadanol kesol ngam heftinde e ƴeewtaade ganndal.
 
 
 # Marketplace
+# Marketplace
 ;A creation and distribution platform for apps.
 Dinndeere cosgol e caakgol jaaɓɗe.
 
 
+# Persona
 # Persona
 ;A better way to sign in to websites.
 Feere ɓurɗe moƴƴude ngam seŋaade e lowe.
 
 
 # Thunderbird
+# Thunderbird
 ;Safe, fast and easy email.
 Iimeel jaawɗo, kisɗo, beeɓɗo.
 
 
+# Webmaker
 # Webmaker
 ;Make something amazing with the Web.
 Maa waɗ geɗe teskinɗe huutoraade Geese.
 
 
 # WebFWD
+# WebFWD
 ;Our community-driven innovation accelerator.
 Yaawnooɓe eɓɓooje ɓe renndo amen ɗowata.
 
 
+# Labs
 # Labs
 ;New ways to explore, experiment and innovate.
 Peeje kese yillaade, ekkitaade e fuɗɗude kesum.
 
 
 # Bugzilla
+# Bugzilla
 ;A bug tracking system to help manage software development.
 Yuɓɓe rewindorgo bugge ngam wallude toppitaade tapagol.
 
 
+# Firebug
 # Firebug
 ;Inspect, debug, analyze and more inside your browser.
 Ƴeewto, buggito, yuurnito fof tawa ko e wanngorde maa.
 
 
 # Gecko
+# Gecko
 ;The layout engine that drives Firefox.
 Motoor lelngoojo dognoowo Firefox.
 
 
+# XULRunner
 # XULRunner
 ;An environment for XUL-based applications.
 Nokkuure waɗanaande jaaɓnirɗe XUL.
