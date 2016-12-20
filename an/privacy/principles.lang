@@ -1,17 +1,16 @@
-## active ##
-## NOTE: demo page at https://www-dev.allizom.org/privacy/principles/
-
-
+# Used as main title and HTML meta tag
 # Used as main title and HTML meta tag
 ;Data Privacy Principles
 Principios de privadeza de datos
 
 
 # HTML meta tag (description)
+# HTML meta tag (description)
 ;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our privacy practices.
 Mozilla ye un prochecto de codigo ubierto con a misión de amillorar a tuya experiencia d'Internet. Ixa ye a fuerza motriz d'as nuestras practicas de privadeza.
 
 
+# Used in sub-pages to return to the main index https://www.mozilla.org/privacy
 # Used in sub-pages to return to the main index https://www.mozilla.org/privacy
 ;Back to Mozilla Privacy Policy
 Tornar t'as Politicas de Privadeza de Mozilla
