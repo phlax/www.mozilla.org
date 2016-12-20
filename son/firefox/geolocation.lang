@@ -1,8 +1,3 @@
-## active ##
-## geolocation_faq_update ##
-## NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
-
-
 ;Geolocation in Firefox
 Gorodoo maateyan Firefox ra
 
@@ -195,6 +190,7 @@ Gorodoo-maate ceeciyan n' ka kay sohõda
 Taka foo nd'ay ga hin ka gorodoo maateyan gaakašinay?
 
 
+# Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
 War ga hin ka gorodoo maateyan gaakašinay dam war goymiɲoo ra nda laasaabu <a href="%(url)s">Mozilla cinakaw marga</a> do.
