@@ -1,17 +1,16 @@
-## active ##
-## NOTE: demo server at https://bedrock-demo-agibson.us-west.moz.works/
-
-
+# HTML title tag of the page
 # HTML title tag of the page
 ;Internet for people, not profit
 Y rhyngrwyd ar gyfer pobl, nid elw
 
 
 # HTML description tag
+# HTML description tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource, open and accessible to all.
 Wyddoch chi? Mae Mozilla — gwneuthurwr Firefox — yn ymdrechu i gadw'r Rhyngrwyd yn adnodd cyhoeddus byd eang ar gael ac agored i bawb.
 
 
+# Line break below for visual formatting only
 # Line break below for visual formatting only
 ;Internet for people, <br>not profit.
 Y rhyngrwyd ar gyfer pobl,  <br>nid elw
