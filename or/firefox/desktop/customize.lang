@@ -1,7 +1,3 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/customize/
-
-
 ;Firefox — Customize and make it your own — The most flexible browser on the Web
 Firefox — ଇଚ୍ଛାମୂତାବକ ସଜାଇ ଏହାକୁ ନିଜର କରନ୍ତୁ — ୱେବରେ ଥିବା ସର୍ବୋତ୍ତମ ସ୍ଥିତି ଅନୁରୂପୀ ବ୍ରାଉଜର
 
@@ -22,6 +18,7 @@ Firefox — ଇଚ୍ଛାମୂତାବକ ସଜାଇ ଏହାକୁ ନ�
 Firefox କୁ ଇଚ୍ଛାମୂତାବକ ସଜାନ୍ତୁ
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Designed to <br class="wide-br">be redesigned
 ପୁନଃ ସଂରଚନା କରିବା ପାଇଁ <br class="wide-br"> ରଚନା କରାଯାଇଛି
