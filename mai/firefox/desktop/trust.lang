@@ -1,16 +1,16 @@
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — Designed to protect your privacy — The most trusted browser on the Web
 Firefox — अहॉंक गोपनीयता बचेबा लेल बनाओल गेल अछि — वेब पर सबसे बेसी भरोसामंद ब्राउजर
 
 
 # main title
+# main title
 ;Trust isn’t made. It’s earned.
 भरोसा करल नहि जाएत अछि कमाओल जाएत अछि
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;We build Firefox with a mission to put you first, above all else.<br class="wide-br">
 Firefox बनेबा काल हमर लक्ष्य अहॉंक पहिने राखब अछि, बाद मे किछु आर<br class="wide-br">
@@ -28,6 +28,7 @@ Firefox बनेबा काल हमर लक्ष्य अहॉंक �
 हम करैत छी ताकि कियो आर नहि करत
 
 
+# The span tags are for presentational purpose
 # The span tags are for presentational purpose
 ;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
 <span id="trust-line1">अत्यन्त विश्वासी</span><span id="trust-line2">इन्टरनेट कंपनी</span><span id="trust-line3">गोपनीयता क लेल</span>
@@ -57,6 +58,8 @@ Firefox बनेबा काल हमर लक्ष्य अहॉंक �
 प्राइवेट ब्राउज़िंग केर संबंध मे अधिक जानू
 
 
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 ;Forget Button
@@ -124,6 +127,7 @@ Firefox सदिखन अहॉंक नवीनतम आओर सबस�
 
 
 # L10n: Line break below is for visual formatting only.
+# L10n: Line break below is for visual formatting only.
 ;Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
 अहाँक सुरक्षा आओर गोपनीयता बेसी महत्वपूर्ण किएक अछि तकरा बारे मे बेसी जानू <br class="wide-br"> आओर अहाँ अपन ऑनलाइन सुरक्षा लेल की कए सकैत छी
 
@@ -153,35 +157,42 @@ Firefox सदिखन अहॉंक नवीनतम आओर सबस�
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do Not Track
 ट्रैक नहि करू
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
 A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 डू नॉट ट्रैक केर बारे मे बेसी सीखू
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private browsing
 निजी ब्राउज़िंग
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Sometimes it’s nice to go undercover.
 कखनो कखनो आड़ मे जेबाक लेल इ नीक अछि
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Turn this feature on to protect your browsing history from others.
 दोसर स अपन ब्राउजिंग इतिहास बचेबा क लेल इ सुविधा चालू करू
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Learn how to open a private window
 निजी विंडो खोलबाक तरीका जानू
