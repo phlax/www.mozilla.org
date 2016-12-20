@@ -1,19 +1,16 @@
-## active ##
-## forget_button ##
-## tracking_protection ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — Designed to protect your privacy — The most trusted browser on the Web
 Firefox — Wedi ei gynllunio i ddiogelu eich preifatrwydd — Y porwr mwyaf dibynadwy ar y We
 
 
 # main title
+# main title
 ;Trust isn’t made. It’s earned.
 Ymddiriedaeth ar sail profiad.
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;We build Firefox with a mission to put you first, above all else.<br class="wide-br">
 Rydym y adeiladu Firefox gyda chenhadaeth i'ch rhoi chi'n gyntaf, uwchlaw pob dim.<br class="wide-br">
@@ -31,6 +28,7 @@ Rydym yn gwneud hyn er mwyn i chi gael pori'n ddibryder.<br class="wide-br">
 Ac rydym yn gwneud hyn gan na fydd neb arall yn ei wneud.
 
 
+# The span tags are for presentational purpose
 # The span tags are for presentational purpose
 ;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
 <span id="trust-line1">Y cwmni rhyngrwyd</span> <span id="trust-line2">sydd â'r mwyaf o ymddiriedaeth ynddo</span> <span id="trust-line3">am breifatrwydd</span>
@@ -60,6 +58,8 @@ Porwch heb fod eich hanes, chwilio na'ch cwcis yn cael eu cadw a rhwystro trydyd
 Dysgu rhagor am Bori Preifat
 
 
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 ;Forget Button
@@ -127,6 +127,7 @@ Pori heb boeni
 
 
 # L10n: Line break below is for visual formatting only.
+# L10n: Line break below is for visual formatting only.
 ;Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
 Dysgu rhagor am bwysigrwydd eich preifatrwydd a'ch diogelwch <br class="wide-br">a beth fedrwch wneud i ddiogelu eich hun ar-lein.
 
@@ -156,35 +157,42 @@ Blog diogelwch
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do Not Track
 Dim Tracio
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
 Mae Dim Tracio, arloesedd gan Firefox, yn caniatáu i chi ddangos dewis am y ffordd mae eich gwybodaeth bersonol yn cael ei gasglu a'i ddefnyddio ar-lein.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 Dysgu rhagor am Dim Tracio
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private browsing
 Pori preifat
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Sometimes it’s nice to go undercover.
 Weithiau mae'n braf bod o'r golwg.
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Turn this feature on to protect your browsing history from others.
 Cychwynnwch y nodwedd hon i ddiogelu eich hanes pori rhag eraill.
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Learn how to open a private window
 Dysgu sut i agor ffenestr breifat
