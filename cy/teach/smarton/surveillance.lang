@@ -1,12 +1,10 @@
-## active ##
-## NOTE: demo server available at https://www-dev.allizom.org/teach/smarton/surveillance/
-
-
+# HTML Title
 # HTML Title
 ;Get smart on government surveillance
 Deall yn well am lywodraethau'n gwylio
 
 
+# HTML Meta (description). First part of the string is also available in the landing page file (smarton(index.lang)
 # HTML Meta (description). First part of the string is also available in the landing page file (smarton(index.lang)
 ;Decide where you think the line should be – and keep others from crossing it. Get smart on government surveillance.
 Penderfynwch lle ddylai'r llinell fod - a chadw eraill rhag ei chroesi. Deall yn well am lywodraethau'n gwylio.
@@ -17,10 +15,12 @@ Gofynnwch i chi eich hun
 
 
 # This is the first part of a question that is completed in three different ways.
+# This is the first part of a question that is completed in three different ways.
 ;If you’re not under investigation, should the government be able to:
 Os nad ydych chi o dan ymchwiliad, a ddylai'r llywodraeth fod yn gallu:
 
 
+# These three fragments each complete the question, "If I'm not under investigation, should the government be able to ___?"
 # These three fragments each complete the question, "If I'm not under investigation, should the government be able to ___?"
 ;monitor your phone calls?
 gwrando ar eich galwadau ffôn?
@@ -63,6 +63,7 @@ Er mwyn teilwra eich profiadau personol, mae bron pob cwmni technoleg rydych yn 
 
 
 # Link points to https://shapeoftheweb.mozilla.org/trust/governmentSurveillance
+# Link points to https://shapeoftheweb.mozilla.org/trust/governmentSurveillance
 ;Under certain circumstances, those companies can be forced to <a href="{url}">turn over your information to governments</a>.
 O dan rai amgylchiadau, mae modd gorfodi'r cwmnïau hynny i <a href="{url}">drosglwyddo eich manylion i'r llywodraeth</a>.
 
@@ -75,6 +76,7 @@ Felly, beth ddylai'r cwmnïau hyn wneud?
 Mae modd iddynt fod yn rhagweithiol wrth ddiogelu manylion defnyddwyr drwy gyfyngu ar gasglu data dim ond i'r hyn sydd ei angen, gan wneud data yn ddienw lle'n bosibl, a dileu data pan nad oes ei angen bellach.
 
 
+# Link to https://www.mozilla.org/privacy/principles/
 # Link to https://www.mozilla.org/privacy/principles/
 ;This is what we practice at Mozilla.
 Dyma beth rydym yn ei wneud yn Mozilla.
@@ -125,6 +127,7 @@ Dylai llywodraethau ddim gwanhau diogelwch pawb er mwyn ysbïo ar leiafrif bach.
 
 
 # Quote in the sidebar
+# Quote in the sidebar
 ;“Some amount of surveillance for law enforcement and intelligence, properly designed, is valuable to keep us safe. But when it’s too broad, it violates the privacy rights of millions of innocent people, and can even undermine our security.”
 “Mae rhywfaint o wyliadwriaeth ar gyfer cynnal y gyfraith a chudd-wybodaeth, sydd wedi ei gynllunio'n briodol, yn werthfawr i'n cadw ni'n ddiogel. Ond pan mae'n rhy eang, mae'n torri hawliau preifatrwydd miliynau o bobl ddiniwed, a gall hyd yn oed tanseilio ein diogelwch.”
 
@@ -134,10 +137,12 @@ Dylai llywodraethau ddim gwanhau diogelwch pawb er mwyn ysbïo ar leiafrif bach.
 
 
 # This fragment follows the number '61%'. If this doesn't work for your locale, you can start the sentence with "Percentage of Internet users who…"
+# This fragment follows the number '61%'. If this doesn't work for your locale, you can start the sentence with "Percentage of Internet users who…"
 ;of Internet users are concerned with the police or other government agencies from their country secretly monitoring their online activities
 o ddefnyddwyr y Rhyngrwyd yn bryderus fod yr heddlu neu asiantaethau eraill llywodraeth eu gwlad yn monitro eu gweithgareddau ar-lein yn gyfrinachol
 
 
+# "CIGI IPSOS" is an acronym and should not be translated. Link to https://www.cigionline.org/sites/default/files/survey/slides.pdf
 # "CIGI IPSOS" is an acronym and should not be translated. Link to https://www.cigionline.org/sites/default/files/survey/slides.pdf
 ;(CIGI IPSOS, November 2014)
 (CIGI IPSOS, Tachwedd 2014)
@@ -171,6 +176,7 @@ Dechreuwch gyda chwilio ar-lein syml i ddysgu am safbwynt eich llywodraeth ar wy
 Cadwch yn gyfredol
 
 
+# Link points to https://www.mozilla.org/newsletter/
 # Link points to https://www.mozilla.org/newsletter/
 ;Sign up for the <a href="{url}">Mozilla newsletter</a> (English only).
 Cofrestrwch am <a href="{url}">gylchlythyr Mozilla</a> (Saesneg yn unig).
@@ -213,6 +219,7 @@ Byddwch yn ofalus wrth ddefnyddio rhwydwaith diwifr cyhoeddus.
 
 
 # Link to SUMO articles
+# Link to SUMO articles
 ;Find out more.
 Dysgu rhagor.
 
@@ -229,6 +236,7 @@ Mae cyfrineiriau yn offer hanfodol ar gyfer cuddio gwybodaeth rhag llygaid busne
 Dewis PINau a chyfrineiriau cryf.
 
 
+# Link points to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
 # Link points to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
 ;Here are some Mozilla <a href="{url}">tips for creating a strong password for every device and account</a>.
 Dyma rhai awgrymiadau gan Mozilla <a href="{url}">ar gyfer creu cyfrinair cryf ar gyfer pob dyfais a chyfrif</a>.
@@ -303,10 +311,12 @@ Fel arfer, mae amgryptio disg cyfan yn cael ei gynnig pan fyddwch yn gosod eich 
 
 
 # Link points to https://support.google.com/nexus/answer/2844831?vid=1-635761320342085866-3234499977
+# Link points to https://support.google.com/nexus/answer/2844831?vid=1-635761320342085866-3234499977
 ;<a href="{url}">See instructions here</a> for your Android device.
 <a href="{url}">Mae cyfarwyddiadau yma</a> ar gyfer eich dyfais Android.
 
 
+# Link points to https://support.apple.com/HT202064
 # Link points to https://support.apple.com/HT202064
 ;Have an iPhone, iPad or iPod? <a href="{url}">See instructions here</a>.
 Oes gennych chi iPhone, iPad neu iPod? <a href="{url}">Mae cyfarwyddiadau yma</a>.
@@ -325,20 +335,24 @@ Yr unig ffordd o gadw gafael ar y mater sylfaenol yma o dechnoleg yw os ydym yn 
 
 
 # Will be used as a tweet. Keep it as short as possible.
+# Will be used as a tweet. Keep it as short as possible.
 ;Which would you be more comfortable sharing with the government: your checking account number or your DNA profile?
 Pa un fyddech yn fwyaf cyfforddus yn ei rannu gyda'r llywodraeth: eich rhif cyfrif banc neu eich proffil DNA?
 
 
+# Will be used as a tweet. Keep it as short as possible.
 # Will be used as a tweet. Keep it as short as possible.
 ;If you had a digital lockbox that no one could see but you, what would you put in it?
 Os oedd gennych cadw-mi-gei digidol na fyddai neb ond chi'n gallu ei weld, beth fyddech chi'n ei roi ynddo?
 
 
 # Will be used as a tweet. Keep it as short as possible.
+# Will be used as a tweet. Keep it as short as possible.
 ;Have you stopped sharing certain things online since you found out about mass government surveillance?
 Ydych chi wedi rhoi'r gorau i rannu rhai pethau ar-lein ers i chi wybod am wylio gan lywodraethau?
 
 
+# Link points to https://teach.mozilla.org/activities/
 # Link points to https://teach.mozilla.org/activities/
 ;Are you a teacher? Give your students a <a href="{url}">simple lesson on government surveillance</a>.
 Ydych chi'n athro? Dyma <a href="{url}">wers syml ar wylio gan lywodraethau</a> i'ch myfyrwyr.
