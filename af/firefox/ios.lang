@@ -1,8 +1,4 @@
-## active ##
-## tracking_protection ##
-## NOTE: Demo page available at https://www-dev.allizom.org/firefox/ios/
-
-
+# Title of the page (HTML meta)
 # Title of the page (HTML meta)
 ;Mobile Web browser for your iPhone, iPad and iPod touch
 Selfoon-blaaier vir iPhone, iPad, en iPod touch
@@ -25,20 +21,24 @@ Kry dit nou
 
 
 # Newsletter section
+# Newsletter section
 ;Sign up below for updates and to be notified when it launches.
 Skryf hier onder in vir die jongste nuus en om te hoor as dit vrygestel word.
 
 
+# Newsletter section
 # Newsletter section
 ;* You’ll only receive updates and announcements about the iOS version of Firefox.
 * Slegs nuus en aankondigings oor die iOS-weergawe van Firefox sal gestuur word.
 
 
 # Newsletter section
+# Newsletter section
 ;Thanks for your interest in Firefox for iOS.
 Dankie vir u belangstelling in Firefox vir iOS.
 
 
+# Newsletter section
 # Newsletter section
 ;Don’t forget to check your inbox to confirm your request to get updates.
 Onthou om u e-pos na te gaan om u inskrywing vir nuus te bevestig.
@@ -96,6 +96,7 @@ Stuur Firefox na 'n iOS-toestel
 Sinkroniseer u Firefox-blaaigeskiedenis op iOS
 
 
+# The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
 # The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
 ;First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start using Sync.
 Raak eers die <b>oortjieknop</b>. Raak dan die %(gear_icon)s-ikoon om Sync te begin gebruik.
