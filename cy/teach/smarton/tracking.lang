@@ -1,12 +1,10 @@
-## active ##
-## NOTE: demo server available at https://www-dev.allizom.org/teach/smarton/tracking/
-
-
+# HTML Title
 # HTML Title
 ;Get smart on tracking
 Deall yn well am dracio
 
 
+# HTML Meta (description). First part of the string is also available in the landing page file (smarton(index.lang)
 # HTML Meta (description). First part of the string is also available in the landing page file (smarton(index.lang)
 ;What you do online is your business, and you can keep it that way. Get smart on tracking.
 Mae beth fyddwch chi'n ei wneud ar-lein yn fater i chi, a gallwch ei gadw felly.
@@ -45,6 +43,7 @@ Gwyliwch y rhaglen ddogfen yn donottrack-doc.com.
 
 
 # Link points to https://donottrack-doc.com/
+# Link points to https://donottrack-doc.com/
 ;To get a good look at how tracking works, be sure to check out the first episode of Brett Gaylor’s documentary series, <a href="{url}"><cite>Do Not Track</cite></a>.
 I gael golwg glir ar sut mae tracio'n gweithio, gwyliwch bennod gyntaf o gyfres ddogfen Brett Gaylor, <a href="{url}"><cite>Do Not Track</cite></a>.
 
@@ -82,10 +81,12 @@ Mae cwcis yn ffeiliau data bach y mae gwefannau a thrydydd partïon yn gosod ar 
 
 
 # This fragment follows the number '76%'. If this doesn't work for your locale, you can start the sentence with "Percentage of adults who…"
+# This fragment follows the number '76%'. If this doesn't work for your locale, you can start the sentence with "Percentage of adults who…"
 ;of adults say they are “not too confident” or “not at all confident” that records of their activity maintained by the online advertisers who place ads on the websites they visit will remain private and secure.
 o oedolion yn dweud nad ydynt yn "rhy hyderus" neu "ddim yn hyderus o gwbl" bod cofnodion o'u gweithgareddau sy'n cael eu cadw gan yr hysbysebwyr ar-lein sy'n rhoi hysbysebion ar y gwefannau y maent yn ymweld â nhw'n aros yn breifat a diogel.
 
 
+# "Pew Research Center" is a proper name and shouldn't be translated. Link to https://www.pewinternet.org/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
 # "Pew Research Center" is a proper name and shouldn't be translated. Link to https://www.pewinternet.org/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
 ;(Pew Research Center, May 2015)
 (Pew Research Center, Mai 2015)
@@ -111,6 +112,7 @@ Gyda llaw…
 Dyw gwefannau Mozilla ddim yn eithriad. Fel y rhan fwyaf o wefannau eraill, rydym hefyd yn defnyddio offer trydydd parti er mwyn gwella profiad y defnyddiwr.
 
 
+# Link points to https://www.mozilla.org/privacy/websites/
 # Link points to https://www.mozilla.org/privacy/websites/
 ;For more info see our <a href="{url}">Website Privacy Notice</a>.
 Am fwy o wybodaeth darllenwch ein <a href="{url}">Hysbysiad o Breifatrwydd y Wefan</a>.
@@ -184,6 +186,7 @@ Penderfynwch a yw'r manylion personol rydych yn eu rhannu yn werth y gwasanaeth 
 Taflu golau ar y tracwyr
 
 
+# Link points to https://www.mozilla.org/lightbeam/
 # Link points to https://www.mozilla.org/lightbeam/
 ;If you’re a Firefox user, be sure to check out <a href="{url}">Lightbeam</a>, a simple and insightful add-on that visually graphs the depth of your browsing activity, including parts that are not usually visible to you.
 Os ydych yn defnyddio Firefox, gofalwch eich bod yn edrych ar <a href="{url}">Lightbeam</a>, ychwanegyn syml a dadlennol sy'n dangos yn weledol ddyfnder eich gweithgaredd pori, gan gynnwys rhannau sydd ddim yn y golwg i chi fel arfer.
@@ -282,10 +285,12 @@ Botwm Anghofio
 
 
 # Link points to https://support.mozilla.org/kb/forget-button-quickly-delete-your-browsing-history
+# Link points to https://support.mozilla.org/kb/forget-button-quickly-delete-your-browsing-history
 ;This toolbar option <a href="{url}">removes browsing information from your computer after the fact</a>. Use it when you’ve visited a site that you don’t want in your history.
 Mae'r bar offer dewisol hwn<a href="{url}"> yn tynnu manylion pori o'ch cyfrifiadur - wedyn</a>. Defnyddiwch hwn pan fyddwch wedi ymweld â gwefan nad ydych am ei gael yn eich hanes.
 
 
+# Link points to https://addons.mozilla.org/firefox/collections/mozilla/privacy/
 # Link points to https://addons.mozilla.org/firefox/collections/mozilla/privacy/
 ;Privacy Add-ons
 Ychwanegion Preifatrwydd
@@ -368,20 +373,24 @@ Po fwyaf y bydd pawb yn gwybod am dracio a sut i warchod eu data ar-lein, y gora
 
 
 # Link points to https://teach.mozilla.org/activities/
+# Link points to https://teach.mozilla.org/activities/
 ;Are you a teacher? Give your students <a href="{url}">a simple lesson on tracking</a>.
 Ydych chi'n athro? Dyma <a href="{url}">wers syml ar dracio</a> i'ch myfyrwyr.
 
 
+# Will be used as a tweet. Keep it as short as possible.
 # Will be used as a tweet. Keep it as short as possible.
 ;What privacy settings do you use in your browser?
 Pa osodiadau preifatrwydd ydych chi'n eu defnyddio yn eich porwr?
 
 
 # Will be used as a tweet. Keep it as short as possible.
+# Will be used as a tweet. Keep it as short as possible.
 ;How much are you willing to share about yourself in exchange for personalized content?
 Faint ydych chi'n barod i rannu amdanoch eich hun yn gyfnewid am gynnwys wedi ei bersonoli?
 
 
+# Will be used as a tweet. Keep it as short as possible.
 # Will be used as a tweet. Keep it as short as possible.
 ;Have you ever used private browsing?
 Ydych chi erioed wedi defnyddio pori preifat?
