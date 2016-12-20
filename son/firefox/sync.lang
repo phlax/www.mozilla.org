@@ -1,11 +1,3 @@
-## active ##
-## firefox_sync_mobile_buttons_update ##
-## firefox_sync_non_fx ##
-## fx38_sync_updates ##
-## ios_announce ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
-
-
 ;Keep your Firefox in sync
 War Firefox gaabu Sync ra
 
@@ -51,6 +43,7 @@ Firefox hangandi war war iOS nda Android jinawey sohõ.
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
+# This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
 Sync ti alhaali šifante foo de ibooboyaŋ ra kaŋ ga kaa war se Firefox ra.
 
@@ -77,20 +70,25 @@ Wa šintin nda Sync fondo faala taaci ra:
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
+# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
 <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">Silbayboŋ</a> feeri Firefox beene kanbe guma kanjoo ra nda “<strong>Huru Sync ra</strong>” suba.
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
 Naagu “<strong>Šintin</strong> nor lokoo kaŋ ga feera ra.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
+# (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
 Bataga aderesu nda šennikufal dam ka “<strong>Firefox kontu tee</strong>”
 
 
+# (NEW STRING) <strong> tags used for font color formatting.
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
 Naagu “<strong>Jine</strong> hala duu tabatandiyan tiira ma sanbandi war se bataga ra.
@@ -109,10 +107,13 @@ Goo ma goy nda Sync dumi žeena?
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
 Taka kaŋ nda Sync ga kayandi fondo faala guu ra:
 
 
+# <strong> tags below used for font color formatting.
+# This string is displayed on Android devices
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
@@ -120,25 +121,30 @@ Taka kaŋ nda Sync ga kayandi fondo faala guu ra:
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
 <strong>Kayandiyaney</strong> (war ga hin ka <strong>Ka tonton</strong> naagu jinay).
 
 
+# This string is displayed on Android devices
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
 <strong>Sync</strong> naagu de wa <strong>Šintin</strong>.
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
 <strong>Firefox kontu tee moo</strong> ga feera nor loku taaga foo ra.
 
 
 # This string is displayed on Android devices
+# This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
 Takaddaa toonandi nda <strong>Jine</strong> naagu.
 
 
+# This string is displayed on Android devices
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
 Za war na war batagaa guna nda tabatandiyan doboo naagu, kul war soolu ka koy! Wa ši dirŋa ka war jinawey dobu ka Snyc fellaa.
