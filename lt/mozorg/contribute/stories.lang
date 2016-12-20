@@ -1,7 +1,3 @@
-## active ##
-## NOTE: Demo server available at https://www-dev.allizom.org/contribute/stories
-
-
 ;Meet Mozillians from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
 Susipažinkite su moziliečiais iš viso pasaulio. Sužinokite, prie kokios veiklos jie yra prisidėję ir ką veikia dabar.
 
@@ -18,6 +14,7 @@ Paskaitykite jų ir kitų istorijas „Twitter‘yje“: <a href="%(link_hashtag
 Moziliečių istorijos
 
 
+# These <b>s are for formatting.
 # These <b>s are for formatting.
 ;Hi, I’m <b class="name">Rubén</b>, a Mozillian in <b class="country">Spain</b>
 Sveiki! Aš – <b class="name">Rubén‘as</b>, mozilietis iš <b class="country">Ispanijos</b>
@@ -43,6 +40,7 @@ Mozilla.org svetainės lokalizavime
 Bendruomenės renginiuose
 
 
+# These <b>s are for formatting so we can style the name and country.
 # These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Faye</b>, a Mozillian in <b class="country">the Philippines</b>
 Sveiki! Aš esu <b class="name">Faye</b>, Mozilietė iš <b class="country">Filipinų</b>
@@ -77,6 +75,7 @@ Labiausiai „Mozilloje“ mane žavi po visą pasaulį paplitusi bendruomenė. 
 
 
 # These <b>s are for formatting so we can style the name and country.
+# These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Shreyas</b>, a Mozillian in <b class="country">India</b>
 Labas! Aš esu <b class="name">Shreyas</b>, mozilietis iš <b class="country">Indijos</b>
 
@@ -105,6 +104,7 @@ Dalykas, kuriuo labiausiai didžiuojuosi kaip mozilietis – tai „KidZilla“ 
 Be to, esu dažnas rašytojas, tad jeigu dirbate komunikacijos ar viešųjų ryšių srityje, drąsiai galite su manimi susisiekti – mielai kuo nors užsiimčiau. Taip pat, jei norite pabendrauti apie „Webmaker“ iniciatyvą ar mokymą, aš visuomet rasiu tam laiko.
 
 
+# These <b>s are for formatting so we can style the name and country.
 # These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Michael</b>, a Mozillian in <b class="country">Switzerland</b>
 Sveiki! Aš – <b class="name">Michael‘is</b>, mozilietis iš <b class="country">Šveicarijos</b>
