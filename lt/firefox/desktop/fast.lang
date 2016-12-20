@@ -1,12 +1,10 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/fast/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — The "speed king" - The fastest browser on the Web
 „Firefox“ – Sparčiausia saityno naršyklė
 
 
+# Main title
 # Main title
 ;Faster than ever
 Spartesnė nei bet kada
@@ -17,6 +15,7 @@ Spartesnė nei bet kada
 
 
 # L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 ;It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 Ji lenkia kitas tiek techniniuose testuose,<br class="wide-br"> tiek kasdieniuose darbuose, kuriuos jūs dirbate daugiausia.
 
@@ -25,6 +24,7 @@ Ji lenkia kitas tiek techniniuose testuose,<br class="wide-br"> tiek kasdieniuos
 Spartos lyderė
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
 Neseniai atliktuose nepriklausomuose testuose „Firefox“ aplenkė kitas naršykles ir buvo pripažinta <br class="wide-br"><a href="%(url1)s" data-interaction="outbound link">spartos lydere</a>.
@@ -58,6 +58,7 @@ Juntamas greitis
 „Firefox“ naršyklė optimizuojama pagal jūsų naudojimosi ja įpročius.
 
 
+# L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 ;So things like opening or switching <br class="wide-br">between tabs and getting results from the Awesome Bar happen faster than ever.<br class="wide-br">
 Todėl tokie veiksmai, kaip kortelių atvėrimas ar perjungimas <br class="wide-br">bei adreso lauko rezultatų pateikimas įvyksta greičiau nei bet kada.<br class="wide-br">
