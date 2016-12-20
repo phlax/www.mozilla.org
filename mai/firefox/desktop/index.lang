@@ -1,19 +1,16 @@
-## active ##
-## firefox_updated ##
-## home_title_update ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop
-
-
+# This is the <title> tag
 # This is the <title> tag
 ;Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your privacy and an open Web
 Firefox वेब ब्राउजर — विश्वसनीय, लचील, तेज — अहॉंस, अहॉंक गोपनीयता आर खुजल वेब लेल प्रतिबद्ध
 
 
 # Previous title (DO NOT REMOVE)
+# Previous title (DO NOT REMOVE)
 ;Firefox Web browser — Trusted, Flexible, Fast — There's never been a better time
 Firefox वेब ब्राउजर — विश्वसनीय, लचीला, तेज — एकरा स नीक समय कहियो नहि छल
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;There’s never been a <br class="wide-br">better time for Firefox
 Firefox लेल एकरा स बेहतर <br class="wide-br"> समय कहियो नहि छल
@@ -24,10 +21,13 @@ Firefox लेल एकरा स बेहतर <br class="wide-br"> सम�
 
 
 # This string is displayed if the visitor is using an up-to-date version of Firefox
+# This string is displayed if the visitor is using an up-to-date version of Firefox
 ;Your Firefox is up to date.
 अहाँक Firefox अप टू डेट भ गेल
 
 
+# This string is displayed if the visitor is using an up-to-date version of Firefox
+# Active link to https://support.mozilla.org/products/firefox
 # This string is displayed if the visitor is using an up-to-date version of Firefox
 # Active link to https://support.mozilla.org/products/firefox
 ;Need help with anything?
