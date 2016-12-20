@@ -1,10 +1,12 @@
-## active ##
+# Demo page: https://www-dev.allizom.org/foundation/annualreport/2012/
+# Page title
 # Demo page: https://www-dev.allizom.org/foundation/annualreport/2012/
 # Page title
 ;The State of Mozilla: 2012 Annual Report
 Mozilla en 2012 : Rapport annuel
 
 
+# Header section
 # Header section
 ;State of Mozilla
 Rapport annuel de Mozilla
@@ -14,6 +16,7 @@ Rapport annuel de Mozilla
 Nous soutenons un Web où les gens font plus, font mieux et partagent plus de connaissances.
 
 
+# Main body
 # Main body
 ;A Web For All
 Un Web pour tous
@@ -36,30 +39,36 @@ Cliquer pour lancer la vidéo
 
 
 # Text in <span> below visible to screen readers only. Line break is for visual formatting.
+# Text in <span> below visible to screen readers only. Line break is for visual formatting.
 ;<span>Play a video of </span>Mitchell <br>Baker
 <span>Lancer une vidéo de </span>Mitchell <br>Baker
 
 
+# Text in <span> below visible to screen readers only. Line break is for visual formatting.
 # Text in <span> below visible to screen readers only. Line break is for visual formatting.
 ;<span>Play a video of </span>Jay <br>Sullivan
 <span>Lancer une vidéo de </span>Jay <br>Sullivan
 
 
 # Text in <span> below visible to screen readers only. Line break is for visual formatting.
+# Text in <span> below visible to screen readers only. Line break is for visual formatting.
 ;<span>Play a video of </span>Harvey <br>Anderson
 <span>Lancer une vidéo de </span>Harvey <br>Anderson
 
 
+# Text in <span> below visible to screen readers only. Line break is for visual formatting.
 # Text in <span> below visible to screen readers only. Line break is for visual formatting.
 ;<span>Play a video of </span>Mark <br>Surman
 <span>Lancer une vidéo de </span>Mark <br>Surman
 
 
 # Text in <span> below visible to screen readers only. Line break is for visual formatting.
+# Text in <span> below visible to screen readers only. Line break is for visual formatting.
 ;<span>Play a video of </span>Johnathan <br>Nightingale
 <span>Lancer une vidéo de </span>Johnathan <br>Nightingale
 
 
+# Text in <span> below visible to screen readers only. Line break is for visual formatting.
 # Text in <span> below visible to screen readers only. Line break is for visual formatting.
 ;<span>Play a video of </span>Brendan <br>Eich
 <span>Lancer une vidéo de </span>Brendan <br>Eich
@@ -77,6 +86,7 @@ Le groupe des Mozilliens est composé de pleins de profils différents&nbsp;: de
 Je suis un Mozillien
 
 
+# Text in <span> below visible to screen readers only.
 # Text in <span> below visible to screen readers only.
 ;<span>Play the "</span>I am a Mozillian<span>" video</span>
 <span>Lancer la vidéo « </span>Je suis un Mozillien<span> »</span>
@@ -99,10 +109,12 @@ De plus en plus de revenus proviennent également d’un soutien public comme le
 
 
 # Footer section
+# Footer section
 ;FAQ
 FAQ {ok}
 
 
+# Link to the main page used the FAQ page
 # Link to the main page used the FAQ page
 ;Welcome
 Bienvenue
