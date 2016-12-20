@@ -1,7 +1,3 @@
-## active ##
-## NOTE: Demo server available at https://www-dev.allizom.org/contribute/stories
-
-
 ;Meet Mozillians from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
 Mozilla-izey kubay adduɲɲaa kul ra. Bay porožewey ga kaŋ war goy i ga nda ka dii woo kaŋ war goo ma faaba nd'a.
 
@@ -18,6 +14,7 @@ Ngi taarikey caw ne nda dii ka tonton Twitter ga <a href="%(link_hashtag)s">#IAm
 Mozilla-ize taarikey
 
 
+# These <b>s are for formatting.
 # These <b>s are for formatting.
 ;Hi, I’m <b class="name">Rubén</b>, a Mozillian in <b class="country">Spain</b>
 Foofoo, Ay ti <b class="name">Rubén</b>, Mozilla-ize <b class="country">Spain</b> ra
@@ -43,6 +40,7 @@ Mozilla esipaaɲi šelaŋkaw moobiiri porogaram
 Jama batey
 
 
+# These <b>s are for formatting so we can style the name and country.
 # These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Faye</b>, a Mozillian in <b class="country">the Philippines</b>
 War ga ban, agay ti <b class="name">Faye</b>, Mozilla-ize <b class="country">Filiipin</b> ra
@@ -77,6 +75,7 @@ Mozilla-ize-taray sahãa ti kaŋ adduɲɲaa jamaa boro ti agay. A ga kan yane ir
 
 
 # These <b>s are for formatting so we can style the name and country.
+# These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Shreyas</b>, a Mozillian in <b class="country">India</b>
 War ga ban, agay ti <b class="name">Shreyas</b>, Mozilla-ize <b class="country">Endu</b> ra
 
@@ -105,6 +104,7 @@ Haya foo kaŋ ay ga ɲaali z'ay kaa Mozilla do ti “KidZilla,” porože foo ay
 Ay ga hansa ka caw da — nda war ga goy alhabar toonandiyan wala jama boŋfeeray ra, hantum ir se. A ga kan yane ir ma goy cere bande haya foo go. Nda waati foo war ga baa ka faakaaray interneti teeyan nda cawandiyan ga, ay goo ne.
 
 
+# These <b>s are for formatting so we can style the name and country.
 # These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Michael</b>, a Mozillian in <b class="country">Switzerland</b>
 War ga ban, agay ti <b class="name">Michael</b>, Mozilla-ize <b class="country">Suwiisu</b> ra
