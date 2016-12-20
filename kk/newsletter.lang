@@ -1,6 +1,3 @@
-## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
-
-
 ;Your email address:
 Сіздің эл. пошта адресіңіз:
 
@@ -21,6 +18,7 @@
 Ел:
 
 
+# Form submit button on the Student Ambassador newsletter subscription form
 # Form submit button on the Student Ambassador newsletter subscription form
 ;Sign me up!
 Мені де жазыңыз!
@@ -47,95 +45,114 @@
 
 
 # Name for the newsletter in Newsletter subscription page
+# Name for the newsletter in Newsletter subscription page
 ;Firefox & You
 Firefox және сіз
 
 
+# Description for the newsletter in Newsletter subscription page (Firefox & You)
 # Description for the newsletter in Newsletter subscription page (Firefox & You)
 ;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
 Жұмыс үстел немесе Android үшін Firefox-ты қолдану тәжірибесін жақсарту туралы кеңестерді беретін ай сайыңғы ақпараттық бюллетень және арнайы хабарландырулар.
 
 
 # Name for the newsletter in Newsletter subscription page
+# Name for the newsletter in Newsletter subscription page
 ;Firefox OS News
 Firefox OS жаңалықтары
 
 
+# Description for the newsletter in Newsletter subscription page (Firefox OS News)
 # Description for the newsletter in Newsletter subscription page (Firefox OS News)
 ;A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
 Firefox OS құрылғыңызды толықтай қолдану, соның ішінде соңғы мүмкіндіктері және ең тамаша Firefox Marketplace қолданбалары туралы ай сайыңғы ақпараттық бюллетень және арнайы хабарландырулар.
 
 
 # Name for the newsletter in Newsletter subscription page
+# Name for the newsletter in Newsletter subscription page
 ;Mozilla Communities
 Mozilla қоғамдастықтары
 
 
+# Description for the newsletter in Newsletter subscription page (Mozilla Communities)
 # Description for the newsletter in Newsletter subscription page (Mozilla Communities)
 ;Bringing you the best new opportunities to help support the open Web.
 Сізге ашық интернетті қолдауға көмектесу үшін ең жақсы мүмкіндіктерді әкеледі.
 
 
 # Name for the newsletter in Newsletter subscription page
+# Name for the newsletter in Newsletter subscription page
 ;Firefox Student Ambassadors
 Firefox елші студенттері
 
 
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
 # Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
 ;A monthly newsletter on how to get involved with Mozilla on your campus.
 Өз кампуста Mozilla жобасына қалай қатысуға болатыны туралы ай сайынғы ақпараттық бюллетень.
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
 ;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
 Firefox Affiliates жобасының жаңалықтары бар ай сайынғы ақпараттық бюллетень.
 
 
+# Name for the newsletter in Newsletter subscription page
 # Name for the newsletter in Newsletter subscription page
 ;Firefox Apps & Hacks
 Firefox қолданбалары және қулықтары
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
+# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
 ;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
 Firefox OS, Firefox Marketplace және ашық веб қолданбаларының экожүйесі жөніндегі өндірушілер үшін жаңалықтар.
 
 
+# Name for the newsletter in Newsletter subscription page
 # Name for the newsletter in Newsletter subscription page
 ;Mozillians
 Мозиллалықтар
 
 
 # Name for the newsletter in Newsletter subscription page
+# Name for the newsletter in Newsletter subscription page
 ;Firefox for desktop
 Жұмыс үстелі үшін Firefox
 
 
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
 ;Don’t miss the latest announcements about our desktop browser.
 Жұмыс үстелінің браузері жөнінде соңғы хабарландырулардан қалып қоймаңыз.
 
 
 # Name for the newsletter in Newsletter subscription page
+# Name for the newsletter in Newsletter subscription page
 ;Firefox for Android
 Android үшін Firefox
 
 
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
 # Description for the newsletter in Newsletter subscription page (Firefox for Android)
 ;Keep up with releases and news about Firefox for Android.
 Android үшін Firefox шығарылымдары және жаңалықтарын біліп отырыңыз.
 
 
 # Description for the newsletter in Newsletter subscription page (Mozilla)
+# Description for the newsletter in Newsletter subscription page (Mozilla)
 ;Special announcements and messages from the team dedicated to keeping the Web free and open.
 Интернетті ашық және еркін болып ұстау үшін күресетін топтың арнайы хабарландырулары.
 
 
 # Name for the newsletter in Newsletter subscription page
+# Name for the newsletter in Newsletter subscription page
 ;Firefox OS smartphone owner?
 Firefox OS смартфоныңыз бар ма?
 
 
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
 # Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
 ;Don’t miss important news and updates about your Firefox OS device.
 Өзіңіздің Firefox OS құрылғысы жөніндегі маңызды жаңалықтар және жаңартулардан қалып қоймаңыз.
@@ -326,50 +343,60 @@ Mozilla не үшін арналған?
 
 
 # Description for the newsletter in Newsletter subscription page
+# Description for the newsletter in Newsletter subscription page
 ;A monthly newsletter packed with tips to improve your Firefox experience.
 Firefox-пен жұмысыңызды жақсартуға арналған кеңестері бар ай сайынғы ақпараттық бюллетень.
 
 
+# Description for the newsletter in Newsletter subscription page
 # Description for the newsletter in Newsletter subscription page
 ;Firefox OS news, tips, launch information and where to buy.
 Firefox OS: жаңалықтар, кеңестер, сатуға шығу және қайдан сатып алуға болатыны туралы ақпарат.
 
 
 # Description for the newsletter in Newsletter subscription page
+# Description for the newsletter in Newsletter subscription page
 ;Be the first to know when Firefox is available for iOS devices.
 iOS құрылғылары үшін Firefox қолжетерлік болғанын бірінші болып біліңіз.
 
 
+# Description for the newsletter in Newsletter subscription page
 # Description for the newsletter in Newsletter subscription page
 ;Discover the latest, coolest HTML5 apps on Firefox OS.
 Firefox OS үшін соңғы, ең тамаша HTML5 қолданбаларын өзіңіз үшін ашыңыз.
 
 
 # Description for the newsletter in Newsletter subscription page
+# Description for the newsletter in Newsletter subscription page
 ;Get a weekly tip on how to super-charge your Firefox experience.
 Әр апта сайын Firefox-пен жұмыс тәжірибесін жинауға көмектесетін кеңесті алып отырыңыз.
 
 
+# Description for the newsletter in Newsletter subscription page
 # Description for the newsletter in Newsletter subscription page
 ;Read about the latest features for Firefox desktop and mobile before the final release.
 Шығарылымға дейін жұмыс үстелі үшін және мобильді Firefox-тың соңғы мүмкіндіктері туралы оқу.
 
 
 # Description for the newsletter in Newsletter subscription page
+# Description for the newsletter in Newsletter subscription page
 ;News from the Mozilla Project.
 Mozilla жобасының жаңалықтары.
 
 
+# Description for the newsletter in Newsletter subscription page
 # Description for the newsletter in Newsletter subscription page
 ;Periodic email updates about our annual international film competition.
 Біздің жыл сайынғы халықаралық фильмдер байқауы жөніндегі мерзімді жаңалықтар.
 
 
 # Description for the newsletter in Newsletter subscription page
+# Description for the newsletter in Newsletter subscription page
 ;Email updates for vouched Mozillians on mozillians.org.
 mozillians.org сайтындағы кепіл етілген мозиллалықтар туралы пошта жаңалықтары.
 
 
+# Description for the newsletter in Newsletter subscription page
 # Description for the newsletter in Newsletter subscription page
 ;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
 Бұрыңғы университет бағдарламасы (2008-2011 жж), енді тоқтатылған және Firefox Student Ambassadors бағдарламасы ретінде қайта іске қосылған.
