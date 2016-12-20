@@ -1,12 +1,10 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/fast/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — The "speed king" - The fastest browser on the Web
 Firefox — Lo &laquo;&nbsp;campion de la velocitat&nbsp;&raquo; — Lo navigador lo mai rapid del web
 
 
+# Main title
 # Main title
 ;Faster than ever
 Mai rapid que jamai
@@ -17,6 +15,7 @@ Es lo Firefox lo mai rapid qu'existís.
 
 
 # L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 ;It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 Excèlla tan plan als comparatius tecnics <br class="wide-br">coma dins vòstra utilizacion quotidiana.
 
@@ -25,6 +24,7 @@ Excèlla tan plan als comparatius tecnics <br class="wide-br">coma dins vòstra 
 Lo &laquo;&nbsp;campion de la velocitat&nbsp;&raquo;
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
 Firefox a surpassat los autres navigadors al l'ocasion de tèsts independents recents e es estat nomenat <br class="wide-br">lo <a href="%(url1)s" data-interaction="outbound link">&laquo;&nbsp;campion de la velocitat&nbsp;&raquo;</a>.
@@ -58,6 +58,7 @@ Una velocitat que podètz ressentir
 Optimizam Firefox segon vòstra utilizacion del Web.
 
 
+# L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 ;So things like opening or switching <br class="wide-br">between tabs and getting results from the Awesome Bar happen faster than ever.<br class="wide-br">
 Es perqué dobrir d'onglets, passar de l’un a l’autre, <br class="wide-br">e obténer de resultats de recèrca dempuèi la barra d’adreça intelligenta <br class="wide-br">son autant d’operacions mai rapidas que jamai.<br class="wide-br">
