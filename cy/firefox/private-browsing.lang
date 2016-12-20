@@ -1,17 +1,16 @@
-## active ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/private-browsing
-
-
+# HTML Title attribute
 # HTML Title attribute
 ;Firefox Web browser — Private Browsing with Tracking Protection — Mozilla
 Y porwr gwe Firefox — Pori Preifat gyda Diogelwch Rhag Tracio — Mozilla
 
 
 # Meta tag (description)
+# Meta tag (description)
 ;Get more protection and the most privacy, only from Firefox. No other browser gives you so much control over your digital footprint.
 Dim ond gan Firefox y cewch gymaint o ddiogelwch a phreifatrwydd. Does yr un porwr arall yn cynnig y fath reolaeth dros eich ôl troed digidol.
 
 
+# the <br> tags below are for visual formatting only.
 # the <br> tags below are for visual formatting only.
 ;More protection. <br>The most privacy. <br>Only from Firefox.
 Mwy diogel. <br>Mwyaf preifat. <br>Dim ond gan Firefox.
@@ -22,10 +21,12 @@ Rhowch gynnig ar Bori Preifat
 
 
 # Displayed to non Firefox users
+# Displayed to non Firefox users
 ;To give the new Private Browsing a try, download Firefox.
 I roi cynnig ar y Pori Preifat newydd, llwythwch Firefox i lawr.
 
 
+# Displayed to Firefox users on old versions
 # Displayed to Firefox users on old versions
 ;Your Firefox is not up to date. Download the latest version to use the new Private Browsing.
 Nid yw eich Firefox yn gyfredol. Llwythwch y fersiwn diweddaraf i lawr er mwyn defnyddio'r Pori Preifat newydd.
