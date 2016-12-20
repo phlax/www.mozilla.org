@@ -1,8 +1,3 @@
-## active ##
-## geolocation_faq_update ##
-## NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
-
-
 ;Geolocation in Firefox
 Geolocalizacion dins Firefox
 
@@ -195,6 +190,7 @@ La navigacion que depen de l'emplaçament geografic es ara desactivada.
 Cossí pòdi apondre la presa en carga de la geolocalizacion per mon site web&nbsp;?
 
 
+# Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
 Vòstre servicis pòdon prene en carga la geolocalizacion gràcias a las instruccions disponiblas dins lo <a href="%(url)s">centre Mozilla pels desvolopaires</a>.
