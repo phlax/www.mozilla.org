@@ -1,16 +1,16 @@
-## NOTE: https://www-dev.allizom.org/firefox/whatsnew/ and https://www-dev.allizom.org/firefox/firstrun/
-
-
+# Headline in /firstrun page
 # Headline in /firstrun page
 ;Take a quick tour
 فوری دورہ لیں
 
 
 # Headline in /whatsnew page
+# Headline in /whatsnew page
 ;Welcome to Firefox
 Firefox میں خوش آمدید
 
 
+# Sub-headline in /firstrun page
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
 آپ کے لیے پُر عزم، آپکی رازداری اور ایک کھلی ویب
@@ -33,6 +33,7 @@ Firefox میں خوش آمدید
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites are<br> closer than ever
 آپ کی پسندیدہ سائٹس ہیں<br> پہلے سے زیادہ قریب
 
@@ -45,6 +46,7 @@ Firefox میں خوش آمدید
 کسی دوسرے آلہ پر فائرفاکس ہے؟
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Designed so you can<br> make it your own
 آپ کر سکتے ہیں تاکہ ڈیزائن<br> اسے اپنا بنا
@@ -67,10 +69,12 @@ Firefox میں خوش آمدید
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
+# This is the text for a door-hanger menu that shows in the browser chrome
 ;It’s the fastest, most flexible Firefox ever.
 یہ سب سے تیز، سب سے زیادہ لچکدار فائر فاکس همیشه.
 
 
+# This is the label for a button that opens the tour modal dialog
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
 دورے کھولیں
@@ -89,10 +93,12 @@ Firefox کے لئے اس سے بہتر  وقت کبھی بھی نہیں رہا۔
 
 
 # This is the label for a button that closes the tour modal dialog
+# This is the label for a button that closes the tour modal dialog
 ;Close tour
 دورہ بند کریں
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
 ہزاروں طریقے ہیں<br> فائرفاکس سے مزید کام لینے کے
@@ -102,6 +108,7 @@ Firefox کے لئے اس سے بہتر  وقت کبھی بھی نہیں رہا۔
 اب آسان ہے ڈھونڈنا، استعمال اور بندوبست کرنا
 
 
+# This is the title for a door-hanger menu that shows in the browser chrome
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
 See what’s new
@@ -128,6 +135,7 @@ Add and view bookmarks from a new location
 
 
 # This is the text for a call to action that appears in the web page
+# This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
 Take the tour to see what’s new
 
@@ -149,30 +157,36 @@ Share your vision
 
 
 # This is the label for a button that delays starting the tour
+# This is the label for a button that delays starting the tour
 ;Not now
 ابھِی نہیں
 
 
+# This is the label for a button that starts the tour
 # This is the label for a button that starts the tour
 ;Let’s go
 چلیں چلتے ہیں
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 1/4 {ok}
 
 
+# This is the label that represents tour step three of four
 # This is the label that represents tour step three of four
 ;3/4
 3/4 {ok}
 
 
 # This is the label that represents tour step two of four
+# This is the label that represents tour step two of four
 ;2/4
 2/4 {ok}
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 4/4 {ok}
@@ -206,6 +220,7 @@ Share your vision
 نئے ڈیزائن کے بارے میں سیکھیں
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 یہ ایک نئے <br>بدیہی مینیو سے آغاز ہوتا ہے
@@ -244,6 +259,7 @@ When you use Firefox, you help shape the future of the Web.
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 آپ کی پسندیدہ سائٹس<br> پہلے سے زیادہ قریب ہیں
 
@@ -260,6 +276,7 @@ Want to connect another device?
 What kind of Web do you want?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the redesigned,<br> intuitive menu
 It starts with the redesigned,<br> intuitive menu
