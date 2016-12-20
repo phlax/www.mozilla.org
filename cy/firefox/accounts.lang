@@ -1,12 +1,10 @@
-## active ##
-## NOTE: demo page available at https://www-dev.allizom.org/firefox/accounts/
-
-
+# Used as part of HTML title
 # Used as part of HTML title
 ;Get a Firefox Account
 Creu Cyfrif Firefox
 
 
+# Used as HTML description
 # Used as HTML description
 ;Get easy access to your bookmarks, passwords, tabs and more from any computer or mobile device running Firefox.
 Cewch fynediad at eich nodau tudalen, cyfrineiriau, tabiau agored a mwy o unrhyw gyfrifiadur neu ddyfais symudol sy'n rhedeg Firefox.
@@ -21,35 +19,42 @@ Gyda'ch Cyfrif Firefox gallwch estyn eich nodau tudalen, cyfrineiriau, tabiau ag
 
 
 # Ordered list (item #1) displayed to Firefox users not logged in into a Firefox Account
+# Ordered list (item #1) displayed to Firefox users not logged in into a Firefox Account
 ;Sign up for a Firefox Account
 Ymunwch er mwyn cael Cyfrif Firefox
 
 
+# Ordered list (item #2) displayed to Firefox users not logged in into a Firefox Account
 # Ordered list (item #2) displayed to Firefox users not logged in into a Firefox Account
 ;Sign in everywhere you use Firefox
 Mewngofnodwch ymhobman i ddefnyddio Firefox
 
 
 # Ordered list (item #3) displayed to Firefox users not logged in into a Firefox Account
+# Ordered list (item #3) displayed to Firefox users not logged in into a Firefox Account
 ;Sync what you want
 Cydweddwch beth sydd ei angen
 
 
+# Displayed to Firefox users already signed-in
 # Displayed to Firefox users already signed-in
 ;You’re signed in and ready to start using Sync.
 Rydych wedi mewngofnodi ac yn barod i ddefnyddio Sync.
 
 
 # Displayed to Firefox for iOS users
+# Displayed to Firefox for iOS users
 ;Set up Sync for iOS
 Gosod Sync ar gyfer iOS
 
 
 # Displayed to Firefox for Android users
+# Displayed to Firefox for Android users
 ;Set up Sync on your <br>Android device
 Gosod Sync ar eich <br>dyfais Android
 
 
+# Displayed to non-Firefox browsers
 # Displayed to non-Firefox browsers
 ;Download Firefox to start using Sync.
 Llwythwch Firefox i gychwyn defnyddio Sync.
