@@ -1,26 +1,28 @@
-## NOTE: Demo server available at https://www-dev.allizom.org/contribute
-
-
+# Used for HTML title attribute
 # Used for HTML title attribute
 ;Volunteer Opportunities at Mozilla
 Volunteer Opportunities at Mozilla
 
 
 # this string is used for accessibility reasons, it's not visible in the page
+# this string is used for accessibility reasons, it's not visible in the page
 ;Menu
 மெனு
 
 
+# this br is for formatting, omit or reposition as needed
 # this br is for formatting, omit or reposition as needed
 ;Why<br> volunteer
 Why<br> volunteer
 
 
 # this br is for formatting, omit or reposition as needed
+# this br is for formatting, omit or reposition as needed
 ;Find<br> an event
 Find<br> an event
 
 
+# this br is for formatting, omit or reposition as needed
 # this br is for formatting, omit or reposition as needed
 ;Meet<br> Mozillians
 Meet<br> Mozillians
@@ -35,6 +37,7 @@ Your country
 
 
 # This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
+# This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
 ;I live in&hellip;
 I live in&hellip;
 
@@ -44,15 +47,18 @@ I live in&hellip;
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians worldwide
 மொசில்லியன்ஸ் உலகெங்கும் உள்ளனர்
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events around the globe
 நிகழ்ச்சிகள் உலகெங்கும் நடக்கவிருக்கின்றன
 
 
+# This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 ;languages and counting, on every continent
 மொழிகள், ஒவ்வொரு கண்டத்திலும் கணக்கிடுகிறோம்
@@ -63,10 +69,12 @@ Join a global community of game-changers.
 
 
 # this br is for formatting, omit or reposition as needed
+# this br is for formatting, omit or reposition as needed
 ;Volunteer as much as you like. Or as little.<br> It’s totally up to you.
 Volunteer as much as you like. Or as little.<br> It’s totally up to you.
 
 
+# this br is for formatting, omit or reposition as needed
 # this br is for formatting, omit or reposition as needed
 ;Share your skills and pick up<br> a few new ones along the way.
 Share your skills and pick up<br> a few new ones along the way.
@@ -76,6 +84,7 @@ Share your skills and pick up<br> a few new ones along the way.
 Volunteering with Mozilla&hellip;
 
 
+# This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 ;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
 is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
@@ -90,20 +99,24 @@ How Mozillians help every day
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Spain &middot; Activism
 Spain &middot; Activism
 
 
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Philippines &middot; Activism
 Philippines &middot; Activism
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Switzerland &middot; Coding
 Switzerland &middot; Coding
 
 
+# Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;India &middot; Teaching
 India &middot; Teaching
@@ -210,15 +223,18 @@ Get community updates
 
 
 # Used as title of the /stories sub-page
+# Used as title of the /stories sub-page
 ;Mozillian Stories
 Mozillian Stories
 
 
 # Used as a toggle to display more content.
+# Used as a toggle to display more content.
 ;More
 More
 
 
+# Used as a toggle to display less content.
 # Used as a toggle to display less content.
 ;Less
 Less
@@ -237,6 +253,7 @@ More coming soon
 
 
 # Used as title of the /signup sub-page
+# Used as title of the /signup sub-page
 ;Get Involved: Volunteer Opportunities at Mozilla
 பங்களியுங்கள்: Mozilla வில் தன்னார்வப் பங்களிப்பு வாய்ப்புகள்
 
@@ -249,6 +266,7 @@ To get started, tell us what interests you.
 Choose one for now. You can always contribute to other areas later.
 
 
+# This text is used for accessibility reasons, it's not visible
 # This text is used for accessibility reasons, it's not visible
 ;Where would you like to get started?
 Where would you like to get started?
@@ -543,6 +561,7 @@ Events
 
 
 # Used as title of the thank you page displayed after users send the form
+# Used as title of the thank you page displayed after users send the form
 ;Thank you!
 நன்றி!
 
@@ -600,20 +619,24 @@ In the meantime&hellip;
 
 
 # Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
+# Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 ;You can help by picking an easy task that only takes a few minutes &mdash; or take on a bigger challenge.
 You can help by picking an easy task that only takes a few minutes &mdash; or take on a bigger challenge.
 
 
+# Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 # Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 ;Choose a Task Now
 Choose a Task Now
 
 
 # Displayed in the "Thank You!" page after the email is sent for other categories.
+# Displayed in the "Thank You!" page after the email is sent for other categories.
 ;Help us tell the world how awesome Firefox is and about all the important work Mozilla does every day.
 Help us tell the world how awesome Firefox is and about all the important work Mozilla does every day.
 
 
+# Displayed in the "Thank You!" page after the email is sent for other categories.
 # Displayed in the "Thank You!" page after the email is sent for other categories.
 ;Join Now
 Join Now
@@ -635,6 +658,8 @@ You will be asked to sign in before proceeding
 No thanks, I’ll just wait for the email
 
 
+# The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+# Strings have been copied from the old template (mozorg/contribute.lang)
 # The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
 # Strings have been copied from the old template (mozorg/contribute.lang)
 ;Area of interest?
