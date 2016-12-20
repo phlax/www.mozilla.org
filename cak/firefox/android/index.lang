@@ -1,20 +1,16 @@
-## active ##
-## android_reader_links ##
-## android_spring_updates ##
-## tracking_protection ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
-
-
+# Used in HTML as page title
 # Used in HTML as page title
 ;Firefox for Android — Mobile Web browser — More ways to customize and protect your privacy
 Firefox richin Android — Okik'amaya'l richin oyonib'äl — Tawichinaj ri awokik'amaya'l chuqa' jujik tachajij ri awichinaxik
 
 
 # Used in HTML as page description
+# Used in HTML as page description
 ;Only Firefox for Android offers so many ways to make your mobile browsing experience truly your own
 Xa xe ri Firefox richin Android nuya' chawäch k'ïy rub'eyal richin nawichinaj ri awetamab'al pa ruwi' okem pa k'amaya'l pa ri oyonib'äl okisaxel.
 
 
+# alt text for image (hard-coded image needs to be fixed)
 # alt text for image (hard-coded image needs to be fixed)
 ;Firefox for Android
 Firefox richin Android
@@ -48,6 +44,7 @@ Taqasaj pe pa Google Play
 Xa xe awichin rat
 
 
+# Line break below is for visual formatting only. Remove if it's not useful for your locale
 # Line break below is for visual formatting only. Remove if it's not useful for your locale
 ;Only Firefox for Android offers this many ways to make<br> your mobile browsing experience truly your own.
 Xa xe ri Firefox richin Android nusüj chawe janila rub'anikil richin nawichinaj <br> ri awetamab'al richin okem pa k'amaya'l richin oyonib'äl okisaxel.
@@ -114,10 +111,12 @@ Katok pa rutzijol taq ana'oj e'ayakon chuqa' we man atokinäq ta pa k'amaya'l.
 
 
 # Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
+# Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
 ;Learn more about Reading List
 Tawetamaj ch'aqa' chik pa ruwi' ri Rucholajem Sik'inïk
 
 
+# Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 # Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 ;Learn more about Reader View
 Tawetamaj ch'aqa' chik pa ruwi' ri Rrub'anikil Sik'inem
@@ -220,35 +219,42 @@ Ruch'utitzijol re ruwäch re'
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do not track
 Mani nikanöx
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
 Tatzija' re rujalnuk'uj Firefox richin yatruto' chi nik'oje' ronojel pan aq'a' pa ruwi' rub'eyal nimol chuqa' nokisäx pa k'amab'ey ri retamab'al awokik'amaya'l.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 Tawetamah ch'aqa' chik taq etamab'äl chi rij Mani tilitäj
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private Browsing
 Ichinan okem pa k'amaya'l
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
 Toq tzijïl chik, ri Firefox richin Android man yeruk'ül ta taq kaxlanwey, man yerunataj ta ri taq ewan tzij ni xa ta yerutz'ib'aj kan ri taq ruxaq k'amaya'l xe'atz'ët.
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Learn how to open a private window
 Tawetamaj najäq jun ichinan tz'etöy ruwäch
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;See how Private Browsing works
 Tatz'eta' achike rub'eyal nisamäj ri ichinan okem pa k'amaya'l
