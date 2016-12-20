@@ -1,6 +1,3 @@
-## NOTE: Page is available at https://www-dev.allizom.org/about/manifesto/
-
-
 ;The Mozilla Manifesto
 „Mozillos“ manifestas
 
@@ -13,6 +10,7 @@
 Dalintis
 
 
+# <strong> and </strong> tags are used for presentation purposes, do not translate them
 # <strong> and </strong> tags are used for presentation purposes, do not translate them
 ;<strong>Our 10</strong> Principles
 <strong>10 mūsų</strong> principų
@@ -86,6 +84,7 @@ Sužinokite, kaip saityną išlaikyti atvirą
 Kažkas atvira neturėtų būti išimtimi. Išimtimi turėtų būti kažkas uždara.
 
 
+# VP stands for Vice President - do not translate <span> and </span> tags
 # VP stands for Vice President - do not translate <span> and </span> tags
 ;<span>Johnathan Nightingale,</span> <span>VP Firefox</span>
 <span>Johnathan Nightingale,</span> <span>viceprezidentas „Firefox“ reikalams</span>
@@ -228,6 +227,7 @@ Tapkite mūsų studentu – ambasadoriumi
 
 
 # Obsolete string replaced by separate strings (do not remove)
+# Obsolete string replaced by separate strings (do not remove)
 ;Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
 Tapkite mūsų <a href="%(volunteer)s">savanoriu</a> arba <a href="%(ambassador)s">studentu – ambasadoriumi</a>
 
@@ -293,6 +293,7 @@ Papasakokite draugams
 
 
 # This string will be included in a tweet
+# This string will be included in a tweet
 ;I support Mozilla because… #mozmanifesto
 Aš remiu „Mozillą“, nes… #mozmanifesto
 
@@ -317,6 +318,7 @@ Mūsų istoriją
 Mūsų misiją
 
 
+# Strings for mozilla.org/about/manifesto/details/
 # Strings for mozilla.org/about/manifesto/details/
 ;Introduction
 Įžanga
