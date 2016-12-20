@@ -1,7 +1,3 @@
-## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
-## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
-
-
 ;How Tracking Protection works
 How Tracking Protection works
 
@@ -39,6 +35,7 @@ It’s easy to turn off Tracking Protection for the website you’re on by click
 
 
 # Obsolete string (do not remove)
+# Obsolete string (do not remove)
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
 It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
 
@@ -64,6 +61,7 @@ Private Browsing with Tracking Protection
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
 
@@ -76,6 +74,7 @@ Thanks for learning about Tracking Protection.
 Thanks for learning about the new Private Browsing with Tracking Protection.
 
 
+# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
 Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
