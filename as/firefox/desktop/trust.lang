@@ -1,17 +1,16 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — Designed to protect your privacy — The most trusted browser on the Web
 Firefox — আপোনাৰ গোপনীয়তা ৰক্ষা কৰিবলৈ ৰূপাঙ্কিত — ৱেবৰ আটাইতকৈ ভৰষাবান ব্ৰাউছাৰ
 
 
 # main title
+# main title
 ;Trust isn’t made. It’s earned.
 ভৰষা নিৰ্মান কৰা নাযায়। ইয়াক অৰ্জন কৰা হয়।
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;We build Firefox with a mission to put you first, above all else.<br class="wide-br">
 আমি আপোনাক অন্য সকলোতকৈ অধিক প্ৰাথমিকতা দিয়াৰ এটা প্ৰকল্পৰে Firefox ক নিৰ্মান কৰো। <br class="wide-br">
@@ -29,6 +28,7 @@ Firefox — আপোনাৰ গোপনীয়তা ৰক্ষা কৰ�
 আৰু আমি এনেকুৱা কৰো কাৰণ অন্য কোনেও নকৰিব।
 
 
+# The span tags are for presentational purpose
 # The span tags are for presentational purpose
 ;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
 <span id="trust-line3">গোপনীয়তাৰ বাবে</span> <span id="trust-line1">আটাইতকৈ ভৰষাবান</span> <span id="trust-line2">ইন্টাৰনেট কোম্পানী</span>
@@ -58,6 +58,8 @@ Browse without having your history, searches or cookies saved, and block hidden 
 Learn more about Private Browsing
 
 
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 ;Forget Button
@@ -125,6 +127,7 @@ Firefox স্বচালিতভাৱে আপডেইট হয় যাত
 
 
 # L10n: Line break below is for visual formatting only.
+# L10n: Line break below is for visual formatting only.
 ;Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
 আপোনাৰ গোপনীয়তা আৰু সুৰক্ষা কিয় ইমান গুৰুত্বপূৰ্ণ <br class="wide-br">আৰু নিজকে অনলাইন কেনেকৈ ৰক্ষা কৰিব জানক।
 
@@ -154,35 +157,42 @@ Firefox স্বচালিতভাৱে আপডেইট হয় যাত
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do Not Track
 অনুকৰণ নকৰিব
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
 এটা Firefox উদ্ভাৱন, অনুকৰণ নকৰিবৰ দ্বাৰা আপুনি আপোনাৰ ব্যক্তিগত তথ্য সংগ্ৰহ আৰু অনলাইন ব্যৱহাৰৰ পদ্ধতিৰ বাবে এটা পছন্দ দিব পাৰিব।
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 অনুকৰণ নকৰিবৰ বিষয়ে অধিক জানক
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private browsing
 গোপন ব্ৰাউছিং
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Sometimes it’s nice to go undercover.
 কেতিয়াবা উন্মুক্ত নথকাটো ভাল।
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Turn this feature on to protect your browsing history from others.
 আপোনাৰ ব্ৰাউছিং ইতিহাসক অন্যৰ পৰা সুৰক্ষিত কৰিবলে এই বৈশিষ্ট্যক অন কৰক।
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Learn how to open a private window
 এটা গোপন উইন্ডো কেনেকৈ খোলিব শিকক
