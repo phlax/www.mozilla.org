@@ -1,7 +1,3 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/products/
-
-
 ;Mozilla Products — Built by us, for the Web
 Mozilla jinawey — Ir g'i cin interneti se
 
@@ -23,10 +19,12 @@ Ordinater
 
 
 # Firefox Desktop
+# Firefox Desktop
 ;The free, non-profit browser for your desktop.
 Interneti ceecikaw forbaa war ordinateroo se.
 
 
+# Firefox for Android
 # Firefox for Android
 ;The fast, smart, safe choice for Android browsing.
 Suubari cahãnte, carma nda saajantaa Android ceeciyan se.
@@ -37,60 +35,72 @@ OS {ok}
 
 
 # Firefox OS
+# Firefox OS
 ;An open operating system for mobile devices.
 Goyandi dabariɲaa feerante kanbe kanbe jinawey se.
 
 
+# Open Badges
 # Open Badges
 ;A new standard to recognize and verify learning.
 Dumi tabatante taaga ka cawyan maate nd'a koroši.
 
 
 # Marketplace
+# Marketplace
 ;A creation and distribution platform for apps.
 Teeyan nda žemnayan goydaari porogaramizey se.
 
 
+# Persona
 # Persona
 ;A better way to sign in to websites.
 Fonda bešere ka huru iinterneti nungey ra.
 
 
 # Thunderbird
+# Thunderbird
 ;Safe, fast and easy email.
 Bataga saajante, cahãnte nda faala.
 
 
+# Webmaker
 # Webmaker
 ;Make something amazing with the Web.
 Kayfi hayey tee nda interneti.
 
 
 # WebFWD
+# WebFWD
 ;Our community-driven innovation accelerator.
 Ir jamaa ma goy ka tejandiyaney cahãndi.
 
 
+# Labs
 # Labs
 ;New ways to explore, experiment and innovate.
 Fonda taagayaŋ ka lawre, šii nda tejandi.
 
 
 # Bugzilla
+# Bugzilla
 ;A bug tracking system to help manage software development.
 Hasaraw bayrandiyan dabariɲaa ka goyjiinawey cinaroo faalandi.
 
 
+# Firebug
 # Firebug
 ;Inspect, debug, analyze and more inside your browser.
 Koroši, hanse, fesu-fesu nda goy tana war ceecikaa ra.
 
 
 # Gecko
+# Gecko
 ;The layout engine that drives Firefox.
 Maršinoo kaŋ ga Firefox dirandi.
 
 
+# XULRunner
 # XULRunner
 ;An environment for XUL-based applications.
 Windila XUL-bande porogaramey se.
