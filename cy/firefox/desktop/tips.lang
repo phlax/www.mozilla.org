@@ -1,8 +1,4 @@
-## active ##
-## sync_device_note ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/tips/
-
-
+# main title
 # main title
 ;The best of the latest Firefox
 Y gorau o'r Firefox diweddaraf
@@ -57,6 +53,7 @@ nesaf
 
 
 # Tip 1
+# Tip 1
 ;Click the star
 Cliciwch y seren
 
@@ -78,6 +75,7 @@ Cliciwch y seren i ychwanegu nodau tudalen a'u rheoli o'r un fan.
 
 
 # Tip 2
+# Tip 2
 ;Simplify your life
 Symleiddio bywyd
 
@@ -91,10 +89,12 @@ Tynnwch y botymau sydd ddim mo'u hangen er mwyn dod o hyd i'r rhai defnyddiol.
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Open the menu, select “<strong>Customize</strong>” and drag any button out of the toolbar.
 Agorwch y ddewislen, dewiswch “<strong>Cyfaddasu</strong>” a llusgo unrhyw fotwm allan o'r bar offer.
 
 
+# Tip 3
 # Tip 3
 ;Add your faves
 Ychwanegwch eich ffefrynnau
@@ -105,30 +105,36 @@ Rhowch eich ffefrynnau lle maen nhw'n cael eu defnyddio amlaf a'u trefnu ar gyfe
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Open the menu, select “<strong>Customize</strong>” and drag any button into the toolbar or menu.
 Agorwch y ddewislen, dewiswch “<strong>Cyfaddasu</strong>” a llusgo unrhyw fotwm i'r bar offer neu ddewislen.
 
 
+# Tip 4
 # Tip 4
 ;Stay in Sync
 Cydweddu Parhaus
 
 
 # New string
+# New string
 ;Use Sync to magically access your open tabs, passwords and more wherever you use Firefox.
 Defnyddiwch Sync i gael mynediad i'ch tabiau agored, cyfrineiriau a rhagor o unrhyw ddyfais.
 
 
+# Old string, will be removed once the new string is activated
 # Old string, will be removed once the new string is activated
 ;Use Sync to magically access your open tabs, passwords and more from any device.
 Defnyddiwch Sync i gael mynediad i'ch tabiau agored, cyfrineiriau a rhagor o unrhyw ddyfais.
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Choose “<strong>Sign in to Sync</strong>” from the menu and make Firefox your own wherever you use it.
 Dewiswch “<strong>Mewngofnodi i Sync</strong>” o'r ddewislen a gwneud eich hun yn gysurus gyda Firefox.
 
 
+# Tip 5
 # Tip 5
 ;Free your add-ons
 Ryddhewch eich ychwanegion
@@ -138,6 +144,7 @@ Ryddhewch eich ychwanegion
 Cadwch eich hoff ychwanegion yn eich dewislen fel eu bod ar gael yn hawdd.
 
 
+# The strong tags are for presentational purpose
 # The strong tags are for presentational purpose
 ;Select “<strong>Customize</strong>” from the menu and drag in the add-ons you want.
 Dewiswch “<strong>Cyfaddasu</strong>” o'r ddewislen a llusgo'r ychwanegyn sydd ei angen arnoch.
@@ -160,20 +167,24 @@ Rhowch gymorth i'ch ffrindiau feistroli Firefox.
 
 
 # Accessibility string for link
+# Accessibility string for link
 ;Learn more about bookmarks
 Dysgu rhagor am nodau tudalen
 
 
+# Accessibility string for link
 # Accessibility string for link
 ;Learn more about customizing
 Dysgu rhagor am gyfaddasu
 
 
 # Accessibility string for link
+# Accessibility string for link
 ;Learn more about Sync
 Dysgu rhagor am Sync
 
 
+# Accessibility string for link
 # Accessibility string for link
 ;Learn more about add-ons
 Dysgu rhagor am ychwanegion
