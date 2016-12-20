@@ -1,14 +1,10 @@
-## active ##
-## ios_promo ##
-## teach_the_web_promo ##
-## NOTE: demo server at https://www-dev.allizom.org/
-
-
+# Used as page title in HTML meta tag
 # Used as page title in HTML meta tag
 ;We’re building a better Internet
 Ir goo ma interneti bešere cin
 
 
+# Used as page description in HTML meta tag
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 War ga bay? Mozilla — Firefox teekaa — ga tangam ka interneti gaabu adduɲɲaa-me a ma tee baytal nafaw doo feerante borey kul se.
@@ -43,6 +39,7 @@ Sutura ceeciyan šii
 
 
 # Small tile. Link points to https://advocacy.mozilla.org
+# Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 Caw Mozilla koyjineyan fillaa ga
 
@@ -63,6 +60,7 @@ Boro miliyoŋyaŋ gaa <br>ka duu ngi <br>ceecikaw kaasoo.
 Huru ir gaakašinay kondaa ra
 
 
+# Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 # Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 ;Get smart on Tracking
 Caram ganayan mise ra
@@ -89,10 +87,12 @@ Firefox zaa iOS se
 
 
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Try Firefox Developer Edition
 Firefox cinakaw dumoo šii
 
 
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Introducing Firefox Developer Edition
 Firefox cinakaw dumi cebeyan
@@ -119,30 +119,36 @@ Ir faaba ka jingaroo tee
 
 
 # Used in Twitter feed
+# Used in Twitter feed
 ;Reply
 Zaabi
 
 
+# Used in Twitter feed
 # Used in Twitter feed
 ;Retweet
 Twitt sanba koyne
 
 
 # <strong> tags below are for visual formatting only.
+# <strong> tags below are for visual formatting only.
 ;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
 Ga kay <strong>war se, ga war suturaa</strong> nda <strong>interneti feeranta</strong> dii
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians <br>worldwide
 cee ga Mozilla-izey <br>adduɲɲaa-mee
 
 
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events <br>around the globe
 hiino batey <br>adduɲɲaa kul ra
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;languages and counting, <br>on every continent
 šenniyaŋ kaŋ ga tonton, <br>adduɲɲaa kaw foo kul ga
@@ -184,6 +190,7 @@ Ir gaakašinay kondaa ga war hãayaney zaabi Firefox nda Mozilla jinawey kul ga.
 Dii nda bay ka tontonn
 
 
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
 # This is used as a link to dismiss the video overlay and continue to mozilla.org website
 ;Continue to mozilla.org
 Koy jine mozilla.org do
