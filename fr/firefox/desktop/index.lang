@@ -1,19 +1,24 @@
-## active ##
-## firefox_updated ##
-## home_title_update ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop
+;That’s why we’re proud to be voted the <a href="%(url1)s">Most Trusted Internet Company for Privacy.</a>
+Nous sommes donc fiers d’avoir été élus <a href="%(url1)s">Entreprise Internet la plus fiable pour la confidentialité.</a>
 
 
+;* Based on <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
+* D’après les résultats du <a href="%(url1)s">Grand comparatif de navigateurs Tom’s Hardware</a>.
+
+
+# This is the <title> tag
 # This is the <title> tag
 ;Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your privacy and an open Web
 Navigateur Web Firefox — Sûr, rapide, flexible — Engagé pour vous, votre vie privée et le Web ouvert
 
 
 # Previous title (DO NOT REMOVE)
+# Previous title (DO NOT REMOVE)
 ;Firefox Web browser — Trusted, Flexible, Fast — There's never been a better time
 Navigateur Web Firefox — Sûr, rapide, flexible — Meilleur que jamais
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;There’s never been a <br class="wide-br">better time for Firefox
 C’est le moment <br class="wide-br">ou jamais pour Firefox&nbsp;!
@@ -24,10 +29,13 @@ Engagé pour vous, votre vie privée et le Web ouvert.
 
 
 # This string is displayed if the visitor is using an up-to-date version of Firefox
+# This string is displayed if the visitor is using an up-to-date version of Firefox
 ;Your Firefox is up to date.
 Votre version de Firefox est à jour.
 
 
+# This string is displayed if the visitor is using an up-to-date version of Firefox
+# Active link to https://support.mozilla.org/products/firefox
 # This string is displayed if the visitor is using an up-to-date version of Firefox
 # Active link to https://support.mozilla.org/products/firefox
 ;Need help with anything?
