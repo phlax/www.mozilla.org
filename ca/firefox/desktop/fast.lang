@@ -1,12 +1,10 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/fast/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — The "speed king" - The fastest browser on the Web
 Firefox, el «rei de la velocitat». El navegador més ràpid del web.
 
 
+# Main title
 # Main title
 ;Faster than ever
 Més ràpid que mai
@@ -17,6 +15,7 @@ Aquest és el Firefox més ràpid fins ara.
 
 
 # L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 ;It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 És excel·lent en testos tècnics de referència <br class="wide-br">i en les tasques que feu més freqüentment.
 
@@ -25,6 +24,7 @@ Aquest és el Firefox més ràpid fins ara.
 El «rei de la velocitat»
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
 El Firefox ha superat altres navegadors en proves independents recents que l'han fet<br class="wide-br">el <a href="%(url1)s" data-interaction="outbound link">«rei de la velocitat».</a>
@@ -58,6 +58,7 @@ Una velocitat que es nota
 Optimitzem el Firefox per a la vostra manera d'utilitzar el web.
 
 
+# L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 ;So things like opening or switching <br class="wide-br">between tabs and getting results from the Awesome Bar happen faster than ever.<br class="wide-br">
 Així, coses com obrir o canviar <br class="wide-br">de pestanya i obtenir resultats de la barra fantàstica són més ràpides que mai.<br class="wide-br">
