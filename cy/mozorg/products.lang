@@ -1,7 +1,3 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/products/
-
-
 ;Mozilla Products — Built by us, for the Web
 Cynnyrch Mozilla — Wedi ei adeiladu gennym ni, ar gyfer y We
 
@@ -23,10 +19,12 @@ Bwrdd Gwaith
 
 
 # Firefox Desktop
+# Firefox Desktop
 ;The free, non-profit browser for your desktop.
 Porwr rhad a rhydd, dim er elw ar gyfer eich bwrdd gwaith.
 
 
+# Firefox for Android
 # Firefox for Android
 ;The fast, smart, safe choice for Android browsing.
 Y dewis cyflym clyfar a diogel ar gyfer pori gydag Android.
@@ -37,60 +35,72 @@ OS {ok}
 
 
 # Firefox OS
+# Firefox OS
 ;An open operating system for mobile devices.
 System weithredu agored ar gyfer dyfeisiau symudol.
 
 
+# Open Badges
 # Open Badges
 ;A new standard to recognize and verify learning.
 Safon newydd ar gyfer cydnabod a dilysu dysgu.
 
 
 # Marketplace
+# Marketplace
 ;A creation and distribution platform for apps.
 Platfform creu a dosbarthu ar gyfer apiau.
 
 
+# Persona
 # Persona
 ;A better way to sign in to websites.
 Ffordd well o fewngofnodi i wefannau.
 
 
 # Thunderbird
+# Thunderbird
 ;Safe, fast and easy email.
 E-bost diogel, cyflym a hawdd.
 
 
+# Webmaker
 # Webmaker
 ;Make something amazing with the Web.
 Gwnewch rhywbeth anhygoel gyda'r We.
 
 
 # WebFWD
+# WebFWD
 ;Our community-driven innovation accelerator.
 Ein cyflymydd arloesedd cymunedol.
 
 
+# Labs
 # Labs
 ;New ways to explore, experiment and innovate.
 Ffyrdd newydd o archwilio, arbrofi ac arloesi.
 
 
 # Bugzilla
+# Bugzilla
 ;A bug tracking system to help manage software development.
 System olrhain gwallau er mwyn rheoli datblygiad meddalwedd.
 
 
+# Firebug
 # Firebug
 ;Inspect, debug, analyze and more inside your browser.
 Archwilio, dadfygio, dadansoddi a rhagor o fewn eich porwr.
 
 
 # Gecko
+# Gecko
 ;The layout engine that drives Firefox.
 Y peiriant cynllunio sy'n gyrru Firefox.
 
 
+# XULRunner
 # XULRunner
 ;An environment for XUL-based applications.
 Amgylchedd ar gyfer rhaglenni wedi eu seilio ar XUL.
