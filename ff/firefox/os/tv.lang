@@ -1,12 +1,10 @@
-## NOTE: demo page at https://www-dev.allizom.org/firefox/os/devices/tv/
-## NOTE: this page will go online for CES (Jan 5, 2015), but will remain online across the year in some form
-
-
+# HTML meta tag (page title)
 # HTML meta tag (page title)
 ;Beyond smartphones — Bringing the power of the Web to Panasonic TVs
 Beyond smartphones — Bringing the power of the Web to Panasonic TVs
 
 
+# HTML meta tag (page description, existing translation extracted from os/faq or partners/)
 # HTML meta tag (page description, existing translation extracted from os/faq or partners/)
 ;Built entirely using HTML5 and other open Web standards, Firefox OS is free from the rules and restrictions of existing proprietary platforms.
 Topiraa e kuuɓal ko HTML5 e gaadaneeje Geese udditiiɗe goɗɗe, Firefox OS ena rimɗi e kuule e tiwaaɗe dinndeeje keeroraaɗi jeyal.
@@ -20,6 +18,7 @@ Firefox OS comes to TVs
 We’re bringing the power of the Web to Panasonic televisions again in 2016.
 
 
+# Obsolete string (do not remove)
 # Obsolete string (do not remove)
 ;We’re bringing the power of the Web to Panasonic televisions later this year.
 We’re bringing the power of the Web to Panasonic televisions later this year.
