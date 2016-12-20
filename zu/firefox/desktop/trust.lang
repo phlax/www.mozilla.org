@@ -1,16 +1,16 @@
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — Designed to protect your privacy — The most trusted browser on the Web
 Firefox — Designed to protect your privacy — The most trusted browser on the Web
 
 
 # main title
+# main title
 ;Trust isn’t made. It’s earned.
 Trust isn’t made. It’s earned.
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;We build Firefox with a mission to put you first, above all else.<br class="wide-br">
 We build Firefox with a mission to put you first, above all else.<br class="wide-br">
@@ -28,6 +28,7 @@ We do it so you can browse without worry.<br class="wide-br">
 And we do it because no one else will.
 
 
+# The span tags are for presentational purpose
 # The span tags are for presentational purpose
 ;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
 <span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
@@ -57,6 +58,8 @@ Browse without having your history, searches or cookies saved, and block hidden 
 Learn more about Private Browsing
 
 
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 ;Forget Button
@@ -124,6 +127,7 @@ Browse without worry
 
 
 # L10n: Line break below is for visual formatting only.
+# L10n: Line break below is for visual formatting only.
 ;Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
 Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
 
@@ -153,35 +157,42 @@ Security blog
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do Not Track
 Do Not Track
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
 A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 Learn more about Do Not Track
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private browsing
 Private browsing
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Sometimes it’s nice to go undercover.
 Sometimes it’s nice to go undercover.
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Turn this feature on to protect your browsing history from others.
 Turn this feature on to protect your browsing history from others.
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Learn how to open a private window
 Learn how to open a private window
