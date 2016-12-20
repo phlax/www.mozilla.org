@@ -1,5 +1,5 @@
-## active ##
-## NOTE: Demo server available at https://www-dev.allizom.org/contribute/stories
+;Firefox OS launch in Spain
+Lancement de Firefox&nbsp;OS en Espagne
 
 
 ;Meet Mozillians from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
@@ -18,6 +18,7 @@ Découvrez encore plus de témoignages sur Twitter avec <a href="%(link_hashtag)
 Témoignages de Mozilliens
 
 
+# These <b>s are for formatting.
 # These <b>s are for formatting.
 ;Hi, I’m <b class="name">Rubén</b>, a Mozillian in <b class="country">Spain</b>
 Salut, je m’appelle <b class="name">Rubén</b>, je suis un Mozillien et je vis en <b class="country">Espagne</b>
@@ -43,6 +44,7 @@ Programme de tutorat de la communauté Mozilla hispanique
 Événementiel communautaire
 
 
+# These <b>s are for formatting so we can style the name and country.
 # These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Faye</b>, a Mozillian in <b class="country">the Philippines</b>
 Salut, je m’appelle <b class="name">Faye</b>, je suis une Mozillienne des <b class="country">Philippines</b>
@@ -77,6 +79,7 @@ Ce que je préfère le plus chez les Mozilliens, c’est l’aspect communautair
 
 
 # These <b>s are for formatting so we can style the name and country.
+# These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Shreyas</b>, a Mozillian in <b class="country">India</b>
 Salut, je m’appelle <b class="name">Shreyas</b>, un Mozillien en <b class="country">Inde</b>
 
@@ -105,6 +108,7 @@ Une des choses dont je suis le plus fier en tant que Mozillien est &laquo;&nbsp;
 Je suis également un rédacteur passionné. Si vous travaillez dans la communication ou pour les relations publiques, n’hésitez pas à me contacter. J’adorerais pouvoir travailler sur quelque chose. Et si jamais vous vouliez me parler de conception web ou d’enseignement, je suis également à votre disposition.
 
 
+# These <b>s are for formatting so we can style the name and country.
 # These <b>s are for formatting so we can style the name and country.
 ;Hi, I’m <b class="name">Michael</b>, a Mozillian in <b class="country">Switzerland</b>
 Salut, Je m’appelle <b class="name">Michael</b>, un Mozillien en <b class="country">Suisse</b>
