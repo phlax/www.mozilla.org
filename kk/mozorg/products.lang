@@ -1,7 +1,3 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/products/
-
-
 ;Mozilla Products — Built by us, for the Web
 Mozilla өнімдері — Интернет үшін, біз жасаған
 
@@ -23,10 +19,12 @@ Mozilla өнімдері — Интернет үшін, біз жасаған
 
 
 # Firefox Desktop
+# Firefox Desktop
 ;The free, non-profit browser for your desktop.
 Жұмыс үстеліңіз үшін тегін, коммерциялық емес браузер.
 
 
+# Firefox for Android
 # Firefox for Android
 ;The fast, smart, safe choice for Android browsing.
 Android ішінде веб шолудың жылдам, ақылды, қауіпсіз таңдауы.
@@ -37,60 +35,72 @@ Android ішінде веб шолудың жылдам, ақылды, қауі�
 
 
 # Firefox OS
+# Firefox OS
 ;An open operating system for mobile devices.
 Мобильдік құрылғылар үшін ашық операциялық жүйесі.
 
 
+# Open Badges
 # Open Badges
 ;A new standard to recognize and verify learning.
 Алынған білімді тану және тексерудің жаңа стандарты.
 
 
 # Marketplace
+# Marketplace
 ;A creation and distribution platform for apps.
 Қолданбаларды жасау және тарату платформасы.
 
 
+# Persona
 # Persona
 ;A better way to sign in to websites.
 Веб сайттарға кірудің ең жақсы жолы.
 
 
 # Thunderbird
+# Thunderbird
 ;Safe, fast and easy email.
 Жылдам, қауіпсіз және ыңғайлы пошта.
 
 
+# Webmaker
 # Webmaker
 ;Make something amazing with the Web.
 Интернетте таңқалдырарлық нәрсені жасаңыз.
 
 
 # WebFWD
+# WebFWD
 ;Our community-driven innovation accelerator.
 Қоғамдастығымызбен басқарылатын инновациялар үдеткіші.
 
 
+# Labs
 # Labs
 ;New ways to explore, experiment and innovate.
 Зерттеу, тәжірибелер жасау және инновациялардың жаңа тәсілдері.
 
 
 # Bugzilla
+# Bugzilla
 ;A bug tracking system to help manage software development.
 Бағдарламаларды жасауды басқаруға көмектесетін ақаулықтарды бақылау жүйесі.
 
 
+# Firebug
 # Firebug
 ;Inspect, debug, analyze and more inside your browser.
 Тура браузердің ішінен бақылау, жөндеу, зерттеу және көптеген т.б. мүмкіндіктері.
 
 
 # Gecko
+# Gecko
 ;The layout engine that drives Firefox.
 Firefox-тың негізін жасайтын браузерлік қозғалтқыш.
 
 
+# XULRunner
 # XULRunner
 ;An environment for XUL-based applications.
 XUL негізіндегі қолданбаларға арналған орта.
