@@ -1,7 +1,3 @@
-## active ##
-## NOTE: Thunderbird channel page, URL is https://www-dev.allizom.org/thunderbird/channel/
-
-
 ;Download Thunderbird Earlybird or Beta &amp; Help Determine the Next Thunderbird
 Parsisiųskite „Thunderbird betą“ arba „Earlybird“ ir padėkite formuoti „Thunderbird“ ateitį
 
@@ -10,6 +6,7 @@ Parsisiųskite „Thunderbird betą“ arba „Earlybird“ ir padėkite formuot
 Parsisiųskite ir išbandykite „Thunderbird“ ateities laidas. Susipažinkite su šviežiausiomis naujovėmis, patenkančiomis į „Earlybird“ ir betą.
 
 
+# <strong> and </strong> are used for visual formatting, do not translate
 # <strong> and </strong> are used for visual formatting, do not translate
 ;Welcome to the <strong>Future of Thunderbird</strong>
 Sveiki! Tai – <strong>ateities „Thunderbird“</strong>
@@ -20,6 +17,7 @@ Parsisiųskite „Earlybird“ arba „Thunderbird betą“ ir būkite tarp pirm
 
 
 # This description applies to Thunderbird Earlybird
+# This description applies to Thunderbird Earlybird
 ;Experience the newest innovations as they’re developed
 Išbandykite naujausias inovacijas dar jų vystymo metu
 
@@ -28,6 +26,7 @@ Išbandykite naujausias inovacijas dar jų vystymo metu
 Siųskite atsiliepimus apie programos naujoves ir našumą, taip prisidėdami prie sprendimo, kas pateks į galutinę laidą
 
 
+# This description applies to Thunderbird Beta
 # This description applies to Thunderbird Beta
 ;Experience cutting edge features with more stability
 Išbandykite naujoves, neprarasdami programos stabilumo
