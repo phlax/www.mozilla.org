@@ -1,8 +1,17 @@
-## active ##
-## tracking_protection ##
-## NOTE: Demo page available at https://www-dev.allizom.org/firefox/ios/
+# Title of the page (HTML meta)
+;Mobile Web browser for your iPhone, iPad and iPod Touch
+Le navigateur web mobile pour votre iPhone, iPad et iPod Touch
 
 
+;Add Firefox to your iPhone, iPad and iPod Touch.
+Ajoutez Firefox à votre iPhone, iPad ou iPod Touch.
+
+
+;Add Firefox for iOS to your iPhone, iPad and iPod Touch.
+Installez Firefox pour iOS sur iPhone, iPad ou iPod Touch.
+
+
+# Title of the page (HTML meta)
 # Title of the page (HTML meta)
 ;Mobile Web browser for your iPhone, iPad and iPod touch
 Le navigateur web mobile pour votre iPhone, iPad et iPod touch
@@ -25,20 +34,24 @@ Installez-le dès maintenant
 
 
 # Newsletter section
+# Newsletter section
 ;Sign up below for updates and to be notified when it launches.
 Inscrivez-vous ci-dessous pour recevoir des informations et être averti du lancement.
 
 
+# Newsletter section
 # Newsletter section
 ;* You’ll only receive updates and announcements about the iOS version of Firefox.
 * Vous recevrez uniquement des informations et des annonces concernant la version iOS de Firefox.
 
 
 # Newsletter section
+# Newsletter section
 ;Thanks for your interest in Firefox for iOS.
 Merci de votre intérêt concernant Firefox pour iOS.
 
 
+# Newsletter section
 # Newsletter section
 ;Don’t forget to check your inbox to confirm your request to get updates.
 N’oubliez pas de consulter votre boîte de réception pour confirmer votre demande d’abonnement.
@@ -96,6 +109,7 @@ Envoyez Firefox sur votre appareil iOS
 Synchronisez votre historique de navigation Firefox sur iOS
 
 
+# The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
 # The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
 ;First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start using Sync.
 Appuyez d’abord sur le bouton <b>onglet</b>. Appuyez ensuite sur l’icône %(gear_icon)s pour commencer à utiliser Sync.
