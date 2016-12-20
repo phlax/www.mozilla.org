@@ -1,6 +1,4 @@
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/tips/
-
-
+# main title
 # main title
 ;The best of the latest Firefox
 The best of the latest Firefox
@@ -55,6 +53,7 @@ next
 
 
 # Tip 1
+# Tip 1
 ;Click the star
 Click the star
 
@@ -76,6 +75,7 @@ Click the star to add bookmarks and manage them from the same spot.
 
 
 # Tip 2
+# Tip 2
 ;Simplify your life
 Simplify your life
 
@@ -89,10 +89,12 @@ Remove the buttons you don’t use so you can find the ones you do.
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Open the menu, select “<strong>Customize</strong>” and drag any button out of the toolbar.
 Open the menu, select “<strong>Customize</strong>” and drag any button out of the toolbar.
 
 
+# Tip 3
 # Tip 3
 ;Add your faves
 Add your faves
@@ -103,30 +105,36 @@ Play favorites with the features you use most and arrange them for fast, easy ac
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Open the menu, select “<strong>Customize</strong>” and drag any button into the toolbar or menu.
 Open the menu, select “<strong>Customize</strong>” and drag any button into the toolbar or menu.
 
 
+# Tip 4
 # Tip 4
 ;Stay in Sync
 Stay in Sync
 
 
 # New string
+# New string
 ;Use Sync to magically access your open tabs, passwords and more wherever you use Firefox.
 Use Sync to magically access your open tabs, passwords and more wherever you use Firefox.
 
 
+# Old string, will be removed once the new string is activated
 # Old string, will be removed once the new string is activated
 ;Use Sync to magically access your open tabs, passwords and more from any device.
 Use Sync to magically access your open tabs, passwords and more from any device.
 
 
 # The strong tags are for presentational purpose
+# The strong tags are for presentational purpose
 ;Choose “<strong>Sign in to Sync</strong>” from the menu and make Firefox your own wherever you use it.
 Choose “<strong>Sign in to Sync</strong>” from the menu and make Firefox your own wherever you use it.
 
 
+# Tip 5
 # Tip 5
 ;Free your add-ons
 Free your add-ons
@@ -136,6 +144,7 @@ Free your add-ons
 Keep those special, favorite add-ons in your menu so they’re visible and easily within reach.
 
 
+# The strong tags are for presentational purpose
 # The strong tags are for presentational purpose
 ;Select “<strong>Customize</strong>” from the menu and drag in the add-ons you want.
 Select “<strong>Customize</strong>” from the menu and drag in the add-ons you want.
@@ -158,20 +167,24 @@ Now help your friends master Firefox.
 
 
 # Accessibility string for link
+# Accessibility string for link
 ;Learn more about bookmarks
 Learn more about bookmarks
 
 
+# Accessibility string for link
 # Accessibility string for link
 ;Learn more about customizing
 Learn more about customizing
 
 
 # Accessibility string for link
+# Accessibility string for link
 ;Learn more about Sync
 Learn more about Sync
 
 
+# Accessibility string for link
 # Accessibility string for link
 ;Learn more about add-ons
 Learn more about add-ons
