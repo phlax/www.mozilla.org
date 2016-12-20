@@ -1,12 +1,15 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/fast/
+# L10n: Line break below is for wide screen formatting only.
+;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s">“speed king.”</a>
+Firefox a surpassé les autres navigateurs lors de récents tests indépendants et a été nommé <br class="wide-br">le <a href="%(url1)s">&laquo;&nbsp;champion de la vitesse&nbsp;&raquo;</a>.
 
 
+# <title> tag
 # <title> tag
 ;Firefox — The "speed king" - The fastest browser on the Web
 Firefox — Le &laquo;&nbsp;champion de la vitesse&nbsp;&raquo; — Le navigateur le plus rapide du Web
 
 
+# Main title
 # Main title
 ;Faster than ever
 Plus rapide que jamais
@@ -17,6 +20,7 @@ C’est le Firefox le plus rapide qui existe.
 
 
 # L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 ;It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 Il excelle aussi bien aux comparatifs techniques <br class="wide-br">que dans votre utilisation quotidienne.
 
@@ -25,6 +29,7 @@ Il excelle aussi bien aux comparatifs techniques <br class="wide-br">que dans vo
 Le &laquo;&nbsp;champion de la vitesse&nbsp;&raquo;
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
 Firefox a surpassé les autres navigateurs lors de récents tests indépendants et a été nommé <br class="wide-br">le <a href="%(url1)s" data-interaction="outbound link">&laquo;&nbsp;champion de la vitesse&nbsp;&raquo;</a>.
@@ -58,6 +63,7 @@ Une vitesse que vous pouvez ressentir
 Nous optimisons Firefox selon votre utilisation du Web.
 
 
+# L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 ;So things like opening or switching <br class="wide-br">between tabs and getting results from the Awesome Bar happen faster than ever.<br class="wide-br">
 C’est pourquoi ouvrir des onglets, passer de l’un à l’autre, <br class="wide-br">et obtenir des résultats de recherche depuis la barre d’adresse intelligente <br class="wide-br">sont autant d’opérations plus rapides que jamais.<br class="wide-br">
