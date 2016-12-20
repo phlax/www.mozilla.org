@@ -1,9 +1,3 @@
-## active ##
-## join-us ##
-## manifesto_landing ##
-## NOTE: Page is available at https://www-dev.allizom.org/about/manifesto/
-
-
 ;The Mozilla Manifesto
 Die Mozilla-manifes
 
@@ -16,6 +10,7 @@ Hierdie is die beginsels wat ons missie rig om oop handeling, innovering en gele
 Deel hierdie
 
 
+# <strong> and </strong> tags are used for presentation purposes, do not translate them
 # <strong> and </strong> tags are used for presentation purposes, do not translate them
 ;<strong>Our 10</strong> Principles
 <strong>Ons 10</strong> beginsels
@@ -89,6 +84,7 @@ Mozilla-storie
 Mens hoef nie 'n saak te maak vir “oop” nie. Om nié “oop” te kies nie, moet verduidelik word.
 
 
+# VP stands for Vice President - do not translate <span> and </span> tags
 # VP stands for Vice President - do not translate <span> and </span> tags
 ;<span>Johnathan Nightingale,</span> <span>VP Firefox</span>
 <span>Johnathan Nightingale,</span> <span>vise-president Firefox</span>
@@ -231,6 +227,7 @@ Sluit aan as 'n studenteambassadeur
 
 
 # Obsolete string replaced by separate strings (do not remove)
+# Obsolete string replaced by separate strings (do not remove)
 ;Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
 Sluit aan as 'n <a href="%(volunteer)s">vrywilliger</a> of <a href="%(ambassador)s">studenteambassadeur</a>
 
@@ -296,6 +293,7 @@ Vertel vriende
 
 
 # This string will be included in a tweet
+# This string will be included in a tweet
 ;I support Mozilla because… #mozmanifesto
 Ek ondersteun Mozilla want… #mozmanifesto
 
@@ -320,6 +318,7 @@ Ons geskiedenis
 Ons missie
 
 
+# Strings for mozilla.org/about/manifesto/details/
 # Strings for mozilla.org/about/manifesto/details/
 ;Introduction
 Inleiding
