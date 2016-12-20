@@ -1,8 +1,8 @@
-## active ##
-## update_may2015 ##
-## NOTE: http://www-dev.allizom.org/lightbeam
+;The Clock view allows you to examine connections over a 24-hour period.
+La vue Horloge vous permet d’inspecter les connexions sur 24 heures.
 
 
+# Navigation
 # Navigation
 ;Menu
 Menu {ok}
@@ -16,6 +16,7 @@ Accueil
 À propos
 
 
+# Main page title
 # Main page title
 ;Lightbeam for Firefox
 Lightbeam pour Firefox
@@ -138,6 +139,7 @@ Pour en savoir plus
 
 
 # About page
+# About page
 ;About Lightbeam
 À propos de Lightbeam
 
@@ -151,10 +153,12 @@ Comment fonctionne Lightbeam
 
 
 # New string (May 15) to reflect features that have been removed from the add-on.
+# New string (May 15) to reflect features that have been removed from the add-on.
 ;Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
 Lightbeam propose deux représentations graphiques différentes&nbsp;: Graphe et Liste, qui vous permettent d’examiner les endroits où les parties tierces se greffent à votre navigation. Lightbeam vous fournit les outils pour aborder cet aspect unique du Web.
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
 Lightbeam propose trois représentations graphiques différentes&nbsp;: Graphe, Horloge et Liste  qui vous permettent d’examiner la façon dont les parties tierces se greffent à votre navigation&nbsp;: où et à quel moment. Lightbeam vous fournit les outils pour aborder cet aspect unique du Web.
@@ -237,10 +241,12 @@ Les formats de données dans Lightbeam
 
 
 # New string (May 15) to reflect features that have been removed from the add-on.
+# New string (May 15) to reflect features that have been removed from the add-on.
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam.
 Consultez notre <a href="%s">documentation sur Github</a> pour en apprendre davantage sur les formats de fichiers utilisés par Lightbeam.
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
 Regardez notre <a href="%s">documentation sur Github</a> pour en savoir plus sur les formats de fichiers utilisés par Lightbeam et les formats qui concernent les données que vous envoyez si vous choisissez de fournir vos données.
