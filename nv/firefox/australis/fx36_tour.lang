@@ -1,7 +1,3 @@
-## NOTE: demo server at https://www-dev.allizom.org/firefox/36.0/firstrun/ and https://www-dev.allizom.org/firefox/36.0/whatsnew/?oldversion=35.0
-## NOTE: pages are still in development.
-
-
 ;Open tour
 Open tour
 
@@ -19,10 +15,12 @@ Take the tour to see what’s new
 
 
 # “Firefox Hello” is the product name and should not be localized
+# “Firefox Hello” is the product name and should not be localized
 ;Firefox Hello is the easiest way to connect with friends and family for free over video.
 Firefox Hello is the easiest way to connect with friends and family for free over video.
 
 
+# %s will be replaced by an image of Telefonica's logo.
 # %s will be replaced by an image of Telefonica's logo.
 ;Powered by %s
 Powered by %s
@@ -41,15 +39,18 @@ Connect with anyone over video right from Firefox
 
 
 # “Firefox Hello” is the product name and should not be localized
+# “Firefox Hello” is the product name and should not be localized
 ;Get to know Firefox Hello
 Get to know Firefox Hello
 
 
 # “Firefox Hello” is the product name and should not be localized
+# “Firefox Hello” is the product name and should not be localized
 ;<span>Previous:</span> Firefox Hello
 <span>Previous:</span> Firefox Hello
 
 
+# “Hello” is the product name and should not be localized
 # “Hello” is the product name and should not be localized
 ;Meet Hello
 Meet Hello
@@ -72,15 +73,18 @@ You can have free video conversations right from your Firefox browser.
 
 
 # This is the label that represents tour step one of two
+# This is the label that represents tour step one of two
 ;1/2
 1/2
 
 
 # This is the label that represents tour step two of two
+# This is the label that represents tour step two of two
 ;2/2
 2/2
 
 
+# “Firefox Hello” is the product name and should not be localized
 # “Firefox Hello” is the product name and should not be localized
 ;Want to reconnect with friends around the world? Celebrate a birthday when you can’t be there in person? Try Firefox Hello — the easiest way to have a free video conversation with anyone, anywhere.
 Want to reconnect with friends around the world? Celebrate a birthday when you can’t be there in person? Try Firefox Hello — the easiest way to have a free video conversation with anyone, anywhere.
@@ -90,6 +94,7 @@ Want to reconnect with friends around the world? Celebrate a birthday when you c
 <span>Next:</span> Get started
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Free video conversations,<br> right from Firefox
 Free video conversations,<br> right from Firefox
@@ -112,6 +117,7 @@ Keep conversations one click away
 
 
 # "Hello” is the product name and should not be localized
+# "Hello” is the product name and should not be localized
 ;Add Hello to your toolbar so it’s here whenever you need it.
 Add Hello to your toolbar so it’s here whenever you need it.
 
@@ -129,6 +135,7 @@ Perfect!
 
 
 # “Hello” is the product name and should not be localized
+# “Hello” is the product name and should not be localized
 ;Now using Hello will be even easier. To move or remove the icon, just open the menu and select Customize.
 Now using Hello will be even easier. To move or remove the icon, just open the menu and select Customize.
 
@@ -142,10 +149,13 @@ Want to add it later?
 
 
 # “Firefox Hello” is the product name and should not be localized
+# “Firefox Hello” is the product name and should not be localized
 ;No problem. Just open this menu, select Customize and simply drag the Hello icon into your toolbar.
 No problem. Just open this menu, select Customize and simply drag the Hello icon into your toolbar.
 
 
+# In this case 'hello' is simply a greeting, not the product name. The message is that Firefox Hello is easy to use, as easy as greeting someone.
+# An alternative headline could be "The easiest way to connect".
 # In this case 'hello' is simply a greeting, not the product name. The message is that Firefox Hello is easy to use, as easy as greeting someone.
 # An alternative headline could be "The easiest way to connect".
 ;As easy as saying hello
@@ -185,20 +195,24 @@ It’s the fastest, most flexible Firefox ever.
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 1/4
 
 
+# This is the label that represents tour step two of four
 # This is the label that represents tour step two of four
 ;2/4
 2/4
 
 
 # This is the label that represents tour step three of four
+# This is the label that represents tour step three of four
 ;3/4
 3/4
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 4/4
@@ -213,15 +227,18 @@ Nikéé’ sizį́įgo ni dóó níłch’ih bee ’ééhoziní nihaa 
 
 
 # “Hello” is the product name and should not be localized
+# “Hello” is the product name and should not be localized
 ;Get to know Hello
 Get to know Hello
 
 
 # “Firefox Hello” is the product name and should not be localized
+# “Firefox Hello” is the product name and should not be localized
 ;<span>Next:</span> Firefox Hello
 <span>Next:</span> Firefox Hello
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 It starts with the new,<br> intuitive menu
@@ -256,6 +273,7 @@ Choose how you want to search
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Introducing a smarter <br>way to search
 Introducing a smarter <br>way to search
 
@@ -276,6 +294,7 @@ Use the star to create bookmarks
 <span>Previous:</span> Search
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 Your favorite sites<br> are closer than ever
