@@ -1,6 +1,3 @@
-## NOTE: Strings used in our download buttons. Test area: https://www-dev.allizom.org/styleguide/all-download-buttons/
-
-
 ;Download Firefox
 Firefox ڈاؤن لوڈ کریں
 
@@ -53,6 +50,7 @@ iOS کے لیے <span>Firefox</span>
 مفت ڈاؤنلوڈ
 
 
+# Displayed in the download button for users of old versions of Firefox (should be short)
 # Displayed in the download button for users of old versions of Firefox (should be short)
 ;Update your Firefox
 آپ فائر فاکس کو اپ ڈیٹ کریں
