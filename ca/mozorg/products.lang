@@ -1,7 +1,3 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/products/
-
-
 ;Mozilla Products — Built by us, for the Web
 Productes de Mozilla — fets per nosaltres, per al web
 
@@ -23,10 +19,12 @@ Escriptori
 
 
 # Firefox Desktop
+# Firefox Desktop
 ;The free, non-profit browser for your desktop.
 El navegador lliure i sense ànim de lucre per al vostre escriptori.
 
 
+# Firefox for Android
 # Firefox for Android
 ;The fast, smart, safe choice for Android browsing.
 L'opció ràpida, intel·ligent i segura per la navegació a l'Android
@@ -37,60 +35,72 @@ OS {ok}
 
 
 # Firefox OS
+# Firefox OS
 ;An open operating system for mobile devices.
 Un sistema operatiu obert per a dispositius mòbils.
 
 
+# Open Badges
 # Open Badges
 ;A new standard to recognize and verify learning.
 Un nou estàndard per a l'aprenentatge reconegut i verificat.
 
 
 # Marketplace
+# Marketplace
 ;A creation and distribution platform for apps.
 Una plataforma de creació i distribució d'aplicacions.
 
 
+# Persona
 # Persona
 ;A better way to sign in to websites.
 Una forma millor d'iniciar la sessió en llocs web.
 
 
 # Thunderbird
+# Thunderbird
 ;Safe, fast and easy email.
 Correu electrònic ràpid, segur i fàcil.
 
 
+# Webmaker
 # Webmaker
 ;Make something amazing with the Web.
 Feu alguna cosa genial amb el web.
 
 
 # WebFWD
+# WebFWD
 ;Our community-driven innovation accelerator.
 La nostra acceleradora d'innovació guiada per la comunitat
 
 
+# Labs
 # Labs
 ;New ways to explore, experiment and innovate.
 Noves vies per explorar, experimentar i innovar.
 
 
 # Bugzilla
+# Bugzilla
 ;A bug tracking system to help manage software development.
 Un sistema de seguiment d'informes d'error per ajudar a gestionar el desenvolupament de programari.
 
 
+# Firebug
 # Firebug
 ;Inspect, debug, analyze and more inside your browser.
 Inspeccioneu, depureu, analitzeu i més en el navegador.
 
 
 # Gecko
+# Gecko
 ;The layout engine that drives Firefox.
 El motor de renderització que guia el Firefox.
 
 
+# XULRunner
 # XULRunner
 ;An environment for XUL-based applications.
 Un entorn per a aplicacions basades en XUL.
