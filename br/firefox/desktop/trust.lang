@@ -1,19 +1,16 @@
-## active ##
-## forget_button ##
-## tracking_protection ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — Designed to protect your privacy — The most trusted browser on the Web
 Firefox — Ergrafet da wareziñ ho puhez prevez — Ar merdeer lakaet ennañ ar muiañ a fiziañs
 
 
 # main title
+# main title
 ;Trust isn’t made. It’s earned.
 N'eo ket dleet ar fiziañs. Gounezet eo.
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;We build Firefox with a mission to put you first, above all else.<br class="wide-br">
 Firefox a savomp gant ur gefridi, ho lakaat da gentañ-penn, a-us da bep tra all.<br class="wide-br">
@@ -31,6 +28,7 @@ Graet eo ganeomp a-benn ma vo merdeet dinec'h ganeoc'h.<br class="wide-br">
 Graet eo ganeomp rak ne vo ket graet gant unan all.
 
 
+# The span tags are for presentational purpose
 # The span tags are for presentational purpose
 ;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
 <span id="trust-line1">Embregerezh internet lakaet</span> <span id="trust-line2">enni ar muiañ a fiziañs</span> <span id="trust-line3">evit pezh a sell ouzh ar vuhez prevez</span>
@@ -60,6 +58,8 @@ Merdeit hep na vefe enrollet ho roll istor, ho enklaskoù pe ho toupinoù. Difen
 Gouzout hiroc'h a-zivout ar Merdeiñ Prevez
 
 
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 # Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 # http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 ;Forget Button
@@ -127,6 +127,7 @@ Merdeiñ dinec'h
 
 
 # L10n: Line break below is for visual formatting only.
+# L10n: Line break below is for visual formatting only.
 ;Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
 Gouzout hiroc'h diwar-benn perak ez eo ho puhez prevez hag ho tiogelroez ken pouezus <br class="wide-br">ha penaos e c'hallit en em wareziñ enlinenn.
 
@@ -156,35 +157,42 @@ Blog a-fet diogelroez
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do Not Track
 Na heuliañ ma roudoù
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
 Un nevezadur gant Firefox, gant "Na heuliañ ma roudoù" e venegit ur wellvez a-zivout an doare ma vo dastumet ha graet gant ho roadennoù personel enlinenn.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 Gouzout muioc'h a draoù diwar-benn "Na heuliañ ma roudoù"
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private browsing
 Merdeiñ prevez
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Sometimes it’s nice to go undercover.
 Merdeiñ kuzh a vez plijus ur wech an amzer.
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Turn this feature on to protect your browsing history from others.
 Gweredekait ar c'heweriuster-mañ da wareziñ roll istor ho merdeiñ a-enep ar re all.
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Learn how to open a private window
 Deskit penaos digeriñ ur prenestr prevez
