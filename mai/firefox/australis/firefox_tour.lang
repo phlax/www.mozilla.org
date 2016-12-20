@@ -1,17 +1,16 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/firefox/whatsnew/ and https://www-dev.allizom.org/firefox/firstrun/
-
-
+# Headline in /firstrun page
 # Headline in /firstrun page
 ;Take a quick tour
 एक त्वरित दौर लिअ
 
 
 # Headline in /whatsnew page
+# Headline in /whatsnew page
 ;Welcome to Firefox
 फ़ायरफ़ॉक्स मे अहाँक स्वागत अछि
 
 
+# Sub-headline in /firstrun page
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
 अहाँ, अहाँक गोपनीयता आओर खुलल वेबक लेल प्रतिबद्ध.
@@ -34,6 +33,7 @@
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites are<br> closer than ever
 अहाँक पसंदीदा साइट<br>पहिले सँ बेसी निकट
 
@@ -46,6 +46,7 @@
 कोनो आन डिवाइस पर Firefox?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Designed so you can<br> make it your own
 एहन डिजाइन कएल गेल कि एहाँ<br>एकरा अपना बनाए सकब
@@ -68,10 +69,12 @@ Firefox कलेल बेहतर समय कहियो नहि अछ�
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
+# This is the text for a door-hanger menu that shows in the browser chrome
 ;It’s the fastest, most flexible Firefox ever.
 Firefox सबसँ तेज, आओर सबसँ बेसी लचीला अछि.
 
 
+# This is the label for a button that opens the tour modal dialog
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
 दौर खोलू
@@ -90,10 +93,12 @@ Firefox सबसँ तेज, आओर सबसँ बेसी लचील
 
 
 # This is the label for a button that closes the tour modal dialog
+# This is the label for a button that closes the tour modal dialog
 ;Close tour
 भ्रमण बन्न करू
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
 हजार तरीका अछि <br> Firefox केँ अधिक बनाबै कलेल
@@ -103,6 +108,7 @@ Firefox सबसँ तेज, आओर सबसँ बेसी लचील
 आब आओर आसान - खोजनाइ, इस्तेमाल कएनाइ आओर सम्हारनाय
 
 
+# This is the title for a door-hanger menu that shows in the browser chrome
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
 नवीन की अछि, देखू
@@ -129,6 +135,7 @@ Firefox सबसँ तेज, आओर सबसँ बेसी लचील
 
 
 # This is the text for a call to action that appears in the web page
+# This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
 जाए कए देखू की कथि नवीन अछि
 
@@ -150,30 +157,36 @@ Firefox सबसँ तेज, आओर सबसँ बेसी लचील
 
 
 # This is the label for a button that delays starting the tour
+# This is the label for a button that delays starting the tour
 ;Not now
 अखन नहि
 
 
+# This is the label for a button that starts the tour
 # This is the label for a button that starts the tour
 ;Let’s go
 चलू चलैत छी
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 1/4 {ok}
 
 
+# This is the label that represents tour step three of four
 # This is the label that represents tour step three of four
 ;3/4
 3/4 {ok}
 
 
 # This is the label that represents tour step two of four
+# This is the label that represents tour step two of four
 ;2/4
 2/4 {ok}
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 4/4 {ok}
@@ -207,6 +220,7 @@ Firefox सबसँ तेज, आओर सबसँ बेसी लचील
 नव डिज़ाइन केर बारे मे सीखू
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 ई एकटा शुरू हाएत अछि एकटा नव ,<br> सहजज्ञान युक्त मेनू सँग
@@ -245,6 +259,7 @@ Firefox सबसँ तेज, आओर सबसँ बेसी लचील
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 अहाँक पसंदीदा साइट<br> पहिले सँ बेसी निकट
 
@@ -261,6 +276,7 @@ Firefox सबसँ तेज, आओर सबसँ बेसी लचील
 अहाँ कओन तरह केर वेब चाहैत छी?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the redesigned,<br> intuitive menu
 ई शुरू हाएत अछि एकटा नव ,<br> सहजज्ञान युक्त मेनू सँग
