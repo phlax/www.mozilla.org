@@ -1,8 +1,3 @@
-## active ##
-## geolocation_faq_update ##
-## NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
-
-
 ;Geolocation in Firefox
 Ģeok lokācija Firefox
 
@@ -195,6 +190,7 @@ Vietu zinošā pārlūkošana tagad ir deaktivizēta
 Kā man pievienot ģeolokācijas atbalstu manai lapai?
 
 
+# Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
 Ģeolokācijas atbalstu savos pakalpojumos jūs varat ieviest izmantojot instrukcijas <a href="%(url)s">Mozilla izstrādātāju centrā</a>.
