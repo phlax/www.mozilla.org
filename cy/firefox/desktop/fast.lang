@@ -1,12 +1,10 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/fast/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — The "speed king" - The fastest browser on the Web
 Firefox — Y "speed king" - porwr cyflymaf y We
 
 
+# Main title
 # Main title
 ;Faster than ever
 Cynt nag erioed
@@ -17,6 +15,7 @@ Dyma'r Firefox cyflymaf erioed.
 
 
 # L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 ;It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 Mae'n rhagorol yn erbyn meincnodau technegol <br class="wide-br">a'r tasgau dyddiol fyddwch yn eu gwneud bob dydd.
 
@@ -25,6 +24,7 @@ Mae'n rhagorol yn erbyn meincnodau technegol <br class="wide-br">a'r tasgau dydd
 Y “speed king”
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
 Roedd Firefox yn well na phorwyr eraill mewn profion annibynnol diweddar, a'i alw <br class="wide-br">y <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
@@ -58,6 +58,7 @@ Teimlwch y cyflymder
 Rydym wedi gwneud Firefox yn well ar gyfer y ffordd rydych chi'n defnyddio'r We.
 
 
+# L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 ;So things like opening or switching <br class="wide-br">between tabs and getting results from the Awesome Bar happen faster than ever.<br class="wide-br">
 Felly mae pethau fel agor neu newid <br class="wide-br">rhwng tabiau a chael canlyniadau o'r Bar Rhagorol yn digwydd yn gynt nag erioed.<br class="wide-br">
