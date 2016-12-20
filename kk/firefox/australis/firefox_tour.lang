@@ -1,17 +1,16 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/firefox/whatsnew/ and https://www-dev.allizom.org/firefox/firstrun/
-
-
+# Headline in /firstrun page
 # Headline in /firstrun page
 ;Take a quick tour
 Жылдам шолу
 
 
 # Headline in /whatsnew page
+# Headline in /whatsnew page
 ;Welcome to Firefox
 Firefox-қа қош келдіңіз
 
 
+# Sub-headline in /firstrun page
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
 Сіз, сіздің жекелігіңіз, және ашық Интернет үшін жасалған.
@@ -34,6 +33,7 @@ Firefox-қа қош келдіңіз
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites are<br> closer than ever
 Сіздің таңдамалы сайттарыңыз енді<br> бұрынғыдан да жақын
 
@@ -46,6 +46,7 @@ Firefox-қа қош келдіңіз
 Басқа құрылғыңызда да Firefox бар ма?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Designed so you can<br> make it your own
 Қалауыңызша баптай алатыныңыздай<br> етіп жасалған
@@ -68,10 +69,12 @@ Firefox үшін ең жақсы уақыт
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
+# This is the text for a door-hanger menu that shows in the browser chrome
 ;It’s the fastest, most flexible Firefox ever.
 Бұл Firefox ең жылдам әрі икемді.
 
 
+# This is the label for a button that opens the tour modal dialog
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
 Шолуды ашу
@@ -90,10 +93,12 @@ Firefox үшін ең жақсы уақыт
 
 
 # This is the label for a button that closes the tour modal dialog
+# This is the label for a button that closes the tour modal dialog
 ;Close tour
 Шолуды жабу
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
 Firefox мүмкіндіктерін арттырудың<br> мыңдаған тәсілдері
@@ -103,6 +108,7 @@ Firefox мүмкіндіктерін арттырудың<br> мыңдаған �
 Енді табу, қолдану және басқару жеңілдеу болады
 
 
+# This is the title for a door-hanger menu that shows in the browser chrome
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
 Жаңалықтарын біліңіз
@@ -129,6 +135,7 @@ Firefox-ты қолдану жолыңыз бірегей
 
 
 # This is the text for a call to action that appears in the web page
+# This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
 Жаңалықтарын білу үшін шолуды таңдаңыз
 
@@ -150,30 +157,36 @@ Firefox-ты қолдану жолыңыз бірегей
 
 
 # This is the label for a button that delays starting the tour
+# This is the label for a button that delays starting the tour
 ;Not now
 Қазір емес
 
 
+# This is the label for a button that starts the tour
 # This is the label for a button that starts the tour
 ;Let’s go
 Ал, кеттік
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 1/4 {ok}
 
 
+# This is the label that represents tour step three of four
 # This is the label that represents tour step three of four
 ;3/4
 3/4 {ok}
 
 
 # This is the label that represents tour step two of four
+# This is the label that represents tour step two of four
 ;2/4
 2/4 {ok}
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 4/4 {ok}
@@ -207,6 +220,7 @@ Firefox-ты қолдану жолыңыз бірегей
 Жаңа дизайн туралы біліңіз
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 Ол жаңа,<br> интуитивті мәзірден басталады
@@ -245,6 +259,7 @@ Firefox қолдану арқылы, Интернет болашағын сал�
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 Таңдамалы сайттарыңыз енді<br> бұрынғыдан да жақын
 
@@ -261,6 +276,7 @@ Firefox қолдану арқылы, Интернет болашағын сал�
 Қандай Интернетті қалайсыз?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the redesigned,<br> intuitive menu
 Ол дизайны жаңа,<br> интуитивті мәзірден басталады
