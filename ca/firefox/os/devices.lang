@@ -1,17 +1,16 @@
-## active ##
-## NOTE: page is https://www-dev.allizom.org/firefox/os/devices/
-
-
+# Page title
 # Page title
 ;Firefox OS - Devices &amp; Availability
 Firefox OS - Dispositius &amp; Disponibilitat
 
 
 # Main title - <br> tag below used for formatting only.
+# Main title - <br> tag below used for formatting only.
 ;Find Firefox OS <br>near you
 Trobar Firefox OS <br>a prop vostre
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Explore <br>Firefox OS devices
 Cerqueu <br>dispositius Firefox OS
@@ -166,6 +165,7 @@ Uruguai
 
 
 # The following countries are not currently sold online. We'll keep them around in case they come back
+# The following countries are not currently sold online. We'll keep them around in case they come back
 ;Australia
 Austràlia
 
@@ -255,6 +255,7 @@ Disponible
 
 
 # Alcatel One Touch slogan
+# Alcatel One Touch slogan
 ;Set your world on fire
 Enceneu el vostre món
 
@@ -280,6 +281,7 @@ Marca
 
 
 # Features panel
+# Features panel
 ;Available in
 Disponible
 
@@ -296,6 +298,7 @@ Càmera del darrera
 L'emmagatzematge disponible pel contingut de l'usuari varia segons la versió i està subjecte a canvis en funció de les actualitzacions del programari del telèfon i la utilització de les aplicacions.
 
 
+# Specifications panel
 # Specifications panel
 ;Screen
 Pantalla
@@ -374,6 +377,7 @@ Ràdio
 
 
 # Storage/Memory
+# Storage/Memory
 ;128 MB
 128 MB {ok}
 
@@ -439,6 +443,7 @@ MicroSD de fins a 4 GB
 
 
 # Weight/Dimensions
+# Weight/Dimensions
 ;70 x 139 x 10.5 mm
 70 x 139 x 10.5 mm {ok}
 
@@ -492,6 +497,7 @@ MicroSD de fins a 4 GB
 
 
 # Processor
+# Processor
 ;Qualcomm Snapdragon MSM7227A, 1 GHz CPU
 Qualcomm Snapdragon MSM7227A, 1 GHz CPU {ok}
 
@@ -536,6 +542,7 @@ Spreadtrum SC6821y
 Spreadtrum 6821 1.0 GHz {ok}
 
 
+# Networks
 # Networks
 ;UMTS 900/2100 and 850/1900/2100 - 3G Data up to 7.2 Mbps DL and 384 Kbps UL
 UMTS 900/2100 i 850/1900/2100 - Dades 3G de fins a 7.2 Mbps de baixada i 384 Kbps de pujada
@@ -602,6 +609,7 @@ GPRS/EDGE {ok}
 
 
 # Wireless/Ports
+# Wireless/Ports
 ;Wi-Fi
 Wi-Fi {ok}
 
@@ -626,6 +634,7 @@ Connector estèreo d'auriculars de 3.5 mm
 FM estèreo
 
 
+# Camera
 # Camera
 ;1.3 MP
 1.3 MP {ok}
@@ -708,6 +717,7 @@ VGA {ok}
 
 
 # Bluetooth
+# Bluetooth
 ;Bluetooth
 Bluetooth {ok}
 
@@ -732,6 +742,7 @@ Bluetooth v3.0 {ok}
 Bluetooth v3.0 A2DP {ok}
 
 
+# Battery
 # Battery
 ;1000 mAh
 1000 mAh {ok}
@@ -902,6 +913,7 @@ Fins a 720h (LTE), 820 h (3G)
 
 
 # Screen
+# Screen
 ;3.5"
 3.5" {ok}
 
@@ -971,6 +983,7 @@ Fins a 720h (LTE), 820 h (3G)
 
 
 # other screen strings
+# other screen strings
 ;320 x 480 pixels
 320 x 480 píxels
 
@@ -991,6 +1004,7 @@ TFT tàctil capacitiva
 Pantalla color TFT
 
 
+# Firefox OS TV
 # Firefox OS TV
 ;Picture Quality
 Qualitat de la imatge
@@ -1037,6 +1051,7 @@ Full DX series
 
 
 # Footer
+# Footer
 ;More about Firefox OS
 Més informació sobre el Firefox OS
 
@@ -1058,6 +1073,7 @@ Informeu-vos sobre les aplicacions del Firefox OS al Firefox Marketplace
 
 
 # Popup after clicking on "Get a phone"
+# Popup after clicking on "Get a phone"
 ;We work with a number of providers to offer Firefox OS on a variety of devices.
 Treballem amb uns quants proveïdors per oferir el Firefox OS en diversos dispositius.
 
@@ -1067,10 +1083,12 @@ Llegiu les nostres PMF per obtenir un <a href="%(link)s">llistat complet de prov
 
 
 # Case 1: There are several phone providers
+# Case 1: There are several phone providers
 ;Choose one from the list below to get a Firefox OS smartphone in your country.
 Trieu-ne un de la llista següent per aconseguir un telèfon intel·ligent amb el Firefox OS al vostre país.
 
 
+# Case 2: There is only one provider in the country
 # Case 2: There is only one provider in the country
 ;Click on the provider below to get a Firefox OS smartphone in your country.
 Feu clic al proveïdor de més avall per aconseguir un telèfon intel·ligent amb el Firefox OS al vostre país.
