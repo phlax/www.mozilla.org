@@ -1,9 +1,3 @@
-## active ##
-## join-us ##
-## manifesto_landing ##
-## NOTE: Page is available at https://www-dev.allizom.org/about/manifesto/
-
-
 ;The Mozilla Manifesto
 Maniffesto Mozilla
 
@@ -16,6 +10,7 @@ Dyma'r egwyddorion sy'n arwain ein cenhadaeth i hyrwyddo bod yn agored, arloesed
 Rhannwch hwn
 
 
+# <strong> and </strong> tags are used for presentation purposes, do not translate them
 # <strong> and </strong> tags are used for presentation purposes, do not translate them
 ;<strong>Our 10</strong> Principles
 <strong>Ein 10</strong> Egwyddor
@@ -89,6 +84,7 @@ Hanes Mozilla
 Does dim angen gwneud achos o blaid bod yn agored. Rhaid gwneud achos dros beidio bod yn agored.
 
 
+# VP stands for Vice President - do not translate <span> and </span> tags
 # VP stands for Vice President - do not translate <span> and </span> tags
 ;<span>Johnathan Nightingale,</span> <span>VP Firefox</span>
 <span>Johnathan Nightingale,</span> <span>VP Firefox</span> {ok}
@@ -231,6 +227,7 @@ Ymunwch fel cenhadwr myfyrwyr
 
 
 # Obsolete string replaced by separate strings (do not remove)
+# Obsolete string replaced by separate strings (do not remove)
 ;Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
 Ymunwch â ni fel <a href="%(volunteer)s">gwirfoddolwr</a> neu <a href="%(ambassador)s">llysgennad myfyrwyr</a>
 
@@ -296,6 +293,7 @@ Dywedwch wrth eich ffrindiau
 
 
 # This string will be included in a tweet
+# This string will be included in a tweet
 ;I support Mozilla because… #mozmanifesto
 Rwy'n cefnogi Mozilla oherwydd… #mozmanifesto
 
@@ -320,6 +318,7 @@ Ein hanes
 Ein cenhadaeth
 
 
+# Strings for mozilla.org/about/manifesto/details/
 # Strings for mozilla.org/about/manifesto/details/
 ;Introduction
 Cyflwyniad
