@@ -1,8 +1,3 @@
-## active ##
-## geolocation_faq_update ##
-## NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
-
-
 ;Geolocation in Firefox
 Geografinės vietos nustatymas „Firefox“ naršyklėje
 
@@ -195,6 +190,7 @@ Naršymo nustatant geografinę buvimo vietą savybė yra išjungta.
 Kaip galėčiau pridėti geografinės vietos nustatymo funkciją į savo svetainę?
 
 
+# Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 # Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 ;You can integrate Geolocation support into your service by following the instruction at <a href="%(url)s">Mozilla Developer Center</a>.
 Geografinės vietos nustatymą į savo tarnybą galite įdiegti, vadovaudamiesi instrukcija, pateikiama <a href="%(url)s">„Mozillos“ programuotojų centre</a>.
