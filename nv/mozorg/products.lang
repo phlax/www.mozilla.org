@@ -1,6 +1,3 @@
-## NOTE: https://www-dev.allizom.org/products/
-
-
 ;Mozilla Products — Built by us, for the Web
 Mozilla Products — Built by us, for the Web
 
@@ -22,10 +19,12 @@ Desktop
 
 
 # Firefox Desktop
+# Firefox Desktop
 ;The free, non-profit browser for your desktop.
 The free, non-profit browser for your desktop.
 
 
+# Firefox for Android
 # Firefox for Android
 ;The fast, smart, safe choice for Android browsing.
 The fast, smart, safe choice for Android browsing.
@@ -36,60 +35,72 @@ OS
 
 
 # Firefox OS
+# Firefox OS
 ;An open operating system for mobile devices.
 An open operating system for mobile devices.
 
 
+# Open Badges
 # Open Badges
 ;A new standard to recognize and verify learning.
 A new standard to recognize and verify learning.
 
 
 # Marketplace
+# Marketplace
 ;A creation and distribution platform for apps.
 A creation and distribution platform for apps.
 
 
+# Persona
 # Persona
 ;A better way to sign in to websites.
 A better way to sign in to websites.
 
 
 # Thunderbird
+# Thunderbird
 ;Safe, fast and easy email.
 Safe, fast and easy email.
 
 
+# Webmaker
 # Webmaker
 ;Make something amazing with the Web.
 Make something amazing with the Web.
 
 
 # WebFWD
+# WebFWD
 ;Our community-driven innovation accelerator.
 Our community-driven innovation accelerator.
 
 
+# Labs
 # Labs
 ;New ways to explore, experiment and innovate.
 New ways to explore, experiment and innovate.
 
 
 # Bugzilla
+# Bugzilla
 ;A bug tracking system to help manage software development.
 A bug tracking system to help manage software development.
 
 
+# Firebug
 # Firebug
 ;Inspect, debug, analyze and more inside your browser.
 Inspect, debug, analyze and more inside your browser.
 
 
 # Gecko
+# Gecko
 ;The layout engine that drives Firefox.
 The layout engine that drives Firefox.
 
 
+# XULRunner
 # XULRunner
 ;An environment for XUL-based applications.
 An environment for XUL-based applications.
