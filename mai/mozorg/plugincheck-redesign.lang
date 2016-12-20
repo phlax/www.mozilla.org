@@ -1,16 +1,16 @@
-## NOTE: Demo server available at url: https://www-dev.allizom.org/plugincheck/
-
-
+# Page title (HTML attribute)
 # Page title (HTML attribute)
 ;Keep your Firefox healthy with a quick checkup
 Keep your Firefox healthy with a quick checkup
 
 
 # Page description (HTML attribute)
+# Page description (HTML attribute)
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
 Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
 
 
+# Main title
 # Main title
 ;Check Your Plugins
 अपन प्लगइन जाँचू
@@ -165,30 +165,36 @@ Back to Top
 
 
 # This is a button telling the user to update their plugin
+# This is a button telling the user to update their plugin
 ;Update Now
 आब अद्यतन करू
 
 
+# This is alt text used on plugin icon images
 # This is alt text used on plugin icon images
 ;Plugin icon
 Plugin icon
 
 
 # This is the string used to indicate that the plugin is up to date
+# This is the string used to indicate that the plugin is up to date
 ;up to date
 up to date
 
 
+# This is the string used to indicate that the plugin is unknown
 # This is the string used to indicate that the plugin is unknown
 ;unknown
 unknown
 
 
 # This is the string used to indicate that the plugin is outdated
+# This is the string used to indicate that the plugin is outdated
 ;outdated
 outdated
 
 
+# This is the string used to indicate that the plugin is vulnerable
 # This is the string used to indicate that the plugin is vulnerable
 ;vulnerable
 भेद्य
