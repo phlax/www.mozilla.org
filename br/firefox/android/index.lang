@@ -1,16 +1,16 @@
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
-
-
+# Used in HTML as page title
 # Used in HTML as page title
 ;Firefox for Android — Mobile Web browser — More ways to customize and protect your privacy
 Firefox evit Android — Merdeer Web hezoug — Meur a zoare da bersonelaat ha gwareziñ ho prevezded
 
 
 # Used in HTML as page description
+# Used in HTML as page description
 ;Only Firefox for Android offers so many ways to make your mobile browsing experience truly your own
 N'eus nemet Firefox evit Android a ginnig kement a doareoù da lakaat ho merdeiñ hezoug da vezañ ho hini da vat
 
 
+# alt text for image (hard-coded image needs to be fixed)
 # alt text for image (hard-coded image needs to be fixed)
 ;Firefox for Android
 Firefox evit Android
@@ -44,6 +44,7 @@ Pellgargañ war Google Play
 Ho hini eo hepken
 
 
+# Line break below is for visual formatting only. Remove if it's not useful for your locale
 # Line break below is for visual formatting only. Remove if it's not useful for your locale
 ;Only Firefox for Android offers this many ways to make<br> your mobile browsing experience truly your own.
 N'eus nemet Firefox evit Android a ginnig kement a doareoù da lakaat<br> ho merdeiñ hezoug da vezañ ho hini da vat.
@@ -110,10 +111,12 @@ Access your saved articles even when you’re not online.
 
 
 # Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
+# Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
 ;Learn more about Reading List
 Learn more about Reading List
 
 
+# Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 # Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 ;Learn more about Reader View
 Learn more about Reader View
@@ -216,35 +219,42 @@ Release notes
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do not track
 Na heuliañ ma roudoù
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
 Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 Gouzout muioc'h a draoù diwar-benn "Na heuliañ ma roudoù"
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private Browsing
 Private Browsing
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
 Pa vez gweredekaet, Firefox evit Android ne asant ket toupinoù, na ne zalc'h soñj eus gerioù-tremen pe ne enroll nep a lec'hienn hag ho poa gweladennet.
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Learn how to open a private window
 Deskit penaos digeriñ ur prenestr prevez
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;See how Private Browsing works
 Gwellit penaos ez a ar merdeiñ prevez en-dro
