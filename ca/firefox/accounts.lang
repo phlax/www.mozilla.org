@@ -1,12 +1,10 @@
-## active ##
-## NOTE: demo page available at https://www-dev.allizom.org/firefox/accounts/
-
-
+# Used as part of HTML title
 # Used as part of HTML title
 ;Get a Firefox Account
 Crea un compte de Firefox
 
 
+# Used as HTML description
 # Used as HTML description
 ;Get easy access to your bookmarks, passwords, tabs and more from any computer or mobile device running Firefox.
 Accediu fàcilment a les vostres adreces d'interès, contrasenyes, pestanyes, etc. des de qualsevol ordinador o dispositiu mòbil que executin el Firefox.
@@ -21,35 +19,42 @@ Amb un compte del Firefox, podreu accedir a les adreces d'interès, les contrase
 
 
 # Ordered list (item #1) displayed to Firefox users not logged in into a Firefox Account
+# Ordered list (item #1) displayed to Firefox users not logged in into a Firefox Account
 ;Sign up for a Firefox Account
 Registreu-vos per crear un compte del Firefox
 
 
+# Ordered list (item #2) displayed to Firefox users not logged in into a Firefox Account
 # Ordered list (item #2) displayed to Firefox users not logged in into a Firefox Account
 ;Sign in everywhere you use Firefox
 Inicieu la sessió des de qualsevol lloc on utilitzeu el Firefox
 
 
 # Ordered list (item #3) displayed to Firefox users not logged in into a Firefox Account
+# Ordered list (item #3) displayed to Firefox users not logged in into a Firefox Account
 ;Sync what you want
 Sincronitzeu allò que voleu
 
 
+# Displayed to Firefox users already signed-in
 # Displayed to Firefox users already signed-in
 ;You’re signed in and ready to start using Sync.
 Heu iniciat la sessió i esteu a punt per començar a utilitzar el Sync.
 
 
 # Displayed to Firefox for iOS users
+# Displayed to Firefox for iOS users
 ;Set up Sync for iOS
 Configureu el Sync per a l'iOS
 
 
 # Displayed to Firefox for Android users
+# Displayed to Firefox for Android users
 ;Set up Sync on your <br>Android device
 Configureu el Sync per a<br>dispositius Android
 
 
+# Displayed to non-Firefox browsers
 # Displayed to non-Firefox browsers
 ;Download Firefox to start using Sync.
 Baixeu el Firefox per començar a utilitzar el Sync.
