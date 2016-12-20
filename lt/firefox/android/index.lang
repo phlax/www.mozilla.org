@@ -1,20 +1,16 @@
-## active ##
-## android_reader_links ##
-## android_spring_updates ##
-## tracking_protection ##
-## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
-
-
+# Used in HTML as page title
 # Used in HTML as page title
 ;Firefox for Android — Mobile Web browser — More ways to customize and protect your privacy
 „Firefox“ „Android“ įrenginiams – mobilioji naršyklė – daugiau būtų individualizuoti ir apsaugoti jūsų privatumą
 
 
 # Used in HTML as page description
+# Used in HTML as page description
 ;Only Firefox for Android offers so many ways to make your mobile browsing experience truly your own
 Tik „Firefox“ „Android“ įrenginiams suteikia tiek daug būtų paversti naršyklę sava ir suasmeninti saityno naršymą
 
 
+# alt text for image (hard-coded image needs to be fixed)
 # alt text for image (hard-coded image needs to be fixed)
 ;Firefox for Android
 „Firefox“ „Android“ įrenginiams
@@ -48,6 +44,7 @@ Parsisiųskite iš „Google Play“
 Paruošta patikti
 
 
+# Line break below is for visual formatting only. Remove if it's not useful for your locale
 # Line break below is for visual formatting only. Remove if it's not useful for your locale
 ;Only Firefox for Android offers this many ways to make<br> your mobile browsing experience truly your own.
 Tik „Firefox“ „Android“ įrenginiams suteikia tiek daug galimybių<br> individualizuoti saityno naršymą kelyje ir paversti naršyklę sava.
@@ -114,10 +111,12 @@ Pasiekite įsimintus straipsnius net neturėdami ryšio su internetu.
 
 
 # Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
+# Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
 ;Learn more about Reading List
 Susipažinkite su skaitinių sąrašu
 
 
+# Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 # Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 ;Learn more about Reader View
 Sužinokite daugiau apie skaitymo rodinį
@@ -220,35 +219,42 @@ Laidos apžvalga
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Do not track
 Nestebėti („Do Not Track“)
 
 
+# Obsolete string, will be removed after the Firefox 42 campaign
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
 Įgalinę šią „Firefox“ inovaciją, jūs pats spręsite, kam ir kaip jūsų leidžiate kaupti ir naudoti duomenis apie jūsų naršymo įpročius ir pomėgius.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
+# Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
 Sužinokite apie „Do Not Track“ antraštę daugiau
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;Private Browsing
 Privatusis naršymas
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
 Įgalinus šią veikseną, „Firefox“ jūsų įrenginyje neleis svetainėms įrašyti slapukų, nesiūlys įsiminti slaptažodžių ir nepildys naršymo žurnalo.
 
 
 # Obsolete string, do not remove
+# Obsolete string, do not remove
 ;Learn how to open a private window
 Išmokite atverti privatųjį langą
 
 
+# Obsolete string, do not remove
 # Obsolete string, do not remove
 ;See how Private Browsing works
 Sužinokite, kaip veikia privatusis naršymas
