@@ -1,8 +1,3 @@
-## active ##
-## legal_update_201601 ##
-## NOTE: demo page is available at https://www-dev.allizom.org/about/legal/
-
-
 ;Legal
 Regsaspekte
 
@@ -80,30 +75,36 @@ Rapporteer skending van u kopieregte of handelsmerke.
 
 
 # Obsolete string
+# Obsolete string
 ;Report abuse of your copyrights and trademarks.
 Rapporteer misbruik van jou outeursregte en handelsmerke.
 
 
+# Used in sub-pages to return to the main index https://www.mozilla.org/about/legal/
 # Used in sub-pages to return to the main index https://www.mozilla.org/about/legal/
 ;Back to Legal
 Terug na regsaspekte
 
 
 # Title for https://www.mozilla.org/about/legal/terms/mozilla/
+# Title for https://www.mozilla.org/about/legal/terms/mozilla/
 ;Websites & Communications Terms of Use
 Webwerwe en kommunikasie se gebruikbepalings
 
 
+# Title for https://www.mozilla.org/about/legal/acceptable-use/
 # Title for https://www.mozilla.org/about/legal/acceptable-use/
 ;Acceptable Use Policy
 Beleid oor aanvaarbare gebruik
 
 
 # Title for https://www.mozilla.org/about/legal/terms/firefox-hello/
+# Title for https://www.mozilla.org/about/legal/terms/firefox-hello/
 ;Firefox Hello Terms of Service
 Firefox Hello se diensbepalings
 
 
+# Title for https://www.mozilla.org/about/legal/terms/services/
 # Title for https://www.mozilla.org/about/legal/terms/services/
 ;Firefox Cloud Services: Terms of Service
 Firefox-wolkdienste: Gebruiksvoorwaardes
