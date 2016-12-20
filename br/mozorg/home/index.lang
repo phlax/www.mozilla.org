@@ -1,11 +1,10 @@
-## NOTE: demo server at https://www-dev.allizom.org/
-
-
+# Used as page title in HTML meta tag
 # Used as page title in HTML meta tag
 ;We’re building a better Internet
 Emaomp o sevel un internet gwelloc'h
 
 
+# Used as page description in HTML meta tag
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Gouzout a rit? Mozilla — krouerien Firefox — a stourm evit derc'hel ar genrouedad ul loaz hollek foran digor hag evit an holl.
@@ -40,6 +39,7 @@ Amprouit ar merdeiñ prevez
 
 
 # Small tile. Link points to https://advocacy.mozilla.org
+# Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 Dizoloit hor breutadenn
 
@@ -60,6 +60,7 @@ Roit skoazell da vilionoù a dud <br> da gaout ar pep gwellañ digant <br> digan
 Mont gant hor skipailh skorañ
 
 
+# Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 # Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 ;Get smart on Tracking
 Bezit speredek a-zivout an heuliañ
@@ -86,10 +87,12 @@ Kaout Firefox evit iOS
 
 
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Try Firefox Developer Edition
 Kaout embannadur Firefox evit an diorroerion
 
 
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Introducing Firefox Developer Edition
 Kinnig embanadur Firefox evit an diorroerion
@@ -116,30 +119,36 @@ Celebrate with us
 
 
 # Used in Twitter feed
+# Used in Twitter feed
 ;Reply
 Repont
 
 
+# Used in Twitter feed
 # Used in Twitter feed
 ;Retweet
 Adtweetañ
 
 
 # <strong> tags below are for visual formatting only.
+# <strong> tags below are for visual formatting only.
 ;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
 Gouestlet <strong>deoc'h, d'ho puhez prevez</strong> ha d'ar <strong>web digor</strong>
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians <br>worldwide
 Mozilliaded oberiant <br> dre ar bed a-bezh
 
 
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events <br>around the globe
 degouezhioù o tont <br> dre ar bed a-bezh
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;languages and counting, <br>on every continent
 yezh war pep kevandir, <br> ha reoù all o tont
@@ -181,6 +190,7 @@ Kaout respontoù d'ar goulennoù hoc'h eus a-zivout Firefox ha diwar-benn an hol
 Dizoleiñ muioc'h a draoù
 
 
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
 # This is used as a link to dismiss the video overlay and continue to mozilla.org website
 ;Continue to mozilla.org
 Kenderc'hel war mozilla.org
