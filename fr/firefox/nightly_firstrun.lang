@@ -1,8 +1,3 @@
-## active ##
-## promo_locale ##
-## NOTE: url is https://www-dev.allizom.org/firefox/nightly/firstrun/
-
-
 ;Firefox Nightly First Run Page
 Page de premier démarrage de Firefox Nightly
 
@@ -31,6 +26,10 @@ Commencez à tester
 # You can instead use your own link if your community have a similar onboarding page about how to test Mozilla products.
 # If you don't have a community page, just add " {ok}" after the en-US link
 # Links must start with http:// or https://
+# Link used for the "Start testing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to test Mozilla products.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://
 ;https://oneanddone.mozilla.org
 https://oneanddone.mozilla.org {ok}
 
@@ -51,6 +50,10 @@ Commencez à coder
 # You can instead use your own link if your community have a similar onboarding page about how to contribute to Firefox code.
 # If you don't have a community page, just add " {ok}" after the en-US link
 # Links must start with http:// or https://
+# Link used for the "Start coding" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to Firefox code.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://
 ;https://developer.mozilla.org/docs/Introduction
 https://developer.mozilla.org/docs/Introduction {ok}
 
@@ -67,6 +70,10 @@ Rendez Firefox disponible dans davantage de langues ou contribuez aux traduction
 Commencez à traduire
 
 
+# Link used for the "Start localizing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://
 # Link used for the "Start localizing" button.
 # You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n.
 # If you don't have a community page, just add " {ok}" after the en-US link
