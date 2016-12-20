@@ -1,8 +1,4 @@
-## active ##
-## tracking_protection ##
-## NOTE: Demo page available at https://www-dev.allizom.org/firefox/ios/
-
-
+# Title of the page (HTML meta)
 # Title of the page (HTML meta)
 ;Mobile Web browser for your iPhone, iPad and iPod touch
 Сіздің iPhone, iPad және iPod touch үшін арналған мобильді веб браузері
@@ -25,20 +21,24 @@ Firefox-ты өз iPhone, iPad және iPod touch-қа қосыңыз.
 
 
 # Newsletter section
+# Newsletter section
 ;Sign up below for updates and to be notified when it launches.
 Жаңартуларды алу және ол шыққанда хабарды алу үшін төменде жазылыңыз.
 
 
+# Newsletter section
 # Newsletter section
 ;* You’ll only receive updates and announcements about the iOS version of Firefox.
 * Сіз тек Firefox-тың iOS нұсқасы жөнінде жаңартулар және хабарларды аласыз.
 
 
 # Newsletter section
+# Newsletter section
 ;Thanks for your interest in Firefox for iOS.
 iOS үшін Firefox-қа білдірген қызығыңыз үшін рахмет.
 
 
+# Newsletter section
 # Newsletter section
 ;Don’t forget to check your inbox to confirm your request to get updates.
 Жаңартуларды алу сұранымын растау үшін поштаның кіріс жәшігін тексеруді ұмытпаңыз.
@@ -96,6 +96,7 @@ Firefox-ты өз iOS құрылғыңызға жіберу
 Firefox шолу тарихын iOS-та синхрондау
 
 
+# The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
 # The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
 ;First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start using Sync.
 Алдымен <b>бет</b> батырмасын шертіңіз. Одан кейін, синхрондауды бастау үшін %(gear_icon)s таңбашасын шертіңіз.
