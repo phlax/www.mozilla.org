@@ -1,6 +1,4 @@
-## NOTE: Demo page available at https://www-dev.allizom.org/firefox/ios/
-
-
+# Title of the page (HTML meta)
 # Title of the page (HTML meta)
 ;Mobile Web browser for your iPhone, iPad and iPod touch
 Mobile Web browser for your iPhone, iPad and iPod touch
@@ -23,20 +21,24 @@ Get it now
 
 
 # Newsletter section
+# Newsletter section
 ;Sign up below for updates and to be notified when it launches.
 Maa hantum ne ganda ka duu taagandirey nda bangandiyan waati kaŋ a ga fatta.
 
 
+# Newsletter section
 # Newsletter section
 ;* You’ll only receive updates and announcements about the iOS version of Firefox.
 * You’ll only receive updates and announcements about the iOS version of Firefox.
 
 
 # Newsletter section
+# Newsletter section
 ;Thanks for your interest in Firefox for iOS.
 Thanks for your interest in Firefox for iOS.
 
 
+# Newsletter section
 # Newsletter section
 ;Don’t forget to check your inbox to confirm your request to get updates.
 Don’t forget to check your inbox to confirm your request to get updates.
@@ -94,6 +96,7 @@ Send Firefox to your iOS device
 Sync your Firefox browsing history on iOS
 
 
+# The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
 # The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
 ;First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start using Sync.
 First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start using Sync.
