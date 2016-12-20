@@ -1,5 +1,3 @@
-## active ##
-## gear_store ##
 ;Mozilla links
 Mozilla dobey
 
@@ -45,6 +43,7 @@ Tejandiyaney
 
 
 # Noun, links to https://www.mozilla.org/research
+# Noun, links to https://www.mozilla.org/research
 ;Research
 Ceeci
 
@@ -82,35 +81,42 @@ Ceeci
 
 
 # This is a verb, in the 'Get involved' column. Goes to partnership page.
+# This is a verb, in the 'Get involved' column. Goes to partnership page.
 ;Partner
 Šettakašinay
 
 
+# Slogan for Firefox OS promo
 # Slogan for Firefox OS promo
 ;Look ahead
 Lawre
 
 
 # Link for slogan
+# Link for slogan
 ;Learn all about Firefox OS
 Haya kul bay Firefox OS ga
 
 
+# You can replace 'in your language' in this string by the name of your language if you want.
 # You can replace 'in your language' in this string by the name of your language if you want.
 ;Would you like to see this page in your language?
 War ga baa ka dii moɲoo woo war boŋ šennoo ra?
 
 
 # Translation bar: Your translation can just say Yes
+# Translation bar: Your translation can just say Yes
 ;Yes, please!
 Ayyo, taare!
 
 
 # Translation bar: Your translation can just say No
+# Translation bar: Your translation can just say No
 ;No, thanks.
 Kalaa, naŋ yaada.
 
 
+# Fundraising campaign in Tabzilla
 # Fundraising campaign in Tabzilla
 ;Support Mozilla
 Mozilla gaakašinay
@@ -118,20 +124,25 @@ Mozilla gaakašinay
 
 # Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 # Screenshot: https://bug935719.bugzilla.mozilla.org/attachment.cgi?id=8499330
+# Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
+# Screenshot: https://bug935719.bugzilla.mozilla.org/attachment.cgi?id=8499330
 ;Looks like you’re using an older version of Firefox.
 Ga hima kaŋ war goo ma goy nda Firefox žeena.
 
 
+# Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 # Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 ;Update to stay fast and safe.
 Taagandi cahãyan nda saajaw še.
 
 
 # Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
+# Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
 ;Later
 Hiino
 
 
+# Used in promo box
 # Used in promo box
 ;Official Mozilla gear is here
 Mozilla alhaku bayrante goo ne
