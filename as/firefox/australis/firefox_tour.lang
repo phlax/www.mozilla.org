@@ -1,17 +1,16 @@
-## active ##
-## NOTE: https://www-dev.allizom.org/firefox/whatsnew/ and https://www-dev.allizom.org/firefox/firstrun/
-
-
+# Headline in /firstrun page
 # Headline in /firstrun page
 ;Take a quick tour
 এটা দ্ৰুত ভ্ৰমণ কৰক
 
 
 # Headline in /whatsnew page
+# Headline in /whatsnew page
 ;Welcome to Firefox
 Firefox লৈ স্বাগতম
 
 
+# Sub-headline in /firstrun page
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
 আপুনি, আপোনাৰ গোপনীয়তা আৰু এটা মুক্ত ৱেবলৈ অৰ্পিত।
@@ -34,6 +33,7 @@ Firefox লৈ স্বাগতম
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites are<br> closer than ever
 আপোনাৰ পছন্দৰ ছাইটসমূহ <br> আগতকৈ অধিক নিকট
 
@@ -46,6 +46,7 @@ Firefox লৈ স্বাগতম
 অন্য ডিভাইচত Firefox আছে?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Designed so you can<br> make it your own
 ৰূপাঙ্কিত যাতে আপুনি<br> ইয়াক নিজস্ব কৰিব পাৰে
@@ -68,10 +69,12 @@ Firefox ৰ বাবে ইয়াতকে ভাল সময় হব নোৱ
 
 
 # This is the text for a door-hanger menu that shows in the browser chrome
+# This is the text for a door-hanger menu that shows in the browser chrome
 ;It’s the fastest, most flexible Firefox ever.
 ই আটাইতকৈ দ্ৰুত, স্থিতিস্থাপক Firefox।
 
 
+# This is the label for a button that opens the tour modal dialog
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
 ভ্ৰমণ খোলক
@@ -90,10 +93,12 @@ Firefox ৰ বাবে ইয়াতকৈ ভাল সময় আৰু হো
 
 
 # This is the label for a button that closes the tour modal dialog
+# This is the label for a button that closes the tour modal dialog
 ;Close tour
 ভ্ৰমণ বন্ধ কৰক
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
 <br>Firefox ক অধিক কাৰ্য্য কৰোৱাৰ হেজাৰ পদ্ধতি
@@ -103,6 +108,7 @@ Firefox ৰ বাবে ইয়াতকৈ ভাল সময় আৰু হো
 এতিয়া সন্ধান কৰা, ব্যৱহাৰ আৰু ব্যৱস্থাপনা কৰা আৰু সহজ
 
 
+# This is the title for a door-hanger menu that shows in the browser chrome
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
 নতুন কি আছে চাওক
@@ -129,6 +135,7 @@ Firefox ৰ বাবে ইয়াতকৈ ভাল সময় আৰু হো
 
 
 # This is the text for a call to action that appears in the web page
+# This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
 নতুন কি আছে চাবলৈ ভ্ৰমণ কৰক
 
@@ -150,30 +157,36 @@ Firefox ৰ বাবে ইয়াতকৈ ভাল সময় আৰু হো
 
 
 # This is the label for a button that delays starting the tour
+# This is the label for a button that delays starting the tour
 ;Not now
 এতিয়া নহয়
 
 
+# This is the label for a button that starts the tour
 # This is the label for a button that starts the tour
 ;Let’s go
 আৰম্ভ কৰক
 
 
 # This is the label that represents tour step one of four
+# This is the label that represents tour step one of four
 ;1/4
 ১/৪
 
 
+# This is the label that represents tour step three of four
 # This is the label that represents tour step three of four
 ;3/4
 ৩/৪
 
 
 # This is the label that represents tour step two of four
+# This is the label that represents tour step two of four
 ;2/4
 ২/৪
 
 
+# This is the label that represents tour step four of four
 # This is the label that represents tour step four of four
 ;4/4
 ৪/৪
@@ -207,6 +220,7 @@ Firefox ৰ বাবে ইয়াতকৈ ভাল সময় আৰু হো
 নতুন ৰূপাঙ্কণৰ বিষয়ে শিকক
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
 ই নতুন,<br> সংসিদ্ধ মেনুৰ সৈতে আৰম্ভ হয়
@@ -245,6 +259,7 @@ Firefox ৰ বাবে ইয়াতকৈ ভাল সময় আৰু হো
 
 
 # <br> tag below used for formatting only.
+# <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
 আপোনাৰ পছন্দৰ ছাইটসমূহ<br> আগতকৈ নিকট
 
@@ -261,6 +276,7 @@ Firefox ৰ বাবে ইয়াতকৈ ভাল সময় আৰু হো
 আপুনি কিধৰণৰ ৱেব বিচাৰে?
 
 
+# <br> tag below used for formatting only.
 # <br> tag below used for formatting only.
 ;It starts with the redesigned,<br> intuitive menu
 ই পুনৰ ৰূপাঙ্কিত,<br> সংসিদ্ধ মেনুৰ সৈতে আৰম্ভ কৰে
