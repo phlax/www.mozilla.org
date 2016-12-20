@@ -1,8 +1,3 @@
-## active ##
-## legal_update_201601 ##
-## NOTE: demo page is available at https://www-dev.allizom.org/about/legal/
-
-
 ;Legal
 Mentions légales
 
@@ -80,30 +75,36 @@ Signalez une violation de vos droits d’auteur ou de marques déposées.
 
 
 # Obsolete string
+# Obsolete string
 ;Report abuse of your copyrights and trademarks.
 Signalez la violation de vos droits d’auteur et de vos marques déposées.
 
 
+# Used in sub-pages to return to the main index https://www.mozilla.org/about/legal/
 # Used in sub-pages to return to the main index https://www.mozilla.org/about/legal/
 ;Back to Legal
 Retour aux mentions légales
 
 
 # Title for https://www.mozilla.org/about/legal/terms/mozilla/
+# Title for https://www.mozilla.org/about/legal/terms/mozilla/
 ;Websites & Communications Terms of Use
 Conditions d’utilisation des sites Web et Communications
 
 
+# Title for https://www.mozilla.org/about/legal/acceptable-use/
 # Title for https://www.mozilla.org/about/legal/acceptable-use/
 ;Acceptable Use Policy
 Politique d’utilisation acceptable
 
 
 # Title for https://www.mozilla.org/about/legal/terms/firefox-hello/
+# Title for https://www.mozilla.org/about/legal/terms/firefox-hello/
 ;Firefox Hello Terms of Service
 Conditions de service de Firefox Hello
 
 
+# Title for https://www.mozilla.org/about/legal/terms/services/
 # Title for https://www.mozilla.org/about/legal/terms/services/
 ;Firefox Cloud Services: Terms of Service
 Services en ligne de Firefox&nbsp;: conditions d’utilisation
