@@ -1,6 +1,3 @@
-## NOTE: demo page is available at https://www-dev.allizom.org/about/legal/
-
-
 ;Legal
 Laawol
 
@@ -78,30 +75,36 @@ Report infringement of your copyrights or trademarks.
 
 
 # Obsolete string
+# Obsolete string
 ;Report abuse of your copyrights and trademarks.
 Report abuse of your copyrights and trademarks.
 
 
+# Used in sub-pages to return to the main index https://www.mozilla.org/about/legal/
 # Used in sub-pages to return to the main index https://www.mozilla.org/about/legal/
 ;Back to Legal
 Back to Legal
 
 
 # Title for https://www.mozilla.org/about/legal/terms/mozilla/
+# Title for https://www.mozilla.org/about/legal/terms/mozilla/
 ;Websites & Communications Terms of Use
 Websites & Communications Terms of Use
 
 
+# Title for https://www.mozilla.org/about/legal/acceptable-use/
 # Title for https://www.mozilla.org/about/legal/acceptable-use/
 ;Acceptable Use Policy
 Acceptable Use Policy
 
 
 # Title for https://www.mozilla.org/about/legal/terms/firefox-hello/
+# Title for https://www.mozilla.org/about/legal/terms/firefox-hello/
 ;Firefox Hello Terms of Service
 Firefox Hello Terms of Service
 
 
+# Title for https://www.mozilla.org/about/legal/terms/services/
 # Title for https://www.mozilla.org/about/legal/terms/services/
 ;Firefox Cloud Services: Terms of Service
 Firefox Cloud Services: Terms of Service
