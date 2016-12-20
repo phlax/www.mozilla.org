@@ -1,15 +1,10 @@
-## active ##
-## firefox_accounts_promo ##
-## ios_promo ##
-## teach_the_web_promo ##
-## NOTE: demo server at https://www-dev.allizom.org/
-
-
+# Used as page title in HTML meta tag
 # Used as page title in HTML meta tag
 ;We’re building a better Internet
 Жақсырақ интернетті жасаудамыз
 
 
+# Used as page description in HTML meta tag
 # Used as page description in HTML meta tag
 ;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
 Сіз білдіңіз бе? Mozilla — Firefox жасаушысы — Интернетті әркім үшін ашық және қолжетерлік публикалық ресурс болғанын сақтау үшін күреседі.
@@ -44,6 +39,7 @@
 
 
 # Small tile. Link points to https://advocacy.mozilla.org
+# Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 Mozilla Advocacy туралы көбірек біліңіз
 
@@ -64,6 +60,7 @@ Mozilla пайдаланушыларына көмектесу
 Қолдау көрсету тобымызға мүше болыңыз
 
 
+# Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 # Small tile. Link points to https://www.mozilla.org/teach/smarton/tracking/
 ;Get smart on Tracking
 Бақылау туралы барлығын білу
@@ -90,10 +87,12 @@ iOS үшін Firefox алу
 
 
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Try Firefox Developer Edition
 Firefox Developer Edition қолданып көріңіз
 
 
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 ;Introducing Firefox Developer Edition
 Firefox Developer Edition ұсынылады
@@ -120,30 +119,36 @@ Mozilla өндіруші желісі
 
 
 # Used in Twitter feed
+# Used in Twitter feed
 ;Reply
 Жауап беру
 
 
+# Used in Twitter feed
 # Used in Twitter feed
 ;Retweet
 Қайта твиттеу
 
 
 # <strong> tags below are for visual formatting only.
+# <strong> tags below are for visual formatting only.
 ;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
 <strong>Сіз, сіздің жекелігіңіз</strong>, және <strong>ашық Интернет</strong> үшін жасалған
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians <br>worldwide
 белсенді Mozilla мүшесі <br>дүниежүзі бойынша
 
 
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events <br>around the globe
 келешек оқиға <br>дүниежүзі бойынша
 
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 # This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;languages and counting, <br>on every continent
 тіл бар, және саны өсіп жатыр, <br>әр континентте
@@ -185,6 +190,7 @@ Firefox және барлық Mozilla өнімдері туралы барлық
 Көбірек білу
 
 
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
 # This is used as a link to dismiss the video overlay and continue to mozilla.org website
 ;Continue to mozilla.org
 mozilla.org сайтына жалғастыру
