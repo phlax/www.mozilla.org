@@ -1,12 +1,10 @@
-## active ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/fast/
-
-
+# <title> tag
 # <title> tag
 ;Firefox — The "speed king" - The fastest browser on the Web
 Firefox "Roue an Tizh" - Merdeer herrekañ ar web
 
 
+# Main title
 # Main title
 ;Faster than ever
 Herrekoc'h eget biskoazh
@@ -17,6 +15,7 @@ Ar Firefox herrekañ eo evit poent.
 
 
 # L10n: Line break below is for wide screen formatting only.
+# L10n: Line break below is for wide screen formatting only.
 ;It excels at both technical benchmarks <br class="wide-br">and the everyday tasks that you do most.
 Dreist eo Firefox war ar bankoù prouadiñ kalvezel <br class="wide-br">keit hag evit an trevelloù pemdeziek a rit d'an aliesañ.
 
@@ -25,6 +24,7 @@ Dreist eo Firefox war ar bankoù prouadiñ kalvezel <br class="wide-br">keit hag
 "Roue an tizh"
 
 
+# L10n: Line break below is for wide screen formatting only.
 # L10n: Line break below is for wide screen formatting only.
 ;Firefox outperformed other browsers in recent independent tests to be named <br class="wide-br">the <a href="%(url1)s" data-interaction="outbound link">“speed king.”</a>
 Dreist merdeerioù all eo aet Firefox da geñver prouadoù dizalc'h ken ma vez graet <br class="wide-br"><a href="%(url1)s">roue an tizh</a> anezhañ.
@@ -58,6 +58,7 @@ Tizh a vez santet ganeoc'h
 Gwellekaat a reomp Firefox evit an doare ma rit internet evitañ.
 
 
+# L10n: Line breaks below are for wide screen formatting only.
 # L10n: Line breaks below are for wide screen formatting only.
 ;So things like opening or switching <br class="wide-br">between tabs and getting results from the Awesome Bar happen faster than ever.<br class="wide-br">
 Neuze, traoù evel digeriñ pe vont d'un ivinell d'eben <br class="wide-br">ha kaout disoc'hoù digant ar varrennad dispar a zegouezh buanoc'h eget biskoazh.<br class="wide-br">
