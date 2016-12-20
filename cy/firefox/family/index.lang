@@ -1,25 +1,22 @@
-## active ##
-## fx49_remove_hello ##
-## ios_product_tagline ##
-## tracking_protection ##
-## NOTE: demo page available at https://www-dev.allizom.org/firefox/products/
-
-
+# Title of the page (HTML meta tag)
 # Title of the page (HTML meta tag)
 ;Firefox – Desktop browser, Android, iOS, Sync, Private Browsing
 Firefox – Porwr bwrdd gwaith, Android, iOS, Sync, Pori Preifat
 
 
 # Obsolete title of the page (do not remove)
+# Obsolete title of the page (do not remove)
 ;Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing
 Firefox – Porwr bwrdd gwaith, Android, iOS, OS, Hello, Sync, Pori Preifat
 
 
 # Obsolete title of the page (do not remove)
+# Obsolete title of the page (do not remove)
 ;Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace
 Firefox — porwr bwrdd gwaith, Android, OS, Hello, Sync, Marketplace
 
 
+# Description of the page (HTML meta tag)
 # Description of the page (HTML meta tag)
 ;Learn more about our complete lineup of products for desktop and mobile browsing (and more) that help keep you in control online. Free yourself with Firefox.
 Dysgwch ragor am ein cyfres o gynnyrch ar gyfer pori ar y bwrdd gwaith a symudol (a rhagor) sy'n cynnig rheolaeth i chi ar-lein. Mae rhyddid ar gael gyda Firefox.
@@ -42,10 +39,12 @@ Dewiswch Firefox.
 
 
 # %s will be replaced by an image (Firefox wordmark)
+# %s will be replaced by an image (Firefox wordmark)
 ;Free yourself with %s
 Rhyddid gyda %s
 
 
+# <span> tag below adds visual style to "for" text
 # <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> desktop
 Firefox <span>ar gyfer</span> y bwrdd gwaith
@@ -55,6 +54,7 @@ Firefox <span>ar gyfer</span> y bwrdd gwaith
 Dibynadwy. Hyblyg. Cyflym.
 
 
+# <span> tag below adds visual style to "for" text
 # <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> Android
 Firefox <span>ar gyfer</span> Android
@@ -69,6 +69,7 @@ Estynnwch o Google Play
 
 
 # <span> tag below adds visual style to "for" text
+# <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> iOS
 Firefox <span>ar gyfer</span> iOS
 
@@ -77,6 +78,7 @@ Firefox <span>ar gyfer</span> iOS
 Cyflym. Clyfar. Chi.
 
 
+# Obsolete title, do not remove
 # Obsolete title, do not remove
 ;Get it on iPhones and iPads
 Mae ar gael ar yr iPhone a'r iPad
