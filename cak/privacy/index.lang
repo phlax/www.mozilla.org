@@ -1,0 +1,67 @@
+;Mozilla Privacy
+Mozilla ichinanem
+
+
+;Contact Mozilla
+Ch'ab'enïk Mozilla
+
+
+;If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+We nawajo' nachojmirisaj ri awetamab'al, o k'o ak'utunik pa ruwi' ri qana'ojil chuqa' qichinanem, tab'ana' utzil kach'ab'en rik'in:
+
+
+;Data Privacy Principles
+Ruk'u'x taq tzij chi kij ichinaxïk
+
+
+;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
+Ri Mozilla jun nuk'samaj chi rij jaqäl chi tzij, ri nrajo' chi nub'än rutzil ri asamaj pa k'amaya'l. Re re' jun achike ri nuyäk qak'u'x ruk'amon ri qasamaj chi rij ri richinaxik taq tzij. <a href="%(link)s">Tisik'ïx ch'aqa' chik</a>
+
+
+;Our Privacy Notices
+Ichinan qana'oj
+
+
+;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+Yeqanük' ko'öl chuqa' jeb'ël taq rutzijol Ichinanem richin nilitäj achi'el chi kijujunal ri taq qatikojil chuqa' taq samaj nikik'ül, nikikomonij chuqa' nikokisaj taq tzij chuqa' achike ri taq acha'oj. Tawetamaj ch'aqa' chik:
+
+
+;Mozilla Websites, Communications &amp; Cookies
+Mozilla taq ruxaq Ajk'amaya'l, taq Ch'owen &amp; taq Kaxlanwey
+
+
+;Firefox Browser
+Firefox Okik'amaya'l
+
+
+;Firefox Cloud Services
+Firefox Sutz' taq Samaj
+
+
+;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
+Richin yenik'öx chuqa' yetzijöx ri taq kexoj yeb'an pa kiwi' ri taq runa'ojil qichinanem <a href="%(group)s"> tatz'ib'aj ab'i' pa ri Mozilla Chanpomanil Molaj</a>.
+
+
+;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+Ri qasamaj niqab'än chi rij ri ichinanem mejon ruma ri <a href="%(blog)s">Ichinanem &amp; kijikomal taq tzij Ichinya'l</a> chuqa' ri etamab'äl chi rij ri qasamaj niqab'än k'o pa <a href="%(wiki)s">ruwiki ri rumolaj ichinanem richin Mozilla</a>.
+
+
+;Outdated Policies
+Rijläj taq Na'ojil
+
+
+# Used at the top of the page for navigation (breadcrumbs)
+;Home
+Tikirib'äl
+
+
+# Used in legal docs to collapse (hide) a paragraph
+;Show Less
+Jub'a' titz'et
+
+
+# Used in sub-pages to return to the main index https://www.mozilla.org/privacy
+;Back to Mozilla Privacy Policy
+Titzolin pa ri Ichinan Runa'oj Mozilla 
+
+
