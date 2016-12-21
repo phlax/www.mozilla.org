@@ -1,0 +1,128 @@
+# HTML Title
+;Get smart on the Web
+ওয়েবে দক্ষ হন
+
+
+# <b> element below is for visual formatting, to distinguish the Smart On name from the rest of the text
+;Get <b>Smart On</b> the Web
+Get <b>Smart On</b> the Web
+
+
+;The SmartOn Series is like your Internet owner’s manual: the place to learn the most useful intel and tips from Mozilla policy peeps and programmers.
+The SmartOn Series is like your Internet owner’s manual: the place to learn the most useful intel and tips from Mozilla policy peeps and programmers.
+
+
+;See all SmartOns
+সব SmartOns দেখুন
+
+
+# Used to navigate back to the landing page when inside one of the subpages.
+# Displayed on the top left corner, scroll down (hiding the main header) to display it.
+;SmartOn
+SmartOn
+
+
+;Tracking
+অনুসরণ
+
+
+;What you do online is your business, and you can keep it that way.
+What you do online is your business, and you can keep it that way.
+
+
+;Follow me
+আমাকে অনুসরণ করুন
+
+
+;Outfox the trackers
+tracker দের ধোঁকা দিন
+
+
+;Cyber security
+সাইবার নিরাপত্তা
+
+
+;Lock it down
+এটা লক ডাউন করুন
+
+
+;Look both ways, stay updated, and make sure your passwords are as buff as you are.
+Look both ways, stay updated, and make sure your passwords are as buff as you are.
+
+
+;Government surveillance
+সরকারি নজরদারি
+
+
+;Take a stand
+Take a stand
+
+
+;Decide where you think the line should be – and keep others from crossing it.
+Decide where you think the line should be – and keep others from crossing it.
+
+
+;Smarter by the step
+Smarter by the step
+
+
+;Ask
+জিজ্ঞাসা করুন
+
+
+;Know
+জানুন
+
+
+;Do
+করুন
+
+
+;Chat
+চ্যাট করুন
+
+
+;Ask yourself what you think, find out what you don’t know, take control of your experience. Then talk it out with your friends.
+Ask yourself what you think, find out what you don’t know, take control of your experience. Then talk it out with your friends.
+
+
+# <b> is for visual formatting. Used inside in the header when entering one of the pages
+;<b>1.</b> Ask
+<b>1.</b>জিজ্ঞাসা করুন
+
+
+# <b> is for visual formatting. Used inside in the header when entering one of the pages
+;<b>2.</b> Know
+<b>2.</b>জানুন
+
+
+# <b> is for visual formatting. Used inside in the header when entering one of the pages
+;<b>3.</b> Do
+<b>3.</b> করুন
+
+
+# <b> is for visual formatting. Used inside in the header when entering one of the pages
+;<b>4.</b> Chat
+<b>4.</b> চ্যাট করুন
+
+
+# Shared string across pages. Used as a label for button to tweet a statement
+;Tweet this
+টুইট করুন
+
+
+# Link points to https://teach.mozilla.org/clubs/
+;Connect with your community to explore topics related to privacy and tracking by joining or starting a <a href="{url}">Mozilla Club</a>.
+Connect with your community to explore topics related to privacy and tracking by joining or starting a <a href="{url}">Mozilla Club</a>.
+
+
+# Displayed in the footer when visiting the page with another browser
+;Take back control
+Take back control
+
+
+# Displayed in the footer when visiting the page with another browser
+;The non-profit browser by Mozilla
+The non-profit browser by Mozilla
+
+
