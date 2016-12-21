@@ -1,0 +1,40 @@
+;You’ve just been upgraded to Firefox Nightly %(version)s!
+অাপনি এইমাত্র Firefox Nightly %(version)s এ আপগ্রেড হয়েছেন!
+
+
+;Firefox Nightly
+Firefox Nightly {ok}
+
+
+;Every 6 to 8 weeks, a new major version of Firefox is released and as a result, the Nightly version increases as well.
+প্রতি 6 থেকে 8 সপ্তাহে, Firefox এর একটি নতুন প্রধান সংস্করণ প্রকাশ করা হয় এবং এর ফলে, Nightly সংস্করণ একইভাবে বৃদ্ধি পায়।
+
+
+;This is a good time to thank you for helping us make Firefox better and to give you some pointers to documentation, communication channels and news sites related to Firefox Nightly that may be of interest to you.
+This is a good time to thank you for helping us make Firefox better and to give you some pointers to documentation, communication channels and news sites related to Firefox Nightly that may be of interest to you.
+
+
+;If you want to know what’s happening around Nightly and its community, reading our <a href="%(blog)s">blog</a> and following us on <a href="%(twitter)s">Twitter</a> are good starting points!
+আপনি কি জানতে চান Nightly এবং এর কমিনিটিতে কি ঘটছে, তাহলে আমাদের <a href="%(blog)s">ব্লগ</a> পড়া এবং <a href="%(twitter)s">Twitter</a> এ আমাদের অনুসরণ করা ভালো সূচনা হবে।
+
+
+;Want to know which platform features you could test on Nightly and can’t see yet on other Firefox channels? Then have a look at the <a href="%(mdn)s">Experimental Features</a> page on <abbr title="Mozilla Developer Network">MDN</abbr>.
+আপনি কি জানতে চান কোন প্লাটফরমের ফিচারসমূহ Nightly তে পরখ করতে পারবেন এবং এখনও অন্য Firefox  চ্যানেল দেখতে পাননি? তাহলে <abbr title="Mozilla Developer Network">MDN</abbr> এর <a href="%(mdn)s">Experimental Features</a> পাতায় দেখতে পারেন।
+
+
+;Do you experience crashes? Unexpected behavior? Web compatibility regressions? We’d love to get them filed in <a href="%(bugzilla)s">Bugzilla</a> to make sure they don’t make it to the final release (extra karma if you add the <em>nightly-community</em> keyword to your bug reports)!
+Do you experience crashes? Unexpected behavior? Web compatibility regressions? We’d love to get them filed in <a href="%(bugzilla)s">Bugzilla</a> to make sure they don’t make it to the final release (extra karma if you add the <em>nightly-community</em> keyword to your bug reports)!
+
+
+;Would you be willing to help us triage unconfirmed bugs in Bugzilla? Then maybe <a href="%(triagebot)s">TriageBot</a> could be of interest to you.
+Would you be willing to help us triage unconfirmed bugs in Bugzilla? Then maybe <a href="%(triagebot)s">TriageBot</a> could be of interest to you.
+
+
+;You can also interact with the Nightly community on IRC in the <a href="%(irc)s">#nightly</a> channel. Feel free to ask questions and talk about features, regressions or crashes you may be experiencing.
+You can also interact with the Nightly community on IRC in the <a href="%(irc)s">#nightly</a> channel. Feel free to ask questions and talk about features, regressions or crashes you may be experiencing.
+
+
+;Go community!
+Go কমিউনিটি!
+
+
